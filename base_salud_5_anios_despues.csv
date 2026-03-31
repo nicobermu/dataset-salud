@@ -1,0 +1,1724 @@
+﻿id_usuario,edad,sexo,tipo_afiliacion,numero_consultas,eps,ciudad,costo_total,fecha_ultima_consulta,enfermedad_cronica,nivel_riesgo,hospitalizaciones,num_medicamentos,grupo_edad,alta_utilizacion
+1,56,F,Contributivo,2,Nueva EPS,Cali,803138,2030-01-28,Diabetes,Bajo,3,4,Adulto,Sí
+2,19,F,Contributivo,7,Coomeva,Bogotá,791632,2030-01-25,Cáncer,Medio,1,4,Joven adulto,No
+3,49,M,Contributivo,8,Sura,Medellín,1432523,2030-02-27,Recuperado,Medio,5,5,Adulto,Sí
+4,65,F,Contributivo,10,Nueva EPS,Barranquilla,1006213,2030-10-24,Cáncer,Bajo,1,5,Adulto mayor,Sí
+5,25,M,Subsidiado,6,Nueva EPS,Barranquilla,1174067,2030-05-14,Cáncer,Bajo,2,4,Joven adulto,No
+6,87,M,Contributivo,6,Coomeva,Bogotá,954481,2030-11-27,Recuperado,Bajo,3,1,Adulto mayor,Sí
+7,91,M,Contributivo,10,Sura,Barranquilla,1428258,2030-09-06,Cardiovasculares,Bajo,5,3,Adulto mayor,Sí
+8,79,M,Subsidiado,9,Sura,Cali,1022710,2030-02-07,Hipertension,Bajo,2,4,Adulto mayor,Sí
+9,79,F,Contributivo,6,Nueva EPS,Bogotá,964226,2030-03-16,Fallecido,Alto,5,3,Adulto mayor,Sí
+10,92,M,Contributivo,6,Sura,Bogotá,1004929,2030-05-22,Hipertension,Bajo,3,2,Adulto mayor,Sí
+11,28,M,Subsidiado,9,Nueva EPS,Cali,250436,2030-11-18,Cáncer,Medio,1,4,Joven adulto,Sí
+12,7,F,Subsidiado,6,Sura,Bogotá,1290286,2030-06-17,Cáncer,Alto,2,8,Menor de edad,Sí
+13,26,M,Subsidiado,10,Nueva EPS,Medellín,1313390,2030-09-16,Cáncer,Bajo,2,6,Joven adulto,Sí
+14,57,F,Contributivo,8,Nueva EPS,Barranquilla,939236,2030-03-10,Cáncer,Bajo,1,3,Adulto,Sí
+15,6,F,Subsidiado,2,Coomeva,Medellín,1285458,2030-08-13,Cáncer,Alto,4,5,Menor de edad,Sí
+16,92,F,Contributivo,8,Sura,Barranquilla,1365252,2030-06-01,Cardiovasculares,Medio,3,5,Adulto mayor,Sí
+17,34,M,Contributivo,2,Coomeva,Bogotá,416366,2030-01-19,Cáncer,Bajo,1,3,Adulto,No
+18,49,F,Subsidiado,8,Coomeva,Medellín,1095068,2030-03-10,Fallecido,Alto,3,4,Adulto,Sí
+19,6,F,Subsidiado,1,Coomeva,Bogotá,1329865,2030-08-29,Diabetes,Alto,2,7,Menor de edad,Sí
+20,68,M,Subsidiado,13,Sura,Barranquilla,710640,2030-12-10,Recuperado,Bajo,0,4,Adulto mayor,Sí
+21,64,F,Subsidiado,8,Sanitas,Cali,1389941,2030-08-25,Diabetes,Bajo,3,3,Adulto mayor,Sí
+22,25,F,Contributivo,8,Sura,Cali,595153,2030-02-04,Cáncer,Bajo,2,3,Joven adulto,Sí
+23,37,F,Contributivo,5,Sanitas,Medellín,1467744,2030-07-09,Cáncer,Alto,4,2,Adulto,Sí
+24,80,F,Subsidiado,13,Coomeva,Bogotá,1245682,2030-01-01,Cáncer,Bajo,3,4,Adulto mayor,Sí
+26,26,M,Subsidiado,2,Sanitas,Medellín,1071770,2030-05-06,Cáncer,Bajo,1,5,Joven adulto,No
+27,93,F,Contributivo,14,Sanitas,Cali,897188,2030-12-11,Hipertension,Medio,1,4,Adulto mayor,Sí
+28,53,F,Contributivo,6,Sanitas,Barranquilla,759838,2030-08-14,Cáncer,Bajo,1,4,Adulto,No
+29,95,M,Contributivo,6,Sura,Medellín,1191167,2030-08-09,Fallecido,Alto,1,3,Adulto mayor,Sí
+30,63,M,Subsidiado,3,Coomeva,Barranquilla,1655527,2030-07-30,Cáncer,Alto,5,8,Adulto mayor,Sí
+31,46,M,Contributivo,0,Sura,Cali,614203,2030-01-25,Cardiovasculares,Bajo,1,4,Adulto,No
+32,64,F,Subsidiado,13,Sura,Bogotá,1205408,2030-01-16,Hipertension,Medio,3,7,Adulto mayor,Sí
+33,84,M,Contributivo,7,Coomeva,Cali,1094079,2030-07-01,Cáncer,Bajo,2,3,Adulto mayor,No
+34,19,F,Subsidiado,3,Sanitas,Medellín,1168867,2030-11-25,Diabetes,Bajo,2,8,Joven adulto,Sí
+35,49,F,Subsidiado,5,Sura,Bogotá,886782,2030-05-09,Recuperado,Bajo,0,2,Adulto,No
+36,66,M,Contributivo,9,Sura,Bogotá,1041215,2030-02-11,Cardiovasculares,Medio,2,2,Adulto mayor,Sí
+37,51,M,Contributivo,7,Coomeva,Medellín,886930,2030-12-02,Diabetes,Bajo,2,6,Adulto,Sí
+38,66,F,Subsidiado,6,Sura,Cali,1158908,2030-08-24,Cáncer,Bajo,2,2,Adulto mayor,No
+39,55,M,Contributivo,7,Sura,Medellín,584261,2030-12-26,Diabetes,Bajo,1,2,Adulto,No
+40,59,F,Subsidiado,6,Nueva EPS,Cali,344402,2030-03-10,Recuperado,Bajo,1,3,Adulto,No
+42,7,F,Subsidiado,5,Nueva EPS,Cali,931470,2030-02-14,Recuperado,Bajo,1,6,Menor de edad,Sí
+43,55,M,Subsidiado,8,Sura,Bogotá,256504,2030-05-14,Recuperado,Bajo,1,1,Adulto,Sí
+44,11,F,Subsidiado,2,Coomeva,Cali,720647,2030-01-21,Recuperado,Medio,3,3,Menor de edad,Sí
+45,25,M,Contributivo,6,Coomeva,Barranquilla,1352828,2030-05-02,Recuperado,Bajo,2,0,Joven adulto,Sí
+46,77,F,Contributivo,4,Coomeva,Barranquilla,1848513,2030-03-10,Hipertension,Alto,2,7,Adulto mayor,Sí
+47,49,F,Contributivo,7,Coomeva,Medellín,1045068,2030-12-18,Recuperado,Medio,1,2,Adulto,No
+48,22,F,Contributivo,3,Nueva EPS,Cali,916732,2030-12-27,Recuperado,Bajo,3,0,Joven adulto,Sí
+49,8,F,Subsidiado,3,Sanitas,Cali,868166,2030-02-17,Hipertension,Bajo,1,3,Menor de edad,No
+50,93,M,Contributivo,8,Sura,Bogotá,1777840,2030-02-08,Cáncer,Bajo,4,1,Adulto mayor,Sí
+51,64,F,Subsidiado,8,Nueva EPS,Medellín,895944,2030-10-14,Cáncer,Medio,2,0,Adulto mayor,Sí
+52,18,F,Contributivo,6,Sanitas,Cali,626516,2030-01-10,Cáncer,Medio,1,5,Joven adulto,No
+53,13,M,Subsidiado,7,Nueva EPS,Medellín,1198512,2030-01-30,Cardiovasculares,Bajo,4,5,Menor de edad,Sí
+54,94,F,Subsidiado,6,Coomeva,Barranquilla,844322,2030-09-01,Fallecido,Alto,3,6,Adulto mayor,Sí
+56,6,F,Subsidiado,7,Coomeva,Cali,1501038,2030-03-29,Cáncer,Medio,1,0,Menor de edad,Sí
+57,88,M,Subsidiado,5,Coomeva,Medellín,954494,2030-09-01,Cáncer,Medio,0,3,Adulto mayor,No
+58,64,F,Subsidiado,7,Sura,Cali,904894,2030-11-25,Cáncer,Bajo,2,7,Adulto mayor,Sí
+59,75,M,Contributivo,6,Nueva EPS,Medellín,1020269,2030-01-15,Cáncer,Bajo,3,4,Adulto mayor,Sí
+60,48,F,Contributivo,10,Sura,Cali,514736,2030-01-04,Cáncer,Bajo,1,2,Adulto,Sí
+61,12,F,Subsidiado,4,Nueva EPS,Bogotá,1204848,2030-07-10,Recuperado,Bajo,1,5,Menor de edad,Sí
+62,51,M,Contributivo,4,Nueva EPS,Medellín,934207,2030-06-17,Cáncer,Alto,1,4,Adulto,No
+63,39,M,Contributivo,5,Sura,Cali,1064273,2030-01-09,Hipertension,Bajo,3,3,Adulto,Sí
+64,82,M,Contributivo,8,Sura,Barranquilla,2471377,2030-04-19,Recuperado,Bajo,3,2,Adulto mayor,Sí
+65,85,F,Contributivo,9,Nueva EPS,Cali,1447186,2030-05-17,Cáncer,Bajo,3,4,Adulto mayor,Sí
+66,40,F,Contributivo,7,Sanitas,Barranquilla,951932,2030-06-03,Cáncer,Medio,4,5,Adulto,Sí
+67,54,F,Contributivo,5,Coomeva,Barranquilla,710396,2030-07-28,Cáncer,Medio,1,1,Adulto,No
+68,8,M,Subsidiado,7,Sura,Bogotá,1479595,2030-09-29,Diabetes,Bajo,1,5,Menor de edad,Sí
+69,6,F,Subsidiado,6,Coomeva,Medellín,1171297,2030-05-23,Hipertension,Bajo,1,5,Menor de edad,No
+70,10,M,Subsidiado,4,Sanitas,Cali,624627,2030-04-09,Recuperado,Medio,2,3,Menor de edad,No
+71,58,M,Subsidiado,12,Sanitas,Bogotá,1225341,2030-11-04,Cáncer,Bajo,2,5,Adulto,Sí
+72,8,F,Subsidiado,9,Sanitas,Cali,878480,2030-03-10,Fallecido,Alto,1,4,Menor de edad,Sí
+73,58,F,Contributivo,5,Sura,Barranquilla,1491176,2030-09-04,Diabetes,Bajo,2,5,Adulto,Sí
+74,67,F,Contributivo,8,Sanitas,Medellín,1215184,2030-09-18,Cáncer,Alto,2,2,Adulto mayor,Sí
+1,22,F,Subsidiado,4,Nueva EPS,Bogotá,1287475,2030-12-11,Diabetes,Alto,2,5,Joven adulto,Sí
+76,94,F,Contributivo,8,Sanitas,Cali,1801034,2030-03-20,Cáncer,Bajo,5,3,Adulto mayor,Sí
+77,48,F,Subsidiado,7,Coomeva,Bogotá,1188454,2030-05-26,Cáncer,Alto,3,3,Adulto,Sí
+78,38,F,Contributivo,3,Coomeva,Cali,1664857,2030-04-21,Hipertension,Bajo,6,1,Adulto,Sí
+79,78,M,Subsidiado,7,Nueva EPS,Cali,1129139,2030-09-15,Hipertension,Bajo,2,4,Adulto mayor,No
+80,49,M,Contributivo,11,Coomeva,Barranquilla,887748,2030-04-03,Cáncer,Alto,2,1,Adulto,Sí
+81,18,M,Contributivo,0,Nueva EPS,Bogotá,651514,2030-03-10,Cardiovasculares,Bajo,2,5,Joven adulto,No
+82,49,M,Subsidiado,8,Sura,Barranquilla,1478941,2030-09-17,Cáncer,Bajo,2,5,Adulto,Sí
+83,49,M,Contributivo,7,Sura,Bogotá,1213034,2030-04-19,Recuperado,Bajo,4,1,Adulto,Sí
+84,76,F,Contributivo,8,Coomeva,Medellín,1007504,2030-11-26,Cáncer,Medio,2,3,Adulto mayor,Sí
+85,82,M,Contributivo,10,Nueva EPS,Bogotá,872919,2030-03-10,Hipertension,Bajo,3,7,Adulto mayor,Sí
+86,91,F,Contributivo,9,Nueva EPS,Bogotá,1539936,2030-04-05,Cardiovasculares,Bajo,4,4,Adulto mayor,Sí
+87,66,M,Contributivo,3,Sanitas,Medellín,1790041,2030-04-15,Recuperado,Bajo,2,6,Adulto mayor,Sí
+89,89,M,Contributivo,12,Coomeva,Barranquilla,1285402,2030-03-08,Fallecido,Alto,2,6,Adulto mayor,Sí
+90,84,M,Subsidiado,7,Sanitas,Bogotá,1705921,2030-07-10,Fallecido,Alto,2,3,Adulto mayor,Sí
+91,86,M,Subsidiado,11,Coomeva,Medellín,900458,2030-09-13,Recuperado,Bajo,1,2,Adulto mayor,Sí
+93,28,F,Contributivo,4,Sanitas,Medellín,635871,2030-03-10,Hipertension,Alto,2,4,Joven adulto,No
+94,49,M,Subsidiado,9,Sanitas,Bogotá,1469610,2030-03-10,Cáncer,Medio,4,4,Adulto,Sí
+95,49,F,Contributivo,7,Sanitas,Cali,1130233,2030-04-09,Cardiovasculares,Bajo,4,3,Adulto,Sí
+96,64,F,Subsidiado,9,Sanitas,Cali,1420553,2030-10-25,Cáncer,Alto,4,8,Adulto mayor,Sí
+97,45,F,Subsidiado,11,Sanitas,Medellín,1251132,2030-06-13,Cáncer,Medio,1,7,Adulto,Sí
+98,33,F,Subsidiado,1,Coomeva,Medellín,1666971,2030-03-10,Diabetes,Medio,3,4,Adulto,Sí
+99,19,F,Contributivo,7,Sanitas,Medellín,1246194,2030-03-10,Diabetes,Medio,2,6,Joven adulto,Sí
+100,49,F,Subsidiado,6,Sura,Cali,1379574,2030-02-06,Diabetes,Bajo,4,4,Adulto,Sí
+101,69,F,Contributivo,5,Nueva EPS,Cali,990385,2030-03-15,Cáncer,Bajo,2,6,Adulto mayor,Sí
+102,49,F,Subsidiado,8,Sanitas,Bogotá,1066543,2030-03-14,Cardiovasculares,Medio,1,7,Adulto,Sí
+103,75,M,Subsidiado,12,Sanitas,Bogotá,1428786,2030-11-04,Fallecido,Alto,3,3,Adulto mayor,Sí
+104,13,M,Subsidiado,7,Coomeva,Bogotá,826688,2030-07-18,Cáncer,Bajo,1,3,Menor de edad,No
+105,92,M,Subsidiado,8,Sanitas,Barranquilla,1075194,2030-05-10,Cáncer,Medio,2,1,Adulto mayor,Sí
+106,49,M,Contributivo,9,Sanitas,Bogotá,1380320,2030-09-03,Diabetes,Medio,2,7,Adulto,Sí
+107,12,M,Subsidiado,9,Sanitas,Cali,930811,2030-11-08,Cardiovasculares,Bajo,3,3,Menor de edad,Sí
+108,92,M,Contributivo,10,Sura,Cali,1604139,2030-03-01,Recuperado,Bajo,0,4,Adulto mayor,Sí
+109,67,M,Contributivo,8,Sanitas,Cali,1588669,2030-10-06,Hipertension,Alto,3,3,Adulto mayor,Sí
+111,85,F,Contributivo,6,Coomeva,Barranquilla,636602,2030-10-23,Cáncer,Bajo,5,0,Adulto mayor,Sí
+112,12,F,Subsidiado,2,Sura,Bogotá,657141,2030-11-16,Cáncer,Bajo,1,5,Menor de edad,No
+113,39,F,Subsidiado,5,Coomeva,Medellín,1192264,2030-12-07,Cáncer,Bajo,1,2,Adulto,No
+114,39,M,Subsidiado,10,Sanitas,Bogotá,1220675,2030-05-31,Cáncer,Bajo,2,3,Adulto,Sí
+115,37,M,Subsidiado,1,Nueva EPS,Bogotá,586729,2030-06-06,Diabetes,Bajo,2,7,Adulto,Sí
+116,9,M,Subsidiado,5,Coomeva,Medellín,1004490,2030-03-10,Diabetes,Bajo,2,4,Menor de edad,No
+117,45,M,Subsidiado,11,Sura,Bogotá,1435735,2030-06-28,Recuperado,Bajo,1,5,Adulto,Sí
+118,32,F,Contributivo,9,Sanitas,Barranquilla,1281748,2030-07-16,Cáncer,Alto,2,2,Adulto,Sí
+120,77,M,Subsidiado,8,Sura,Barranquilla,978275,2030-03-30,Recuperado,Bajo,1,3,Adulto mayor,Sí
+121,76,M,Contributivo,6,Coomeva,Barranquilla,804610,2030-10-14,Recuperado,Bajo,1,0,Adulto mayor,No
+122,16,M,Subsidiado,6,Sura,Barranquilla,913781,2030-03-10,Hipertension,Bajo,3,6,Menor de edad,Sí
+123,38,M,Contributivo,8,Sanitas,Cali,962882,2030-08-24,Diabetes,Alto,2,5,Adulto,Sí
+125,52,M,Contributivo,10,Sura,Medellín,1845580,2030-03-10,Cardiovasculares,Bajo,4,4,Adulto,Sí
+126,27,M,Subsidiado,6,Coomeva,Medellín,1641967,2030-05-10,Recuperado,Bajo,2,5,Joven adulto,Sí
+127,66,M,Contributivo,13,Sanitas,Bogotá,1367378,2030-06-02,Cáncer,Bajo,3,5,Adulto mayor,Sí
+128,92,M,Subsidiado,11,Sura,Cali,1086146,2030-01-13,Diabetes,Medio,2,1,Adulto mayor,Sí
+129,41,F,Contributivo,4,Coomeva,Cali,976243,2030-05-02,Cáncer,Bajo,2,3,Adulto,No
+130,48,M,Contributivo,3,Coomeva,Barranquilla,888487,2030-12-25,Hipertension,Alto,2,3,Adulto,No
+131,90,M,Subsidiado,8,Coomeva,Bogotá,746455,2030-08-08,Fallecido,Alto,3,7,Adulto mayor,Sí
+132,95,F,Subsidiado,8,Sura,Bogotá,1299025,2030-04-16,Cardiovasculares,Medio,2,3,Adulto mayor,Sí
+133,39,F,Contributivo,6,Sura,Medellín,680070,2030-03-11,Diabetes,Bajo,2,4,Adulto,No
+134,69,F,Subsidiado,14,Sura,Bogotá,1914456,2030-07-14,Cáncer,Medio,4,6,Adulto mayor,Sí
+135,51,M,Contributivo,8,Nueva EPS,Cali,886981,2030-07-05,Hipertension,Medio,1,2,Adulto,Sí
+136,49,M,Contributivo,5,Sura,Bogotá,1239243,2030-04-09,Recuperado,Bajo,2,3,Adulto,Sí
+139,9,F,Subsidiado,12,Nueva EPS,Bogotá,1205632,2030-12-06,Fallecido,Alto,5,7,Menor de edad,Sí
+140,94,F,Contributivo,8,Sura,Medellín,973208,2030-07-11,Cáncer,Bajo,3,1,Adulto mayor,Sí
+141,18,F,Subsidiado,7,Sura,Barranquilla,1276412,2030-11-21,Hipertension,Alto,3,3,Joven adulto,Sí
+143,13,M,Subsidiado,4,Coomeva,Medellín,1314768,2030-11-11,Cáncer,Bajo,3,1,Menor de edad,Sí
+144,83,M,Contributivo,6,Coomeva,Bogotá,1440207,2030-11-14,Cáncer,Bajo,2,4,Adulto mayor,Sí
+145,19,M,Contributivo,8,Coomeva,Bogotá,868052,2030-05-24,Recuperado,Bajo,2,1,Joven adulto,Sí
+146,94,F,Contributivo,10,Nueva EPS,Barranquilla,1030133,2030-03-10,Hipertension,Alto,4,2,Adulto mayor,Sí
+147,49,F,Contributivo,7,Nueva EPS,Bogotá,1306256,2030-12-27,Fallecido,Alto,2,4,Adulto,Sí
+149,55,F,Contributivo,9,Sura,Medellín,1215543,2030-01-15,Cáncer,Alto,3,4,Adulto,Sí
+150,67,F,Contributivo,6,Coomeva,Cali,1068349,2030-08-05,Diabetes,Bajo,0,1,Adulto mayor,No
+151,56,F,Contributivo,10,Nueva EPS,Bogotá,1258849,2030-03-10,Cáncer,Medio,0,2,Adulto,Sí
+152,8,M,Subsidiado,4,Nueva EPS,Cali,1417125,2030-07-02,Hipertension,Bajo,1,3,Menor de edad,Sí
+153,27,M,Contributivo,8,Sura,Bogotá,1356102,2030-09-27,Cáncer,Bajo,2,4,Joven adulto,Sí
+154,19,F,Subsidiado,7,Nueva EPS,Bogotá,845692,2030-12-24,Diabetes,Medio,1,3,Joven adulto,No
+155,47,F,Contributivo,7,Sura,Barranquilla,1180236,2030-04-10,Cáncer,Bajo,1,3,Adulto,No
+156,33,F,Subsidiado,4,Sanitas,Barranquilla,1525309,2030-01-07,Hipertension,Bajo,4,5,Adulto,Sí
+157,40,M,Subsidiado,10,Nueva EPS,Barranquilla,1197710,2030-01-30,Hipertension,Alto,2,5,Adulto,Sí
+158,17,F,Subsidiado,2,Sanitas,Bogotá,561325,2030-11-01,Cáncer,Bajo,1,7,Menor de edad,Sí
+159,36,F,Subsidiado,8,Sura,Medellín,1645066,2030-05-24,Hipertension,Alto,4,2,Adulto,Sí
+160,75,M,Contributivo,6,Coomeva,Bogotá,917278,2030-04-21,Diabetes,Alto,2,5,Adulto mayor,No
+161,63,M,Subsidiado,10,Nueva EPS,Bogotá,446700,2030-08-20,Cáncer,Bajo,2,5,Adulto mayor,Sí
+162,90,F,Contributivo,12,Sura,Bogotá,1189822,2030-03-10,Fallecido,Alto,4,3,Adulto mayor,Sí
+163,32,F,Contributivo,8,Coomeva,Cali,819905,2030-03-13,Cáncer,Medio,0,4,Adulto,Sí
+164,70,M,Contributivo,10,Coomeva,Barranquilla,1207211,2030-07-29,Hipertension,Bajo,2,2,Adulto mayor,Sí
+165,46,M,Contributivo,8,Sanitas,Medellín,844907,2030-08-08,Hipertension,Bajo,0,2,Adulto,Sí
+166,49,F,Contributivo,8,Sura,Cali,1229752,2030-03-21,Cáncer,Medio,1,6,Adulto,Sí
+167,66,M,Contributivo,11,Coomeva,Barranquilla,1250743,2030-03-24,Diabetes,Bajo,2,4,Adulto mayor,Sí
+168,61,F,Contributivo,4,Nueva EPS,Cali,839177,2030-02-11,Cáncer,Alto,2,5,Adulto mayor,No
+169,49,F,Contributivo,0,Sura,Medellín,940942,2030-09-30,Cardiovasculares,Bajo,1,4,Adulto,No
+170,32,F,Subsidiado,7,Sanitas,Barranquilla,923035,2030-03-10,Diabetes,Bajo,2,0,Adulto,No
+171,32,F,Contributivo,10,Sura,Bogotá,1552398,2030-06-22,Cardiovasculares,Bajo,4,3,Adulto,Sí
+172,48,M,Contributivo,11,Sura,Medellín,1220964,2030-01-07,Diabetes,Alto,2,5,Adulto,Sí
+173,88,M,Subsidiado,9,Nueva EPS,Bogotá,861518,2030-06-04,Fallecido,Alto,5,6,Adulto mayor,Sí
+174,34,M,Subsidiado,8,Coomeva,Medellín,1290062,2030-01-10,Hipertension,Alto,1,6,Adulto,Sí
+176,79,M,Contributivo,9,Sanitas,Cali,1693957,2030-02-05,Cáncer,Bajo,5,5,Adulto mayor,Sí
+177,93,M,Contributivo,10,Nueva EPS,Bogotá,1188659,2030-01-06,Fallecido,Alto,4,2,Adulto mayor,Sí
+178,66,F,Contributivo,7,Nueva EPS,Barranquilla,1841035,2030-08-03,Hipertension,Bajo,2,6,Adulto mayor,Sí
+179,5,F,Subsidiado,9,Sura,Cali,1089150,2030-05-14,Hipertension,Medio,2,1,Menor de edad,Sí
+180,31,M,Subsidiado,10,Nueva EPS,Barranquilla,853837,2030-10-12,Cáncer,Medio,0,5,Adulto,Sí
+181,66,F,Subsidiado,6,Sura,Barranquilla,937784,2030-05-06,Cáncer,Bajo,2,7,Adulto mayor,Sí
+182,81,F,Contributivo,6,Nueva EPS,Bogotá,1322277,2030-12-03,Cáncer,Alto,5,1,Adulto mayor,Sí
+184,74,M,Contributivo,5,Nueva EPS,Bogotá,480205,2030-06-01,Cáncer,Alto,2,3,Adulto mayor,No
+185,76,F,Contributivo,9,Sura,Bogotá,636254,2030-11-27,Recuperado,Bajo,1,6,Adulto mayor,Sí
+186,31,M,Contributivo,4,Sura,Cali,518672,2030-01-26,Cáncer,Bajo,1,3,Adulto,No
+188,49,M,Contributivo,11,Nueva EPS,Bogotá,1762991,2030-10-11,Recuperado,Bajo,1,6,Adulto,Sí
+190,55,M,Subsidiado,5,Sanitas,Cali,949431,2030-06-15,Cardiovasculares,Bajo,2,5,Adulto,No
+191,48,M,Contributivo,9,Nueva EPS,Medellín,995366,2030-07-08,Cáncer,Bajo,0,5,Adulto,Sí
+192,28,F,Contributivo,9,Nueva EPS,Bogotá,1601849,2030-03-19,Fallecido,Alto,2,5,Joven adulto,Sí
+193,83,M,Subsidiado,3,Sura,Medellín,689110,2030-03-31,Recuperado,Bajo,2,3,Adulto mayor,No
+194,63,F,Contributivo,9,Nueva EPS,Bogotá,1268099,2030-03-10,Cáncer,Alto,4,6,Adulto mayor,Sí
+196,92,M,Subsidiado,5,Sanitas,Medellín,1363944,2030-02-23,Recuperado,Bajo,4,1,Adulto mayor,Sí
+198,66,F,Contributivo,8,Coomeva,Barranquilla,1016007,2030-12-25,Diabetes,Bajo,0,7,Adulto mayor,Sí
+199,62,M,Subsidiado,11,Sura,Medellín,421482,2030-08-10,Recuperado,Bajo,2,0,Adulto mayor,Sí
+200,56,F,Subsidiado,13,Nueva EPS,Bogotá,1434308,2030-03-10,Cáncer,Bajo,2,1,Adulto,Sí
+201,16,F,Subsidiado,5,Nueva EPS,Bogotá,937518,2030-11-24,Cardiovasculares,Bajo,3,3,Menor de edad,Sí
+202,43,M,Contributivo,6,Coomeva,Bogotá,533892,2030-03-10,Cáncer,Bajo,3,4,Adulto,Sí
+203,6,M,Subsidiado,1,Nueva EPS,Cali,1299316,2030-10-03,Recuperado,Bajo,3,2,Menor de edad,Sí
+204,7,M,Subsidiado,7,Sura,Cali,1318951,2030-04-22,Cáncer,Medio,1,6,Menor de edad,Sí
+205,60,F,Subsidiado,3,Coomeva,Bogotá,730071,2030-03-10,Cáncer,Medio,1,2,Adulto mayor,No
+206,85,M,Subsidiado,8,Sura,Bogotá,1255479,2030-08-02,Fallecido,Alto,4,5,Adulto mayor,Sí
+207,63,F,Contributivo,3,Coomeva,Cali,1426251,2030-02-28,Cáncer,Medio,3,2,Adulto mayor,Sí
+208,6,F,Subsidiado,4,Coomeva,Barranquilla,1530488,2030-11-23,Hipertension,Bajo,3,5,Menor de edad,Sí
+209,6,F,Subsidiado,1,Sanitas,Medellín,1397048,2030-04-19,Cáncer,Alto,2,1,Menor de edad,Sí
+211,91,F,Contributivo,6,Nueva EPS,Bogotá,1056343,2030-07-10,Recuperado,Bajo,0,0,Adulto mayor,No
+212,5,F,Subsidiado,5,Nueva EPS,Cali,597604,2030-07-19,Recuperado,Bajo,3,4,Menor de edad,Sí
+213,23,F,Subsidiado,5,Sura,Medellín,1044924,2030-03-10,Diabetes,Alto,2,7,Joven adulto,Sí
+214,6,M,Subsidiado,2,Nueva EPS,Cali,865890,2030-07-15,Cáncer,Medio,4,7,Menor de edad,Sí
+215,57,M,Contributivo,10,Nueva EPS,Medellín,2054739,2030-02-04,Hipertension,Alto,4,2,Adulto,Sí
+216,48,F,Contributivo,9,Sura,Medellín,1317500,2030-09-03,Cáncer,Bajo,4,5,Adulto,Sí
+217,94,F,Subsidiado,3,Coomeva,Medellín,1102282,2030-08-25,Hipertension,Bajo,3,5,Adulto mayor,Sí
+218,36,M,Contributivo,6,Sura,Bogotá,820198,2030-04-14,Cáncer,Bajo,1,4,Adulto,No
+219,74,F,Contributivo,9,Coomeva,Barranquilla,1217955,2030-03-10,Hipertension,Medio,3,7,Adulto mayor,Sí
+220,36,M,Contributivo,10,Nueva EPS,Cali,2191615,2030-10-10,Cáncer,Alto,5,4,Adulto,Sí
+221,72,M,Contributivo,5,Nueva EPS,Barranquilla,960825,2030-01-01,Hipertension,Alto,2,3,Adulto mayor,No
+222,59,M,Subsidiado,4,Nueva EPS,Cali,991075,2030-08-07,Recuperado,Bajo,1,1,Adulto,No
+223,79,F,Contributivo,9,Sanitas,Medellín,1017043,2030-08-18,Cardiovasculares,Bajo,3,5,Adulto mayor,Sí
+224,60,F,Contributivo,8,Coomeva,Bogotá,612610,2030-06-21,Fallecido,Alto,2,6,Adulto mayor,Sí
+225,21,M,Subsidiado,5,Sanitas,Barranquilla,811733,2030-03-28,Recuperado,Bajo,1,1,Joven adulto,No
+226,42,M,Contributivo,9,Sanitas,Bogotá,892058,2030-02-10,Cáncer,Bajo,1,1,Adulto,Sí
+227,28,M,Contributivo,9,Sura,Cali,921933,2030-05-03,Cáncer,Bajo,1,3,Joven adulto,Sí
+228,73,M,Subsidiado,11,Sanitas,Bogotá,936261,2030-11-27,Fallecido,Alto,3,5,Adulto mayor,Sí
+229,74,M,Contributivo,10,Sura,Bogotá,674634,2030-10-25,Cardiovasculares,Medio,2,4,Adulto mayor,Sí
+231,15,M,Subsidiado,6,Sanitas,Medellín,678589,2030-03-10,Cáncer,Bajo,3,7,Menor de edad,Sí
+232,20,F,Contributivo,7,Coomeva,Bogotá,1450669,2030-06-14,Cáncer,Alto,2,4,Joven adulto,Sí
+233,77,M,Contributivo,6,Coomeva,Medellín,1118594,2030-07-06,Recuperado,Bajo,3,3,Adulto mayor,Sí
+234,63,F,Subsidiado,5,Coomeva,Cali,1006787,2030-03-10,Cáncer,Bajo,1,6,Adulto mayor,Sí
+235,74,F,Subsidiado,6,Coomeva,Bogotá,1101990,2030-08-15,Hipertension,Bajo,4,6,Adulto mayor,Sí
+237,7,F,Subsidiado,5,Sanitas,Cali,975452,2030-08-12,Recuperado,Bajo,1,3,Menor de edad,No
+238,49,F,Subsidiado,8,Sanitas,Cali,1358840,2030-01-03,Recuperado,Bajo,0,3,Adulto,Sí
+239,63,F,Contributivo,6,Nueva EPS,Barranquilla,413377,2030-06-24,Diabetes,Medio,1,3,Adulto mayor,No
+240,40,M,Contributivo,7,Coomeva,Bogotá,923043,2030-04-09,Cáncer,Bajo,0,7,Adulto,Sí
+242,94,M,Contributivo,10,Nueva EPS,Bogotá,1167456,2030-09-27,Cáncer,Bajo,2,3,Adulto mayor,Sí
+243,71,F,Subsidiado,11,Sura,Bogotá,1625906,2030-09-10,Cardiovasculares,Medio,6,6,Adulto mayor,Sí
+244,23,F,Subsidiado,9,Sura,Medellín,1060930,2030-03-10,Hipertension,Bajo,3,4,Joven adulto,Sí
+245,24,M,Contributivo,4,Nueva EPS,Barranquilla,862659,2030-04-05,Hipertension,Bajo,0,6,Joven adulto,Sí
+246,75,F,Subsidiado,6,Sanitas,Medellín,912693,2030-09-30,Diabetes,Bajo,3,0,Adulto mayor,Sí
+247,56,M,Contributivo,6,Sura,Bogotá,1428927,2030-01-24,Cáncer,Alto,3,6,Adulto,Sí
+248,37,M,Contributivo,7,Sura,Cali,1195656,2030-04-26,Recuperado,Medio,2,3,Adulto,No
+250,43,M,Contributivo,11,Nueva EPS,Bogotá,1052314,2030-12-04,Fallecido,Alto,4,2,Adulto,Sí
+251,86,F,Subsidiado,9,Sanitas,Bogotá,1042935,2030-02-19,Hipertension,Medio,3,4,Adulto mayor,Sí
+252,5,F,Subsidiado,9,Sura,Cali,941997,2030-07-25,Recuperado,Medio,5,4,Menor de edad,Sí
+253,15,M,Subsidiado,6,Coomeva,Cali,338396,2030-12-01,Cáncer,Bajo,0,5,Menor de edad,No
+254,61,F,Contributivo,7,Sura,Medellín,748196,2030-03-20,Cáncer,Medio,4,3,Adulto mayor,Sí
+255,93,F,Contributivo,9,Sura,Barranquilla,1139538,2030-03-11,Cáncer,Bajo,3,2,Adulto mayor,Sí
+256,54,F,Subsidiado,7,Nueva EPS,Barranquilla,1169804,2030-01-27,Cáncer,Bajo,1,1,Adulto,No
+257,27,F,Contributivo,3,Nueva EPS,Cali,563387,2030-09-28,Cardiovasculares,Alto,3,5,Joven adulto,Sí
+258,35,M,Subsidiado,7,Sanitas,Medellín,1250664,2030-02-19,Recuperado,Bajo,3,3,Adulto,Sí
+260,11,F,Subsidiado,5,Nueva EPS,Cali,1088282,2030-09-04,Cáncer,Bajo,2,0,Menor de edad,No
+261,49,F,Subsidiado,4,Sura,Bogotá,1528410,2030-03-10,Cáncer,Medio,1,7,Adulto,Sí
+262,94,F,Contributivo,5,Sanitas,Barranquilla,1301392,2030-03-20,Cáncer,Medio,0,3,Adulto mayor,Sí
+263,64,M,Subsidiado,4,Sura,Medellín,951475,2030-07-09,Fallecido,Alto,2,3,Adulto mayor,Sí
+264,6,M,Subsidiado,6,Sura,Medellín,745929,2030-02-16,Hipertension,Alto,1,7,Menor de edad,Sí
+265,5,F,Subsidiado,9,Nueva EPS,Medellín,530848,2030-12-27,Recuperado,Bajo,3,3,Menor de edad,Sí
+267,16,F,Subsidiado,4,Coomeva,Barranquilla,1202003,2030-12-18,Cáncer,Alto,3,3,Menor de edad,Sí
+268,73,F,Subsidiado,10,Coomeva,Barranquilla,846509,2030-07-08,Recuperado,Bajo,1,1,Adulto mayor,Sí
+269,41,M,Contributivo,9,Nueva EPS,Bogotá,1090308,2030-09-13,Cardiovasculares,Bajo,4,6,Adulto,Sí
+270,36,F,Contributivo,8,Nueva EPS,Bogotá,1153951,2030-08-10,Diabetes,Medio,2,2,Adulto,Sí
+271,13,M,Subsidiado,7,Sanitas,Bogotá,979421,2030-08-29,Diabetes,Alto,3,2,Menor de edad,Sí
+272,23,M,Contributivo,5,Coomeva,Bogotá,821608,2030-09-26,Cáncer,Bajo,3,3,Joven adulto,Sí
+274,84,F,Contributivo,9,Coomeva,Medellín,1110305,2030-02-03,Cáncer,Bajo,2,2,Adulto mayor,Sí
+275,7,F,Subsidiado,5,Sura,Barranquilla,668267,2030-03-20,Cáncer,Bajo,1,0,Menor de edad,No
+276,24,M,Subsidiado,5,Sura,Bogotá,1031732,2030-08-24,Hipertension,Medio,1,6,Joven adulto,Sí
+277,28,F,Contributivo,7,Sura,Barranquilla,1181543,2030-11-30,Hipertension,Bajo,2,3,Joven adulto,No
+278,58,F,Contributivo,7,Sanitas,Medellín,1235279,2030-12-15,Recuperado,Bajo,1,1,Adulto,Sí
+279,37,M,Contributivo,1,Sura,Bogotá,1279614,2030-04-08,Hipertension,Medio,1,8,Adulto,Sí
+281,79,F,Contributivo,12,Coomeva,Medellín,1192955,2030-07-11,Cáncer,Bajo,1,5,Adulto mayor,Sí
+283,40,M,Contributivo,9,Sanitas,Bogotá,1272432,2030-02-07,Cáncer,Bajo,5,7,Adulto,Sí
+284,42,F,Contributivo,5,Nueva EPS,Barranquilla,1372346,2030-01-14,Cáncer,Bajo,3,3,Adulto,Sí
+286,93,M,Contributivo,6,Nueva EPS,Barranquilla,1667536,2030-11-06,Cáncer,Bajo,7,6,Adulto mayor,Sí
+287,29,M,Subsidiado,8,Sura,Cali,974283,2030-03-10,Cardiovasculares,Medio,2,6,Joven adulto,Sí
+288,22,F,Contributivo,10,Sura,Bogotá,975646,2030-12-23,Fallecido,Alto,1,2,Joven adulto,Sí
+289,86,M,Contributivo,7,Sura,Bogotá,1003871,2030-03-30,Cáncer,Bajo,3,4,Adulto mayor,Sí
+291,58,M,Contributivo,9,Sura,Medellín,1217157,2030-04-04,Diabetes,Alto,4,0,Adulto,Sí
+292,39,M,Subsidiado,9,Nueva EPS,Barranquilla,931803,2030-04-03,Cáncer,Bajo,1,3,Adulto,Sí
+293,84,F,Contributivo,10,Sura,Cali,1302426,2030-12-06,Cáncer,Bajo,4,8,Adulto mayor,Sí
+294,65,F,Contributivo,0,Sanitas,Barranquilla,815358,2030-03-26,Diabetes,Medio,4,6,Adulto mayor,Sí
+295,45,M,Subsidiado,6,Sanitas,Barranquilla,1272347,2030-09-02,Diabetes,Bajo,2,8,Adulto,Sí
+296,37,M,Subsidiado,6,Sura,Barranquilla,592839,2030-01-22,Diabetes,Bajo,1,4,Adulto,No
+297,72,M,Contributivo,10,Sanitas,Bogotá,1645728,2030-10-18,Cáncer,Medio,2,6,Adulto mayor,Sí
+298,37,M,Contributivo,5,Nueva EPS,Cali,1320398,2030-09-29,Recuperado,Bajo,1,5,Adulto,Sí
+299,18,F,Contributivo,4,Sura,Cali,743309,2030-11-02,Cáncer,Bajo,0,0,Joven adulto,No
+300,25,F,Subsidiado,11,Coomeva,Barranquilla,1594034,2030-05-02,Fallecido,Alto,5,5,Joven adulto,Sí
+302,24,M,Subsidiado,10,Sura,Bogotá,1548103,2030-04-23,Fallecido,Alto,4,7,Joven adulto,Sí
+304,49,F,Contributivo,1,Sanitas,Bogotá,810020,2030-12-02,Cáncer,Bajo,3,5,Adulto,Sí
+305,71,M,Contributivo,8,Sanitas,Bogotá,1444327,2030-05-10,Fallecido,Alto,1,4,Adulto mayor,Sí
+306,21,F,Contributivo,9,Sura,Bogotá,761867,2030-05-12,Hipertension,Bajo,0,2,Joven adulto,Sí
+307,37,M,Contributivo,11,Coomeva,Medellín,1286563,2030-03-26,Cáncer,Alto,3,4,Adulto,Sí
+308,52,F,Subsidiado,4,Sanitas,Barranquilla,1092750,2030-12-16,Cáncer,Medio,2,5,Adulto,No
+309,80,M,Contributivo,4,Coomeva,Cali,833145,2030-03-22,Cáncer,Bajo,2,3,Adulto mayor,No
+310,49,F,Contributivo,9,Sanitas,Cali,1388097,2030-11-21,Diabetes,Alto,1,4,Adulto,Sí
+311,90,M,Subsidiado,11,Coomeva,Medellín,1505099,2030-03-10,Diabetes,Bajo,1,5,Adulto mayor,Sí
+312,26,M,Subsidiado,6,Nueva EPS,Barranquilla,509516,2030-05-28,Hipertension,Bajo,2,2,Joven adulto,No
+313,34,M,Contributivo,7,Coomeva,Cali,1535993,2030-01-16,Fallecido,Alto,2,4,Adulto,Sí
+314,42,F,Subsidiado,4,Nueva EPS,Bogotá,401650,2030-11-03,Recuperado,Bajo,1,5,Adulto,No
+315,55,M,Contributivo,5,Nueva EPS,Cali,1097628,2030-04-15,Cáncer,Bajo,3,4,Adulto,Sí
+316,58,F,Subsidiado,7,Coomeva,Bogotá,1326974,2030-06-14,Cáncer,Medio,3,3,Adulto,Sí
+317,12,F,Subsidiado,6,Nueva EPS,Medellín,761013,2030-07-20,Recuperado,Bajo,2,0,Menor de edad,No
+318,31,F,Subsidiado,5,Sura,Bogotá,823673,2030-07-16,Recuperado,Bajo,1,5,Adulto,No
+319,31,M,Subsidiado,10,Nueva EPS,Cali,793861,2030-07-04,Fallecido,Alto,2,3,Adulto,Sí
+320,25,M,Contributivo,11,Sanitas,Cali,954555,2030-11-18,Recuperado,Bajo,0,0,Joven adulto,Sí
+322,32,M,Subsidiado,7,Sura,Medellín,1607294,2030-12-29,Cardiovasculares,Alto,5,4,Adulto,Sí
+324,73,F,Subsidiado,9,Sanitas,Bogotá,1660968,2030-12-08,Fallecido,Alto,5,3,Adulto mayor,Sí
+326,52,M,Subsidiado,5,Sanitas,Bogotá,1080548,2030-08-02,Cáncer,Bajo,2,5,Adulto,No
+328,8,M,Subsidiado,7,Nueva EPS,Cali,886256,2030-06-11,Fallecido,Alto,5,6,Menor de edad,Sí
+331,53,F,Contributivo,9,Sura,Barranquilla,668473,2030-04-07,Cáncer,Medio,2,4,Adulto,Sí
+332,21,F,Contributivo,8,Sura,Medellín,783744,2030-01-18,Cáncer,Bajo,2,7,Joven adulto,Sí
+333,48,F,Subsidiado,5,Coomeva,Medellín,1065691,2030-11-23,Recuperado,Bajo,3,0,Adulto,Sí
+334,34,M,Subsidiado,3,Nueva EPS,Bogotá,968531,2030-04-07,Hipertension,Bajo,2,3,Adulto,No
+335,50,F,Subsidiado,4,Sanitas,Bogotá,877963,2030-01-01,Hipertension,Medio,3,5,Adulto,Sí
+337,41,F,Contributivo,9,Sura,Cali,1034417,2030-05-12,Cáncer,Bajo,2,6,Adulto,Sí
+338,28,F,Contributivo,7,Nueva EPS,Medellín,1282934,2030-09-17,Recuperado,Bajo,3,4,Joven adulto,Sí
+339,50,F,Contributivo,11,Coomeva,Barranquilla,1448087,2030-05-05,Recuperado,Bajo,3,6,Adulto,Sí
+340,57,M,Contributivo,9,Sura,Bogotá,1252963,2030-03-10,Hipertension,Alto,4,4,Adulto,Sí
+341,64,M,Subsidiado,8,Nueva EPS,Medellín,947355,2030-10-10,Hipertension,Bajo,3,5,Adulto mayor,Sí
+342,67,F,Contributivo,11,Coomeva,Cali,1157339,2030-06-20,Cáncer,Bajo,3,1,Adulto mayor,Sí
+344,36,F,Subsidiado,5,Sanitas,Bogotá,879543,2030-03-10,Cáncer,Bajo,2,3,Adulto,No
+345,91,M,Subsidiado,8,Nueva EPS,Bogotá,1113789,2030-06-10,Diabetes,Medio,2,4,Adulto mayor,Sí
+347,49,F,Subsidiado,10,Nueva EPS,Cali,1198905,2030-03-10,Cardiovasculares,Bajo,1,3,Adulto,Sí
+348,22,F,Contributivo,9,Coomeva,Medellín,840955,2030-04-15,Hipertension,Medio,1,4,Joven adulto,Sí
+349,29,M,Contributivo,9,Coomeva,Barranquilla,1504266,2030-08-16,Recuperado,Bajo,5,3,Joven adulto,Sí
+350,58,F,Contributivo,14,Nueva EPS,Barranquilla,1059975,2030-07-07,Diabetes,Bajo,3,7,Adulto,Sí
+351,62,M,Contributivo,8,Coomeva,Barranquilla,1746912,2030-03-11,Cardiovasculares,Bajo,3,5,Adulto mayor,Sí
+352,71,M,Subsidiado,6,Sura,Bogotá,1006192,2030-11-14,Diabetes,Medio,2,5,Adulto mayor,No
+353,50,F,Contributivo,6,Sura,Cali,692171,2030-10-17,Recuperado,Bajo,0,3,Adulto,No
+354,28,M,Subsidiado,5,Coomeva,Barranquilla,1152051,2030-03-28,Cáncer,Bajo,3,4,Joven adulto,Sí
+355,36,M,Subsidiado,6,Coomeva,Medellín,690224,2030-12-28,Hipertension,Bajo,3,2,Adulto,Sí
+356,51,F,Contributivo,6,Nueva EPS,Cali,526758,2030-02-25,Recuperado,Bajo,0,0,Adulto,No
+357,90,M,Subsidiado,3,Sanitas,Medellín,657781,2030-04-23,Diabetes,Medio,2,3,Adulto mayor,No
+358,27,M,Contributivo,6,Coomeva,Cali,1143647,2030-01-13,Hipertension,Medio,3,4,Joven adulto,Sí
+359,70,F,Contributivo,10,Sura,Medellín,1335917,2030-01-18,Hipertension,Bajo,1,6,Adulto mayor,Sí
+361,6,F,Subsidiado,1,Coomeva,Barranquilla,1418779,2030-04-23,Cáncer,Medio,3,3,Menor de edad,Sí
+362,94,M,Subsidiado,6,Sura,Medellín,1005071,2030-08-17,Diabetes,Bajo,1,3,Adulto mayor,No
+363,21,F,Contributivo,3,Sura,Bogotá,312739,2030-06-20,Cáncer,Bajo,1,3,Joven adulto,No
+364,37,M,Contributivo,10,Sanitas,Barranquilla,965057,2030-10-22,Hipertension,Bajo,2,1,Adulto,Sí
+365,49,F,Subsidiado,3,Nueva EPS,Barranquilla,671593,2030-07-08,Recuperado,Bajo,2,2,Adulto,No
+366,47,M,Contributivo,3,Nueva EPS,Cali,718181,2030-03-20,Cáncer,Bajo,2,3,Adulto,No
+367,52,F,Contributivo,6,Sanitas,Medellín,1155103,2030-05-26,Hipertension,Medio,2,6,Adulto,Sí
+368,43,F,Contributivo,1,Sanitas,Bogotá,741580,2030-07-01,Recuperado,Medio,1,3,Adulto,No
+369,46,F,Subsidiado,6,Nueva EPS,Bogotá,326523,2030-10-13,Cáncer,Medio,1,3,Adulto,No
+370,30,F,Contributivo,7,Nueva EPS,Medellín,1334177,2030-09-07,Cáncer,Alto,3,4,Adulto,Sí
+371,54,M,Contributivo,8,Coomeva,Barranquilla,1521984,2030-12-20,Recuperado,Medio,6,0,Adulto,Sí
+372,29,F,Contributivo,8,Coomeva,Barranquilla,1008440,2030-11-10,Cáncer,Bajo,2,3,Joven adulto,Sí
+373,49,F,Contributivo,5,Sanitas,Barranquilla,1557784,2030-07-15,Cáncer,Medio,3,2,Adulto,Sí
+374,49,M,Subsidiado,8,Coomeva,Barranquilla,911783,2030-11-19,Cáncer,Bajo,3,6,Adulto,Sí
+375,64,F,Subsidiado,5,Sura,Medellín,337227,2030-03-12,Diabetes,Alto,2,7,Adulto mayor,Sí
+376,11,M,Subsidiado,10,Coomeva,Barranquilla,1163392,2030-09-05,Diabetes,Bajo,2,6,Menor de edad,Sí
+377,61,F,Contributivo,5,Coomeva,Cali,1510576,2030-05-26,Diabetes,Alto,4,3,Adulto mayor,Sí
+379,49,F,Subsidiado,9,Sura,Bogotá,643361,2030-09-20,Recuperado,Bajo,2,6,Adulto,Sí
+380,24,M,Subsidiado,8,Sura,Bogotá,1258584,2030-10-23,Recuperado,Bajo,1,4,Joven adulto,Sí
+381,69,F,Contributivo,5,Coomeva,Medellín,1292521,2030-03-11,Hipertension,Bajo,6,5,Adulto mayor,Sí
+382,12,F,Subsidiado,7,Sanitas,Bogotá,1016443,2030-07-12,Fallecido,Alto,4,5,Menor de edad,Sí
+383,20,F,Subsidiado,3,Coomeva,Medellín,1604448,2030-03-09,Cáncer,Bajo,2,3,Joven adulto,Sí
+384,18,M,Contributivo,2,Sura,Medellín,530916,2030-11-01,Recuperado,Medio,2,4,Joven adulto,No
+385,80,M,Contributivo,5,Sura,Bogotá,924233,2030-02-21,Diabetes,Bajo,1,4,Adulto mayor,No
+386,91,F,Contributivo,10,Coomeva,Medellín,1487821,2030-12-29,Cardiovasculares,Medio,3,6,Adulto mayor,Sí
+387,19,M,Subsidiado,10,Nueva EPS,Medellín,1435758,2030-10-12,Cáncer,Bajo,0,6,Joven adulto,Sí
+388,70,F,Subsidiado,3,Nueva EPS,Barranquilla,1019598,2030-03-10,Cáncer,Medio,2,3,Adulto mayor,No
+389,36,F,Subsidiado,6,Sura,Cali,1234919,2030-01-09,Diabetes,Medio,1,6,Adulto,Sí
+393,49,F,Subsidiado,10,Coomeva,Barranquilla,1507989,2030-07-03,Diabetes,Medio,2,2,Adulto,Sí
+394,49,F,Contributivo,8,Coomeva,Cali,778394,2030-06-28,Diabetes,Medio,1,1,Adulto,Sí
+395,62,M,Contributivo,4,Nueva EPS,Bogotá,1186808,2030-03-10,Diabetes,Medio,3,4,Adulto mayor,Sí
+396,67,M,Subsidiado,7,Coomeva,Barranquilla,1310524,2030-05-08,Fallecido,Alto,3,5,Adulto mayor,Sí
+397,49,M,Contributivo,9,Coomeva,Barranquilla,1594496,2030-01-20,Cáncer,Bajo,3,4,Adulto,Sí
+398,26,M,Subsidiado,3,Sanitas,Cali,774157,2030-11-24,Hipertension,Bajo,1,3,Joven adulto,No
+399,62,M,Contributivo,5,Coomeva,Cali,562906,2030-03-06,Cáncer,Bajo,3,6,Adulto mayor,Sí
+400,62,M,Contributivo,4,Sura,Barranquilla,1398206,2030-07-01,Hipertension,Bajo,3,4,Adulto mayor,Sí
+401,90,M,Subsidiado,8,Coomeva,Bogotá,895885,2030-08-29,Diabetes,Alto,2,2,Adulto mayor,Sí
+402,53,F,Contributivo,6,Coomeva,Barranquilla,920344,2030-01-24,Hipertension,Alto,3,2,Adulto,Sí
+403,56,F,Contributivo,7,Nueva EPS,Cali,949895,2030-03-24,Recuperado,Bajo,1,6,Adulto,Sí
+404,46,F,Contributivo,5,Sura,Bogotá,1508385,2030-11-15,Cáncer,Medio,3,6,Adulto,Sí
+405,74,F,Subsidiado,4,Coomeva,Cali,337324,2030-07-04,Diabetes,Alto,2,5,Adulto mayor,No
+407,58,F,Subsidiado,6,Sanitas,Medellín,1648038,2030-03-10,Cáncer,Bajo,3,3,Adulto,Sí
+408,64,F,Contributivo,6,Coomeva,Cali,860958,2030-03-03,Recuperado,Bajo,1,6,Adulto mayor,Sí
+412,9,F,Subsidiado,5,Coomeva,Cali,1244177,2030-05-06,Cardiovasculares,Bajo,4,0,Menor de edad,Sí
+413,49,F,Contributivo,9,Sanitas,Medellín,1043645,2030-02-11,Cáncer,Bajo,0,3,Adulto,Sí
+414,10,F,Subsidiado,4,Sura,Cali,1028636,2030-04-08,Hipertension,Medio,1,1,Menor de edad,No
+415,49,M,Contributivo,3,Nueva EPS,Medellín,812953,2030-01-31,Hipertension,Alto,1,7,Adulto,Sí
+416,59,F,Contributivo,11,Sura,Medellín,901537,2030-06-07,Cáncer,Medio,1,5,Adulto,Sí
+417,44,F,Contributivo,10,Sura,Medellín,1001517,2030-04-22,Cáncer,Medio,2,5,Adulto,Sí
+419,20,M,Contributivo,4,Coomeva,Bogotá,1034603,2030-05-02,Cáncer,Alto,3,5,Joven adulto,Sí
+420,17,F,Subsidiado,9,Sanitas,Barranquilla,377676,2030-09-30,Hipertension,Medio,2,7,Menor de edad,Sí
+421,34,M,Subsidiado,7,Sanitas,Bogotá,1203387,2030-10-21,Cáncer,Bajo,1,3,Adulto,Sí
+422,23,F,Contributivo,8,Sanitas,Cali,1194547,2030-03-10,Cáncer,Medio,4,2,Joven adulto,Sí
+423,21,F,Contributivo,2,Sanitas,Bogotá,923060,2030-04-20,Hipertension,Bajo,2,7,Joven adulto,Sí
+424,67,M,Contributivo,7,Nueva EPS,Bogotá,1208368,2030-10-05,Cáncer,Bajo,3,6,Adulto mayor,Sí
+425,23,F,Subsidiado,3,Coomeva,Cali,1382656,2030-02-25,Recuperado,Bajo,0,2,Joven adulto,Sí
+426,62,F,Subsidiado,8,Sura,Cali,1279956,2030-02-26,Cáncer,Bajo,2,6,Adulto mayor,Sí
+427,59,F,Subsidiado,5,Sura,Bogotá,850692,2030-10-18,Recuperado,Bajo,2,1,Adulto,No
+428,94,F,Subsidiado,7,Coomeva,Bogotá,1195074,2030-04-24,Diabetes,Bajo,3,6,Adulto mayor,Sí
+429,94,M,Contributivo,11,Sura,Bogotá,1187206,2030-11-04,Hipertension,Medio,5,3,Adulto mayor,Sí
+430,66,M,Subsidiado,8,Coomeva,Cali,607844,2030-03-10,Recuperado,Bajo,2,0,Adulto mayor,Sí
+431,27,F,Subsidiado,4,Sura,Barranquilla,842931,2030-07-17,Diabetes,Bajo,3,2,Joven adulto,Sí
+432,13,M,Subsidiado,3,Sanitas,Barranquilla,1260129,2030-11-17,Diabetes,Bajo,2,5,Menor de edad,Sí
+433,16,F,Subsidiado,5,Sura,Medellín,1023262,2030-06-28,Cáncer,Medio,0,7,Menor de edad,Sí
+434,5,F,Subsidiado,7,Coomeva,Cali,1099654,2030-08-07,Cáncer,Bajo,2,3,Menor de edad,No
+435,62,F,Subsidiado,10,Coomeva,Medellín,1086472,2030-10-04,Cáncer,Bajo,1,2,Adulto mayor,Sí
+436,5,F,Subsidiado,3,Coomeva,Barranquilla,1410058,2030-01-16,Hipertension,Alto,4,4,Menor de edad,Sí
+437,38,F,Contributivo,10,Coomeva,Medellín,942514,2030-03-10,Diabetes,Medio,2,4,Adulto,Sí
+439,93,F,Contributivo,4,Nueva EPS,Cali,1524057,2030-06-17,Recuperado,Bajo,4,2,Adulto mayor,Sí
+440,5,M,Subsidiado,7,Nueva EPS,Cali,1335723,2030-01-26,Diabetes,Bajo,1,0,Menor de edad,Sí
+441,20,M,Contributivo,2,Sura,Bogotá,1288737,2030-12-02,Diabetes,Medio,2,4,Joven adulto,Sí
+442,65,F,Subsidiado,6,Coomeva,Medellín,1545132,2030-03-06,Diabetes,Bajo,3,3,Adulto mayor,Sí
+443,49,F,Contributivo,9,Sura,Barranquilla,1299653,2030-04-10,Cáncer,Bajo,2,1,Adulto,Sí
+444,67,F,Contributivo,11,Coomeva,Barranquilla,1521018,2030-03-15,Recuperado,Bajo,0,5,Adulto mayor,Sí
+446,26,F,Subsidiado,4,Nueva EPS,Bogotá,706190,2030-06-20,Cáncer,Bajo,1,1,Joven adulto,No
+447,71,F,Contributivo,9,Nueva EPS,Bogotá,1278133,2030-09-30,Cáncer,Alto,5,4,Adulto mayor,Sí
+448,80,F,Contributivo,6,Sanitas,Cali,857650,2030-03-10,Fallecido,Alto,3,6,Adulto mayor,Sí
+449,30,F,Subsidiado,10,Nueva EPS,Barranquilla,943348,2030-01-23,Recuperado,Bajo,3,1,Adulto,Sí
+450,20,M,Subsidiado,7,Sanitas,Bogotá,913250,2030-06-30,Cáncer,Medio,1,3,Joven adulto,No
+451,55,M,Contributivo,2,Sanitas,Cali,568434,2030-11-23,Hipertension,Medio,1,2,Adulto,No
+452,90,F,Contributivo,5,Sanitas,Barranquilla,1021609,2030-04-18,Recuperado,Medio,3,1,Adulto mayor,Sí
+454,33,F,Contributivo,4,Sanitas,Cali,933541,2030-06-11,Cáncer,Medio,2,6,Adulto,Sí
+455,82,M,Contributivo,3,Sura,Bogotá,671584,2030-03-10,Hipertension,Bajo,0,1,Adulto mayor,No
+456,73,M,Contributivo,10,Nueva EPS,Bogotá,1044519,2030-07-25,Cáncer,Alto,3,2,Adulto mayor,Sí
+459,73,M,Contributivo,12,Nueva EPS,Bogotá,663085,2030-11-23,Cáncer,Medio,2,2,Adulto mayor,Sí
+460,80,M,Subsidiado,4,Nueva EPS,Medellín,816203,2030-04-06,Fallecido,Alto,2,7,Adulto mayor,Sí
+461,20,F,Contributivo,4,Sanitas,Barranquilla,799137,2030-05-27,Diabetes,Medio,2,2,Joven adulto,No
+462,94,M,Contributivo,10,Sura,Medellín,609203,2030-01-02,Recuperado,Bajo,0,2,Adulto mayor,Sí
+463,94,M,Subsidiado,14,Sanitas,Bogotá,1469316,2030-01-10,Recuperado,Bajo,2,1,Adulto mayor,Sí
+465,49,F,Subsidiado,9,Coomeva,Bogotá,952975,2030-03-10,Recuperado,Bajo,0,3,Adulto,Sí
+466,43,M,Subsidiado,5,Sura,Cali,601112,2030-03-10,Cáncer,Bajo,4,6,Adulto,Sí
+467,37,F,Contributivo,8,Coomeva,Barranquilla,1509429,2030-03-10,Cáncer,Bajo,4,5,Adulto,Sí
+468,27,F,Subsidiado,5,Sura,Bogotá,735611,2030-05-30,Diabetes,Bajo,3,4,Joven adulto,Sí
+469,14,F,Subsidiado,3,Sura,Bogotá,890029,2030-10-15,Hipertension,Medio,1,4,Menor de edad,No
+470,73,M,Contributivo,4,Coomeva,Barranquilla,1429529,2030-12-27,Fallecido,Alto,1,5,Adulto mayor,Sí
+471,38,F,Contributivo,8,Sura,Barranquilla,1705756,2030-12-06,Diabetes,Bajo,3,4,Adulto,Sí
+473,14,F,Subsidiado,7,Sura,Bogotá,346212,2030-03-10,Fallecido,Alto,4,5,Menor de edad,Sí
+475,62,M,Contributivo,9,Nueva EPS,Barranquilla,1758561,2030-07-17,Cardiovasculares,Bajo,0,7,Adulto mayor,Sí
+477,73,F,Contributivo,6,Sura,Barranquilla,1097038,2030-03-10,Cáncer,Bajo,2,5,Adulto mayor,No
+479,20,F,Contributivo,5,Sura,Medellín,1250401,2030-10-06,Diabetes,Bajo,2,2,Joven adulto,Sí
+480,28,F,Contributivo,4,Sura,Bogotá,796568,2030-01-23,Cáncer,Alto,3,6,Joven adulto,Sí
+481,84,F,Contributivo,11,Coomeva,Bogotá,1163744,2030-12-01,Cáncer,Bajo,1,4,Adulto mayor,Sí
+482,6,M,Subsidiado,5,Sanitas,Bogotá,1573416,2030-03-10,Cáncer,Bajo,4,4,Menor de edad,Sí
+483,36,M,Contributivo,8,Sura,Bogotá,1596583,2030-01-27,Fallecido,Alto,1,7,Adulto,Sí
+484,95,F,Contributivo,8,Sanitas,Barranquilla,2468932,2030-10-09,Fallecido,Alto,4,4,Adulto mayor,Sí
+485,88,F,Subsidiado,12,Sura,Cali,1086968,2030-04-07,Fallecido,Alto,5,5,Adulto mayor,Sí
+486,28,F,Contributivo,8,Sanitas,Cali,1070697,2030-02-05,Cáncer,Bajo,3,1,Joven adulto,Sí
+487,16,M,Subsidiado,7,Nueva EPS,Bogotá,929147,2030-04-19,Cáncer,Medio,1,8,Menor de edad,Sí
+488,54,M,Contributivo,7,Coomeva,Medellín,413031,2030-02-24,Recuperado,Bajo,0,1,Adulto,No
+490,37,F,Subsidiado,8,Sura,Bogotá,1029768,2030-08-07,Diabetes,Bajo,3,4,Adulto,Sí
+491,37,F,Contributivo,6,Sura,Cali,1068083,2030-03-10,Fallecido,Alto,2,4,Adulto,Sí
+492,65,F,Subsidiado,1,Sura,Bogotá,870747,2030-03-10,Cardiovasculares,Bajo,2,4,Adulto mayor,No
+493,55,F,Subsidiado,1,Sura,Barranquilla,549504,2030-11-13,Cardiovasculares,Medio,0,1,Adulto,No
+494,47,F,Subsidiado,8,Sanitas,Barranquilla,1497202,2030-05-10,Cáncer,Medio,1,2,Adulto,Sí
+497,69,M,Contributivo,8,Nueva EPS,Barranquilla,1029553,2030-12-02,Hipertension,Bajo,2,5,Adulto mayor,Sí
+498,37,F,Contributivo,5,Coomeva,Medellín,897287,2030-03-28,Recuperado,Bajo,1,2,Adulto,No
+499,44,F,Contributivo,5,Sura,Cali,1310977,2030-10-21,Hipertension,Bajo,1,5,Adulto,Sí
+500,78,F,Subsidiado,7,Coomeva,Barranquilla,845939,2030-04-29,Cáncer,Medio,2,3,Adulto mayor,No
+502,48,F,Contributivo,8,Sura,Cali,834028,2030-11-30,Recuperado,Bajo,1,2,Adulto,Sí
+503,33,M,Subsidiado,10,Sura,Bogotá,711987,2030-06-03,Cáncer,Alto,2,5,Adulto,Sí
+504,49,F,Contributivo,5,Coomeva,Medellín,808675,2030-02-04,Cáncer,Bajo,2,3,Adulto,No
+505,16,M,Subsidiado,3,Nueva EPS,Medellín,861886,2030-03-20,Diabetes,Bajo,1,0,Menor de edad,No
+507,6,M,Subsidiado,4,Coomeva,Bogotá,799508,2030-12-09,Hipertension,Bajo,0,7,Menor de edad,Sí
+509,91,F,Contributivo,7,Coomeva,Barranquilla,1551685,2030-04-07,Fallecido,Alto,4,6,Adulto mayor,Sí
+510,49,F,Contributivo,8,Sanitas,Barranquilla,770501,2030-06-18,Cáncer,Medio,0,4,Adulto,Sí
+511,94,F,Contributivo,9,Sura,Barranquilla,1130224,2030-06-18,Cáncer,Bajo,1,7,Adulto mayor,Sí
+513,30,F,Subsidiado,2,Nueva EPS,Medellín,827210,2030-03-12,Diabetes,Medio,1,4,Adulto,No
+514,78,F,Contributivo,8,Sanitas,Barranquilla,972893,2030-01-03,Cardiovasculares,Medio,3,8,Adulto mayor,Sí
+515,94,F,Contributivo,13,Sanitas,Bogotá,216566,2030-11-10,Cáncer,Medio,0,5,Adulto mayor,Sí
+516,38,F,Subsidiado,7,Nueva EPS,Barranquilla,958317,2030-02-01,Cáncer,Bajo,2,1,Adulto,No
+517,49,M,Subsidiado,6,Coomeva,Cali,1574316,2030-10-14,Fallecido,Alto,5,6,Adulto,Sí
+518,72,F,Contributivo,6,Sanitas,Medellín,1601419,2030-03-23,Cáncer,Alto,5,6,Adulto mayor,Sí
+519,62,M,Contributivo,6,Coomeva,Medellín,1362448,2030-02-12,Fallecido,Alto,3,3,Adulto mayor,Sí
+520,79,F,Subsidiado,9,Sanitas,Bogotá,1819760,2030-04-15,Diabetes,Bajo,3,6,Adulto mayor,Sí
+521,33,M,Subsidiado,6,Coomeva,Bogotá,1177420,2030-01-01,Hipertension,Alto,3,5,Adulto,Sí
+522,40,F,Contributivo,10,Nueva EPS,Medellín,1179066,2030-03-02,Cáncer,Medio,2,6,Adulto,Sí
+523,93,M,Subsidiado,9,Sanitas,Barranquilla,808623,2030-09-27,Fallecido,Alto,3,3,Adulto mayor,Sí
+524,25,F,Contributivo,6,Nueva EPS,Barranquilla,974628,2030-06-29,Recuperado,Bajo,2,3,Joven adulto,No
+525,40,F,Contributivo,8,Sanitas,Cali,1244284,2030-08-12,Hipertension,Bajo,3,6,Adulto,Sí
+526,14,F,Subsidiado,2,Nueva EPS,Barranquilla,1386831,2030-01-06,Cáncer,Bajo,4,1,Menor de edad,Sí
+527,77,F,Contributivo,11,Nueva EPS,Bogotá,963000,2030-04-13,Cáncer,Bajo,0,5,Adulto mayor,Sí
+528,28,M,Subsidiado,5,Sanitas,Bogotá,872915,2030-01-10,Diabetes,Medio,2,2,Joven adulto,No
+529,68,F,Contributivo,12,Sanitas,Barranquilla,1079372,2030-03-12,Recuperado,Bajo,2,2,Adulto mayor,Sí
+530,53,M,Contributivo,3,Sura,Bogotá,1102957,2030-03-31,Cáncer,Bajo,3,3,Adulto,Sí
+532,86,M,Contributivo,6,Coomeva,Medellín,253372,2030-06-07,Hipertension,Bajo,1,1,Adulto mayor,No
+533,28,F,Contributivo,4,Sura,Barranquilla,735559,2030-08-16,Cáncer,Bajo,2,4,Joven adulto,No
+534,27,M,Contributivo,8,Sura,Medellín,564550,2030-03-10,Cáncer,Bajo,0,2,Joven adulto,Sí
+535,66,M,Contributivo,8,Nueva EPS,Medellín,716878,2030-07-28,Cáncer,Bajo,0,5,Adulto mayor,Sí
+537,16,F,Subsidiado,6,Coomeva,Cali,940985,2030-03-15,Cáncer,Medio,2,6,Menor de edad,Sí
+538,59,F,Contributivo,10,Nueva EPS,Medellín,1355380,2030-04-25,Recuperado,Bajo,1,3,Adulto,Sí
+539,17,M,Subsidiado,8,Sura,Barranquilla,1063792,2030-07-10,Diabetes,Bajo,2,3,Menor de edad,Sí
+540,27,F,Subsidiado,0,Sanitas,Cali,798334,2030-06-19,Cardiovasculares,Medio,0,4,Joven adulto,No
+541,93,F,Subsidiado,6,Nueva EPS,Bogotá,1332893,2030-11-03,Recuperado,Bajo,1,4,Adulto mayor,Sí
+542,34,M,Contributivo,5,Sanitas,Bogotá,629884,2030-07-23,Cáncer,Bajo,2,0,Adulto,No
+543,21,M,Contributivo,7,Nueva EPS,Bogotá,1190539,2030-02-25,Cáncer,Bajo,0,3,Joven adulto,No
+544,66,F,Contributivo,13,Sanitas,Barranquilla,1211192,2030-07-27,Recuperado,Bajo,3,3,Adulto mayor,Sí
+545,88,F,Contributivo,9,Sura,Medellín,1196638,2030-02-10,Cáncer,Bajo,2,1,Adulto mayor,Sí
+546,93,F,Contributivo,13,Coomeva,Bogotá,926943,2030-02-01,Cardiovasculares,Bajo,3,4,Adulto mayor,Sí
+547,90,F,Contributivo,5,Sura,Barranquilla,509512,2030-01-15,Cáncer,Alto,2,6,Adulto mayor,Sí
+549,63,F,Contributivo,10,Sanitas,Medellín,1239715,2030-06-04,Recuperado,Bajo,2,0,Adulto mayor,Sí
+550,23,F,Subsidiado,9,Nueva EPS,Cali,918051,2030-10-11,Hipertension,Bajo,4,5,Joven adulto,Sí
+551,53,F,Contributivo,5,Sura,Barranquilla,855491,2030-07-28,Cardiovasculares,Medio,3,5,Adulto,Sí
+552,16,M,Subsidiado,2,Coomeva,Bogotá,1443217,2030-11-16,Recuperado,Bajo,4,1,Menor de edad,Sí
+553,65,M,Subsidiado,8,Sura,Bogotá,794700,2030-03-10,Diabetes,Alto,3,0,Adulto mayor,Sí
+554,23,F,Subsidiado,5,Coomeva,Barranquilla,1524263,2030-05-10,Hipertension,Alto,2,3,Joven adulto,Sí
+555,80,F,Contributivo,4,Sura,Bogotá,738622,2030-05-07,Cáncer,Bajo,1,2,Adulto mayor,No
+556,13,F,Subsidiado,6,Sura,Medellín,1601302,2030-10-19,Fallecido,Alto,2,3,Menor de edad,Sí
+557,75,F,Contributivo,5,Coomeva,Barranquilla,756144,2030-04-24,Recuperado,Bajo,0,0,Adulto mayor,No
+558,32,F,Subsidiado,3,Sanitas,Cali,1510990,2030-07-18,Recuperado,Bajo,4,0,Adulto,Sí
+559,82,M,Contributivo,12,Coomeva,Barranquilla,1086347,2030-01-13,Diabetes,Bajo,4,3,Adulto mayor,Sí
+561,87,F,Contributivo,6,Sura,Medellín,1021530,2030-03-30,Cáncer,Bajo,2,8,Adulto mayor,Sí
+563,73,M,Contributivo,4,Nueva EPS,Barranquilla,901842,2030-10-05,Cáncer,Bajo,0,4,Adulto mayor,No
+564,16,F,Subsidiado,5,Nueva EPS,Bogotá,950368,2030-07-22,Diabetes,Bajo,3,3,Menor de edad,Sí
+565,29,F,Subsidiado,9,Coomeva,Bogotá,990305,2030-03-15,Diabetes,Medio,1,2,Joven adulto,Sí
+566,56,F,Subsidiado,3,Sanitas,Barranquilla,1035471,2030-01-25,Recuperado,Bajo,5,3,Adulto,Sí
+568,57,M,Contributivo,9,Coomeva,Medellín,1062111,2030-06-25,Recuperado,Bajo,1,4,Adulto,Sí
+569,27,F,Subsidiado,6,Nueva EPS,Barranquilla,1906930,2030-04-27,Diabetes,Medio,2,1,Joven adulto,Sí
+570,20,M,Subsidiado,7,Nueva EPS,Bogotá,1541844,2030-06-15,Hipertension,Medio,6,5,Joven adulto,Sí
+571,49,M,Contributivo,7,Sura,Medellín,1007184,2030-02-10,Cardiovasculares,Bajo,3,3,Adulto,Sí
+572,43,M,Contributivo,3,Nueva EPS,Bogotá,1014520,2030-12-10,Cáncer,Medio,2,5,Adulto,No
+573,57,F,Contributivo,7,Sura,Bogotá,970391,2030-04-30,Cáncer,Bajo,2,5,Adulto,No
+574,46,F,Subsidiado,10,Sanitas,Bogotá,1217895,2030-04-07,Cardiovasculares,Alto,3,4,Adulto,Sí
+575,62,M,Contributivo,9,Nueva EPS,Bogotá,715583,2030-05-25,Recuperado,Bajo,0,4,Adulto mayor,Sí
+576,49,F,Contributivo,9,Sanitas,Medellín,1671302,2030-08-04,Diabetes,Medio,2,5,Adulto,Sí
+577,18,F,Contributivo,10,Sura,Bogotá,1301440,2030-08-17,Recuperado,Bajo,0,2,Joven adulto,Sí
+578,49,M,Subsidiado,4,Sura,Bogotá,1562954,2030-11-09,Cáncer,Alto,6,5,Adulto,Sí
+579,39,F,Subsidiado,5,Sanitas,Bogotá,1487918,2030-05-10,Recuperado,Bajo,3,2,Adulto,Sí
+580,91,F,Subsidiado,10,Sanitas,Medellín,1116960,2030-12-18,Recuperado,Medio,2,4,Adulto mayor,Sí
+581,79,M,Subsidiado,10,Sanitas,Medellín,1300327,2030-11-14,Diabetes,Alto,2,2,Adulto mayor,Sí
+582,49,F,Contributivo,3,Sura,Cali,1231452,2030-05-17,Cardiovasculares,Bajo,3,3,Adulto,Sí
+583,80,M,Contributivo,5,Coomeva,Medellín,1136110,2030-11-20,Cáncer,Alto,3,3,Adulto mayor,Sí
+584,49,M,Contributivo,7,Sanitas,Bogotá,1086942,2030-12-03,Recuperado,Medio,3,2,Adulto,Sí
+585,78,M,Contributivo,6,Sanitas,Cali,1037597,2030-09-30,Fallecido,Alto,3,4,Adulto mayor,Sí
+586,62,M,Contributivo,6,Nueva EPS,Medellín,1624864,2030-04-27,Diabetes,Bajo,2,3,Adulto mayor,Sí
+588,11,M,Subsidiado,10,Nueva EPS,Medellín,581951,2030-04-04,Fallecido,Alto,5,6,Menor de edad,Sí
+589,50,M,Subsidiado,5,Coomeva,Medellín,1049552,2030-06-17,Recuperado,Bajo,3,0,Adulto,Sí
+590,49,M,Contributivo,5,Sura,Cali,962625,2030-07-22,Diabetes,Bajo,1,4,Adulto,No
+591,44,F,Subsidiado,2,Sura,Medellín,824716,2030-12-07,Hipertension,Bajo,1,4,Adulto,No
+592,46,F,Subsidiado,2,Sura,Medellín,942578,2030-05-29,Diabetes,Bajo,0,3,Adulto,No
+593,13,F,Subsidiado,9,Sura,Cali,835165,2030-07-02,Cardiovasculares,Bajo,1,4,Menor de edad,Sí
+594,54,M,Contributivo,11,Coomeva,Barranquilla,1808350,2030-06-01,Fallecido,Alto,4,7,Adulto,Sí
+595,31,M,Contributivo,3,Coomeva,Bogotá,546122,2030-03-15,Cardiovasculares,Medio,3,5,Adulto,Sí
+596,49,F,Contributivo,9,Coomeva,Barranquilla,795946,2030-12-31,Diabetes,Bajo,1,6,Adulto,Sí
+597,9,F,Subsidiado,6,Sura,Cali,830420,2030-10-01,Cáncer,Medio,0,4,Menor de edad,No
+598,33,F,Contributivo,3,Nueva EPS,Bogotá,622584,2030-02-11,Diabetes,Medio,3,3,Adulto,Sí
+601,87,F,Subsidiado,4,Sura,Medellín,894679,2030-02-14,Cáncer,Bajo,2,5,Adulto mayor,No
+602,12,M,Subsidiado,6,Coomeva,Bogotá,1327050,2030-03-10,Diabetes,Alto,3,2,Menor de edad,Sí
+603,69,F,Subsidiado,4,Coomeva,Medellín,555976,2030-01-17,Cáncer,Alto,2,1,Adulto mayor,No
+604,90,M,Contributivo,8,Sanitas,Bogotá,867784,2030-03-14,Cáncer,Medio,3,6,Adulto mayor,Sí
+605,21,M,Subsidiado,6,Nueva EPS,Cali,1108628,2030-01-14,Cáncer,Medio,4,0,Joven adulto,Sí
+607,93,F,Subsidiado,6,Nueva EPS,Barranquilla,1414201,2030-08-11,Cáncer,Bajo,3,3,Adulto mayor,Sí
+609,8,M,Subsidiado,7,Coomeva,Medellín,919307,2030-03-10,Hipertension,Bajo,4,3,Menor de edad,Sí
+610,40,F,Subsidiado,4,Coomeva,Barranquilla,1115844,2030-02-16,Diabetes,Alto,4,2,Adulto,Sí
+611,74,F,Subsidiado,11,Sura,Barranquilla,1108349,2030-04-17,Cáncer,Bajo,2,3,Adulto mayor,Sí
+612,35,F,Contributivo,3,Sanitas,Barranquilla,1479138,2030-04-18,Cáncer,Bajo,2,5,Adulto,Sí
+613,23,F,Contributivo,6,Coomeva,Medellín,1491621,2030-09-22,Cáncer,Alto,3,2,Joven adulto,Sí
+614,65,M,Subsidiado,5,Sanitas,Barranquilla,834495,2030-07-24,Fallecido,Alto,2,4,Adulto mayor,Sí
+616,43,M,Contributivo,5,Nueva EPS,Barranquilla,851626,2030-06-04,Recuperado,Medio,3,0,Adulto,Sí
+617,95,M,Contributivo,4,Sura,Medellín,847405,2030-09-28,Cáncer,Medio,0,2,Adulto mayor,No
+618,78,F,Contributivo,5,Sura,Cali,929470,2030-09-04,Cáncer,Bajo,1,0,Adulto mayor,No
+619,94,M,Contributivo,9,Nueva EPS,Cali,1445804,2030-01-19,Hipertension,Bajo,1,6,Adulto mayor,Sí
+620,23,F,Contributivo,5,Nueva EPS,Cali,945599,2030-12-12,Cáncer,Bajo,2,6,Joven adulto,Sí
+621,43,F,Contributivo,1,Sura,Cali,850442,2030-01-26,Recuperado,Bajo,2,5,Adulto,No
+622,71,M,Contributivo,10,Sanitas,Cali,1022807,2030-08-05,Cáncer,Bajo,2,6,Adulto mayor,Sí
+623,49,M,Contributivo,9,Sura,Bogotá,912719,2030-06-03,Recuperado,Medio,1,4,Adulto,Sí
+624,17,M,Subsidiado,5,Sanitas,Barranquilla,1062219,2030-06-03,Cáncer,Bajo,2,6,Menor de edad,Sí
+625,62,M,Contributivo,11,Sura,Barranquilla,536628,2030-06-23,Cáncer,Medio,1,2,Adulto mayor,Sí
+626,24,F,Subsidiado,10,Sanitas,Medellín,1699226,2030-04-02,Hipertension,Bajo,6,4,Joven adulto,Sí
+627,76,F,Subsidiado,11,Sura,Medellín,1672614,2030-12-04,Cardiovasculares,Medio,2,6,Adulto mayor,Sí
+628,65,F,Contributivo,5,Sanitas,Medellín,1014291,2030-06-30,Fallecido,Alto,3,6,Adulto mayor,Sí
+629,43,F,Subsidiado,6,Nueva EPS,Medellín,1114986,2030-05-11,Diabetes,Bajo,2,5,Adulto,No
+630,5,M,Subsidiado,2,Nueva EPS,Cali,946095,2030-10-25,Cáncer,Bajo,2,2,Menor de edad,No
+631,7,M,Subsidiado,4,Sura,Bogotá,1099900,2030-10-02,Hipertension,Medio,2,2,Menor de edad,No
+632,81,F,Contributivo,6,Coomeva,Bogotá,1838879,2030-09-30,Fallecido,Alto,4,6,Adulto mayor,Sí
+633,66,M,Subsidiado,3,Sura,Bogotá,331040,2030-03-17,Recuperado,Bajo,1,1,Adulto mayor,No
+634,67,F,Contributivo,6,Sura,Barranquilla,1798002,2030-06-26,Diabetes,Bajo,2,6,Adulto mayor,Sí
+635,29,M,Contributivo,9,Sanitas,Medellín,639147,2030-07-03,Fallecido,Alto,2,5,Joven adulto,Sí
+636,60,F,Subsidiado,2,Sanitas,Medellín,896568,2030-11-15,Hipertension,Alto,3,2,Adulto mayor,Sí
+637,37,F,Contributivo,1,Sura,Cali,1016975,2030-05-11,Hipertension,Bajo,3,1,Adulto,Sí
+638,42,M,Contributivo,6,Nueva EPS,Medellín,1365153,2030-12-29,Cardiovasculares,Bajo,2,6,Adulto,Sí
+639,10,M,Subsidiado,9,Sanitas,Medellín,1239403,2030-02-18,Cáncer,Alto,3,2,Menor de edad,Sí
+640,62,F,Subsidiado,12,Coomeva,Barranquilla,1207928,2030-02-24,Cáncer,Bajo,2,1,Adulto mayor,Sí
+641,48,F,Subsidiado,4,Sanitas,Cali,2388739,2030-03-10,Cáncer,Bajo,7,6,Adulto,Sí
+642,49,M,Contributivo,2,Sanitas,Barranquilla,794417,2030-12-21,Recuperado,Bajo,5,7,Adulto,Sí
+643,36,M,Contributivo,6,Coomeva,Bogotá,1207109,2030-07-19,Recuperado,Bajo,2,5,Adulto,Sí
+644,49,F,Contributivo,7,Sura,Bogotá,869110,2030-11-04,Cáncer,Medio,2,5,Adulto,No
+646,51,F,Contributivo,10,Sura,Cali,1102785,2030-04-28,Cáncer,Bajo,3,4,Adulto,Sí
+647,25,F,Contributivo,8,Sura,Medellín,939197,2030-09-20,Hipertension,Medio,2,2,Joven adulto,Sí
+648,49,M,Contributivo,9,Sura,Cali,1096486,2030-02-15,Cáncer,Medio,2,7,Adulto,Sí
+650,79,M,Contributivo,12,Sura,Medellín,1210013,2030-12-22,Fallecido,Alto,4,7,Adulto mayor,Sí
+651,40,M,Contributivo,3,Nueva EPS,Barranquilla,1320049,2030-07-08,Cardiovasculares,Bajo,2,6,Adulto,Sí
+652,23,M,Contributivo,4,Coomeva,Bogotá,584807,2030-11-06,Cardiovasculares,Medio,1,5,Joven adulto,No
+653,24,F,Subsidiado,4,Nueva EPS,Barranquilla,1056002,2030-11-14,Cáncer,Medio,6,4,Joven adulto,Sí
+654,61,F,Contributivo,6,Sura,Bogotá,1107230,2030-05-09,Cáncer,Bajo,0,0,Adulto mayor,No
+655,22,M,Subsidiado,3,Sura,Cali,1212227,2030-02-18,Recuperado,Bajo,0,6,Joven adulto,Sí
+656,51,M,Contributivo,7,Sura,Bogotá,1492945,2030-01-25,Cáncer,Bajo,4,2,Adulto,Sí
+657,53,M,Subsidiado,8,Sura,Cali,1234390,2030-09-23,Recuperado,Medio,1,0,Adulto,Sí
+658,18,F,Subsidiado,8,Nueva EPS,Barranquilla,1064434,2030-04-28,Recuperado,Bajo,3,1,Joven adulto,Sí
+659,19,M,Contributivo,7,Coomeva,Cali,799788,2030-05-24,Diabetes,Alto,3,4,Joven adulto,Sí
+661,5,F,Subsidiado,9,Coomeva,Medellín,1472999,2030-06-06,Hipertension,Medio,3,4,Menor de edad,Sí
+662,58,F,Contributivo,9,Nueva EPS,Medellín,1148478,2030-12-14,Cardiovasculares,Alto,4,5,Adulto,Sí
+663,7,M,Subsidiado,7,Sura,Medellín,1158929,2030-05-14,Cáncer,Medio,4,7,Menor de edad,Sí
+664,20,F,Contributivo,8,Sanitas,Cali,1257204,2030-05-28,Cáncer,Bajo,3,3,Joven adulto,Sí
+667,79,F,Subsidiado,4,Sanitas,Barranquilla,1658903,2030-03-10,Diabetes,Bajo,1,4,Adulto mayor,Sí
+668,16,M,Subsidiado,6,Sura,Barranquilla,1080872,2030-11-30,Cáncer,Bajo,4,7,Menor de edad,Sí
+669,78,M,Subsidiado,14,Sura,Bogotá,1030797,2030-10-26,Cáncer,Bajo,2,5,Adulto mayor,Sí
+670,20,F,Contributivo,9,Nueva EPS,Cali,986482,2030-06-03,Cáncer,Alto,2,3,Joven adulto,Sí
+671,76,F,Subsidiado,10,Sura,Cali,1097398,2030-03-31,Diabetes,Bajo,1,8,Adulto mayor,Sí
+674,32,F,Contributivo,6,Sanitas,Cali,1342184,2030-06-10,Hipertension,Bajo,0,6,Adulto,Sí
+675,12,F,Subsidiado,8,Coomeva,Cali,1373804,2030-01-26,Hipertension,Medio,2,3,Menor de edad,Sí
+676,40,F,Contributivo,8,Sura,Bogotá,1073942,2030-05-01,Recuperado,Bajo,3,5,Adulto,Sí
+677,94,F,Subsidiado,5,Coomeva,Bogotá,436215,2030-10-28,Fallecido,Alto,2,2,Adulto mayor,Sí
+679,62,F,Subsidiado,11,Sanitas,Cali,1025496,2030-03-04,Cardiovasculares,Alto,3,8,Adulto mayor,Sí
+680,49,F,Contributivo,9,Sanitas,Cali,1220073,2030-03-09,Cáncer,Bajo,1,4,Adulto,Sí
+681,54,F,Contributivo,5,Coomeva,Bogotá,314683,2030-09-10,Cáncer,Alto,1,7,Adulto,Sí
+683,49,M,Contributivo,8,Nueva EPS,Barranquilla,965400,2030-04-18,Diabetes,Alto,5,2,Adulto,Sí
+684,68,M,Contributivo,7,Coomeva,Bogotá,1176754,2030-10-13,Fallecido,Alto,2,6,Adulto mayor,Sí
+685,31,F,Contributivo,7,Sura,Medellín,1046570,2030-02-18,Cáncer,Medio,0,5,Adulto,No
+686,67,F,Subsidiado,11,Sanitas,Bogotá,923860,2030-05-20,Diabetes,Alto,3,3,Adulto mayor,Sí
+687,21,M,Contributivo,9,Sanitas,Cali,875983,2030-08-06,Recuperado,Bajo,1,3,Joven adulto,Sí
+688,77,F,Subsidiado,11,Sura,Medellín,1540703,2030-02-13,Recuperado,Bajo,3,6,Adulto mayor,Sí
+689,37,F,Subsidiado,4,Nueva EPS,Bogotá,1019882,2030-09-26,Cáncer,Bajo,2,5,Adulto,No
+690,88,M,Contributivo,8,Sanitas,Barranquilla,1062490,2030-03-19,Recuperado,Bajo,0,2,Adulto mayor,Sí
+691,81,F,Subsidiado,4,Sanitas,Barranquilla,1645192,2030-08-04,Cáncer,Bajo,3,8,Adulto mayor,Sí
+692,33,M,Contributivo,8,Sanitas,Bogotá,462299,2030-04-08,Cáncer,Bajo,1,7,Adulto,Sí
+693,17,M,Subsidiado,7,Sura,Barranquilla,1786362,2030-08-24,Recuperado,Bajo,2,0,Menor de edad,Sí
+694,50,M,Contributivo,10,Coomeva,Barranquilla,1366667,2030-10-09,Cáncer,Alto,3,5,Adulto,Sí
+695,39,F,Contributivo,8,Sanitas,Barranquilla,1309297,2030-05-29,Hipertension,Bajo,3,6,Adulto,Sí
+696,10,M,Subsidiado,6,Coomeva,Medellín,696355,2030-10-31,Cardiovasculares,Medio,2,2,Menor de edad,No
+697,86,F,Contributivo,8,Nueva EPS,Bogotá,1132568,2030-03-07,Fallecido,Alto,3,5,Adulto mayor,Sí
+698,73,F,Contributivo,4,Sanitas,Barranquilla,1296372,2030-08-22,Cáncer,Bajo,2,6,Adulto mayor,Sí
+699,51,M,Contributivo,7,Sanitas,Bogotá,785724,2030-03-28,Diabetes,Bajo,0,0,Adulto,No
+700,29,M,Contributivo,7,Nueva EPS,Medellín,1620434,2030-03-20,Recuperado,Bajo,2,2,Joven adulto,Sí
+701,70,F,Contributivo,10,Sanitas,Bogotá,722378,2030-07-24,Cardiovasculares,Medio,2,8,Adulto mayor,Sí
+702,14,F,Subsidiado,7,Coomeva,Cali,1322126,2030-10-06,Hipertension,Alto,4,3,Menor de edad,Sí
+703,60,F,Contributivo,9,Sura,Barranquilla,1100808,2030-12-03,Cáncer,Bajo,2,4,Adulto mayor,Sí
+705,9,M,Subsidiado,6,Sura,Bogotá,1420000,2030-10-31,Cáncer,Bajo,2,7,Menor de edad,Sí
+706,37,F,Contributivo,9,Sura,Medellín,1043628,2030-05-10,Cáncer,Alto,2,4,Adulto,Sí
+708,22,F,Subsidiado,8,Coomeva,Medellín,1207276,2030-10-03,Recuperado,Bajo,0,1,Joven adulto,Sí
+709,53,F,Contributivo,4,Coomeva,Barranquilla,1355563,2030-07-06,Hipertension,Medio,3,4,Adulto,Sí
+710,15,F,Subsidiado,7,Coomeva,Barranquilla,1174628,2030-03-10,Recuperado,Medio,1,5,Menor de edad,No
+711,89,F,Contributivo,12,Nueva EPS,Medellín,1385691,2030-07-02,Fallecido,Alto,3,7,Adulto mayor,Sí
+712,30,M,Subsidiado,7,Sanitas,Cali,693062,2030-09-25,Cáncer,Bajo,2,6,Adulto,Sí
+713,67,F,Contributivo,3,Sura,Medellín,1316719,2030-10-23,Hipertension,Alto,3,2,Adulto mayor,Sí
+715,90,M,Contributivo,11,Coomeva,Medellín,1076642,2030-03-10,Recuperado,Bajo,2,2,Adulto mayor,Sí
+716,63,F,Contributivo,10,Sura,Cali,1470487,2030-03-19,Cáncer,Medio,3,3,Adulto mayor,Sí
+718,53,F,Contributivo,13,Coomeva,Cali,1165072,2030-12-05,Cardiovasculares,Medio,2,6,Adulto,Sí
+719,81,F,Subsidiado,5,Coomeva,Cali,1321673,2030-06-11,Recuperado,Bajo,4,2,Adulto mayor,Sí
+721,5,M,Subsidiado,9,Sanitas,Medellín,943650,2030-08-26,Recuperado,Bajo,2,0,Menor de edad,Sí
+722,25,M,Contributivo,8,Nueva EPS,Bogotá,1172410,2030-05-14,Fallecido,Alto,5,4,Joven adulto,Sí
+723,59,M,Subsidiado,7,Coomeva,Barranquilla,1207789,2030-07-11,Hipertension,Bajo,3,4,Adulto,Sí
+724,10,F,Subsidiado,6,Sura,Cali,629151,2030-03-10,Diabetes,Bajo,1,6,Menor de edad,Sí
+725,85,M,Contributivo,13,Sura,Bogotá,1133182,2030-10-05,Cáncer,Bajo,1,4,Adulto mayor,Sí
+727,9,M,Subsidiado,5,Nueva EPS,Barranquilla,1224363,2030-01-12,Diabetes,Bajo,0,5,Menor de edad,Sí
+728,7,M,Subsidiado,12,Nueva EPS,Bogotá,1086213,2030-06-29,Fallecido,Alto,2,4,Menor de edad,Sí
+730,27,F,Contributivo,10,Coomeva,Bogotá,690665,2030-09-03,Hipertension,Bajo,0,2,Joven adulto,Sí
+731,57,F,Subsidiado,9,Nueva EPS,Cali,1745334,2030-08-10,Fallecido,Alto,2,6,Adulto,Sí
+732,41,M,Contributivo,3,Sura,Medellín,510121,2030-02-20,Cáncer,Bajo,0,5,Adulto,No
+733,49,M,Contributivo,10,Sura,Barranquilla,1073324,2030-03-10,Recuperado,Bajo,3,3,Adulto,Sí
+734,49,M,Subsidiado,11,Coomeva,Barranquilla,1298611,2030-02-17,Cáncer,Bajo,2,0,Adulto,Sí
+735,87,F,Contributivo,6,Sanitas,Barranquilla,1570513,2030-03-10,Recuperado,Medio,3,1,Adulto mayor,Sí
+736,21,M,Contributivo,3,Nueva EPS,Medellín,1044679,2030-09-19,Cáncer,Alto,2,5,Joven adulto,No
+738,82,M,Contributivo,7,Sura,Medellín,1381908,2030-06-04,Diabetes,Bajo,3,6,Adulto mayor,Sí
+739,49,M,Contributivo,10,Sura,Barranquilla,2016086,2030-02-22,Hipertension,Bajo,3,3,Adulto,Sí
+740,5,F,Subsidiado,4,Coomeva,Medellín,1724775,2030-04-17,Fallecido,Alto,2,6,Menor de edad,Sí
+742,49,M,Contributivo,12,Sanitas,Medellín,937721,2030-10-31,Cáncer,Medio,2,3,Adulto,Sí
+743,81,M,Subsidiado,9,Sanitas,Cali,1032381,2030-05-15,Diabetes,Alto,2,4,Adulto mayor,Sí
+744,8,F,Subsidiado,8,Sura,Bogotá,1315972,2030-03-10,Hipertension,Bajo,4,0,Menor de edad,Sí
+745,66,M,Contributivo,7,Nueva EPS,Bogotá,1458863,2030-01-11,Fallecido,Alto,5,4,Adulto mayor,Sí
+746,69,F,Subsidiado,8,Sanitas,Medellín,1335578,2030-05-23,Hipertension,Bajo,1,2,Adulto mayor,Sí
+747,36,M,Contributivo,7,Sura,Bogotá,1431273,2030-07-11,Diabetes,Alto,2,6,Adulto,Sí
+748,38,M,Contributivo,10,Nueva EPS,Bogotá,1333317,2030-03-10,Fallecido,Alto,5,3,Adulto,Sí
+749,76,F,Subsidiado,6,Sura,Medellín,1382538,2030-01-23,Cáncer,Bajo,3,7,Adulto mayor,Sí
+750,43,M,Subsidiado,4,Sanitas,Medellín,705852,2030-06-30,Cáncer,Medio,2,2,Adulto,No
+751,30,F,Subsidiado,5,Coomeva,Bogotá,1289346,2030-10-20,Recuperado,Bajo,3,2,Adulto,Sí
+752,38,F,Subsidiado,5,Sura,Bogotá,1344309,2030-01-09,Diabetes,Bajo,3,2,Adulto,Sí
+753,58,M,Subsidiado,9,Sanitas,Cali,2003809,2030-09-28,Cáncer,Bajo,4,3,Adulto,Sí
+754,7,F,Subsidiado,8,Sanitas,Medellín,2341715,2030-04-03,Recuperado,Bajo,2,3,Menor de edad,Sí
+755,54,F,Subsidiado,9,Sanitas,Barranquilla,1341683,2030-01-17,Cáncer,Alto,4,7,Adulto,Sí
+756,16,F,Subsidiado,1,Sanitas,Cali,1038463,2030-06-03,Cardiovasculares,Alto,2,4,Menor de edad,No
+757,69,F,Subsidiado,3,Sanitas,Bogotá,1092394,2030-11-24,Diabetes,Bajo,2,5,Adulto mayor,No
+758,58,M,Contributivo,6,Nueva EPS,Barranquilla,993451,2030-05-29,Recuperado,Bajo,0,5,Adulto,No
+759,9,M,Subsidiado,6,Sura,Bogotá,1181415,2030-09-24,Recuperado,Bajo,3,4,Menor de edad,Sí
+760,61,M,Contributivo,4,Nueva EPS,Cali,1606394,2030-11-24,Recuperado,Medio,3,6,Adulto mayor,Sí
+761,21,M,Subsidiado,5,Coomeva,Bogotá,1166017,2030-04-16,Cáncer,Bajo,4,1,Joven adulto,Sí
+762,51,F,Contributivo,10,Sanitas,Bogotá,1323401,2030-02-04,Cáncer,Bajo,2,7,Adulto,Sí
+763,27,M,Contributivo,9,Sura,Cali,1327716,2030-04-29,Recuperado,Bajo,2,1,Joven adulto,Sí
+765,89,F,Contributivo,12,Sura,Bogotá,1342617,2030-01-14,Cáncer,Bajo,3,3,Adulto mayor,Sí
+766,18,M,Subsidiado,8,Nueva EPS,Barranquilla,917815,2030-09-23,Recuperado,Bajo,2,2,Joven adulto,Sí
+767,70,M,Subsidiado,10,Sura,Medellín,1381651,2030-05-20,Hipertension,Bajo,4,6,Adulto mayor,Sí
+768,79,F,Subsidiado,6,Coomeva,Cali,1332770,2030-10-21,Diabetes,Medio,4,5,Adulto mayor,Sí
+769,55,F,Contributivo,11,Coomeva,Bogotá,1319302,2030-12-30,Hipertension,Bajo,4,3,Adulto,Sí
+770,42,F,Contributivo,2,Sura,Bogotá,1177105,2030-04-29,Recuperado,Bajo,0,3,Adulto,No
+771,68,F,Contributivo,8,Sura,Cali,1352312,2030-08-26,Hipertension,Bajo,2,1,Adulto mayor,Sí
+772,42,F,Contributivo,6,Sura,Bogotá,1491042,2030-02-03,Cáncer,Bajo,3,4,Adulto,Sí
+773,54,F,Subsidiado,9,Sura,Barranquilla,1007481,2030-06-18,Cáncer,Medio,2,6,Adulto,Sí
+774,86,F,Contributivo,8,Coomeva,Barranquilla,1093178,2030-01-10,Recuperado,Bajo,1,1,Adulto mayor,Sí
+776,83,F,Contributivo,6,Sura,Barranquilla,942330,2030-05-25,Recuperado,Bajo,2,1,Adulto mayor,No
+777,95,F,Contributivo,11,Sura,Bogotá,1224760,2030-08-11,Cáncer,Bajo,2,1,Adulto mayor,Sí
+778,55,F,Subsidiado,9,Coomeva,Cali,1467598,2030-09-14,Cáncer,Bajo,2,2,Adulto,Sí
+779,67,M,Subsidiado,8,Coomeva,Cali,1186452,2030-03-10,Fallecido,Alto,3,5,Adulto mayor,Sí
+780,56,M,Contributivo,6,Nueva EPS,Cali,1090863,2030-12-25,Diabetes,Bajo,1,3,Adulto,No
+781,42,F,Contributivo,5,Sura,Cali,594768,2030-01-04,Fallecido,Alto,4,7,Adulto,Sí
+782,92,F,Contributivo,7,Nueva EPS,Medellín,698899,2030-12-20,Cáncer,Bajo,0,5,Adulto mayor,No
+783,83,F,Contributivo,8,Coomeva,Cali,1415396,2030-04-16,Fallecido,Alto,5,3,Adulto mayor,Sí
+784,34,M,Contributivo,5,Coomeva,Medellín,1283295,2030-03-26,Hipertension,Medio,2,6,Adulto,Sí
+785,55,M,Contributivo,6,Sanitas,Medellín,1012800,2030-08-02,Hipertension,Medio,1,3,Adulto,No
+786,85,F,Contributivo,9,Sura,Barranquilla,1138412,2030-05-01,Cáncer,Medio,4,4,Adulto mayor,Sí
+787,9,M,Subsidiado,3,Nueva EPS,Medellín,1098993,2030-05-12,Hipertension,Bajo,2,3,Menor de edad,No
+788,33,F,Contributivo,2,Coomeva,Bogotá,773716,2030-12-04,Cáncer,Bajo,2,5,Adulto,No
+789,8,M,Subsidiado,1,Sura,Bogotá,1388427,2030-03-10,Cáncer,Alto,2,3,Menor de edad,Sí
+790,14,M,Subsidiado,8,Nueva EPS,Barranquilla,1323126,2030-01-19,Cáncer,Alto,3,3,Menor de edad,Sí
+791,60,F,Subsidiado,7,Sanitas,Medellín,1094260,2030-05-10,Hipertension,Bajo,2,7,Adulto mayor,Sí
+792,21,F,Subsidiado,1,Coomeva,Bogotá,713910,2030-01-12,Cáncer,Bajo,1,5,Joven adulto,No
+793,78,F,Contributivo,5,Sura,Bogotá,855925,2030-03-22,Recuperado,Bajo,1,4,Adulto mayor,No
+794,21,F,Subsidiado,11,Coomeva,Bogotá,1654882,2030-11-26,Recuperado,Bajo,1,5,Joven adulto,Sí
+795,88,M,Contributivo,9,Sura,Bogotá,1164525,2030-03-10,Hipertension,Bajo,2,4,Adulto mayor,Sí
+796,92,M,Contributivo,7,Nueva EPS,Barranquilla,856935,2030-09-19,Recuperado,Bajo,2,0,Adulto mayor,No
+797,73,M,Contributivo,6,Sura,Cali,1287496,2030-05-05,Cáncer,Medio,2,1,Adulto mayor,Sí
+798,38,F,Contributivo,3,Nueva EPS,Barranquilla,935459,2030-11-03,Recuperado,Bajo,1,3,Adulto,No
+799,10,M,Subsidiado,3,Sura,Bogotá,1387284,2030-09-24,Recuperado,Bajo,1,0,Menor de edad,Sí
+800,57,F,Subsidiado,3,Nueva EPS,Bogotá,1126728,2030-05-20,Diabetes,Bajo,3,1,Adulto,Sí
+801,70,M,Contributivo,9,Sura,Barranquilla,1390212,2030-11-25,Recuperado,Medio,4,7,Adulto mayor,Sí
+802,81,F,Subsidiado,4,Sanitas,Medellín,360385,2030-01-02,Hipertension,Bajo,0,5,Adulto mayor,No
+804,79,M,Contributivo,9,Sura,Barranquilla,1147101,2030-09-07,Diabetes,Bajo,2,3,Adulto mayor,Sí
+805,27,F,Contributivo,9,Sanitas,Bogotá,1156956,2030-05-19,Recuperado,Bajo,4,5,Joven adulto,Sí
+806,59,F,Contributivo,11,Coomeva,Cali,1052741,2030-03-10,Cáncer,Bajo,2,5,Adulto,Sí
+807,84,M,Contributivo,9,Coomeva,Bogotá,354626,2030-11-05,Cáncer,Bajo,0,2,Adulto mayor,Sí
+808,79,F,Contributivo,5,Sura,Cali,1239152,2030-08-16,Diabetes,Bajo,3,0,Adulto mayor,Sí
+809,20,F,Contributivo,3,Sanitas,Bogotá,885440,2030-01-10,Cáncer,Bajo,2,4,Joven adulto,No
+810,12,F,Subsidiado,4,Sura,Barranquilla,573555,2030-07-31,Hipertension,Bajo,1,7,Menor de edad,Sí
+811,8,M,Subsidiado,5,Nueva EPS,Bogotá,575557,2030-04-22,Cáncer,Bajo,2,6,Menor de edad,Sí
+812,8,M,Subsidiado,2,Nueva EPS,Bogotá,1295648,2030-01-08,Cáncer,Bajo,2,1,Menor de edad,Sí
+813,60,F,Contributivo,7,Sura,Bogotá,785961,2030-10-19,Hipertension,Bajo,1,5,Adulto mayor,No
+814,29,M,Contributivo,9,Coomeva,Barranquilla,1488193,2030-12-28,Diabetes,Medio,2,5,Joven adulto,Sí
+815,71,F,Subsidiado,11,Coomeva,Barranquilla,1144200,2030-09-10,Hipertension,Medio,3,4,Adulto mayor,Sí
+816,71,F,Subsidiado,4,Sura,Barranquilla,587411,2030-01-14,Diabetes,Alto,3,5,Adulto mayor,Sí
+817,31,F,Subsidiado,10,Sura,Bogotá,764877,2030-08-28,Cáncer,Medio,2,2,Adulto,Sí
+818,36,F,Contributivo,5,Nueva EPS,Cali,1721329,2030-08-30,Hipertension,Bajo,3,1,Adulto,Sí
+819,54,F,Subsidiado,8,Coomeva,Cali,1231385,2030-12-08,Cáncer,Medio,3,4,Adulto,Sí
+821,55,F,Contributivo,7,Nueva EPS,Barranquilla,1501074,2030-08-24,Hipertension,Alto,5,5,Adulto,Sí
+822,23,M,Contributivo,9,Coomeva,Cali,1243486,2030-11-02,Recuperado,Bajo,3,7,Joven adulto,Sí
+823,25,M,Contributivo,5,Sanitas,Bogotá,839750,2030-06-16,Cáncer,Bajo,1,3,Joven adulto,No
+824,9,F,Subsidiado,7,Sura,Barranquilla,1626355,2030-01-20,Cáncer,Bajo,2,3,Menor de edad,Sí
+825,86,F,Subsidiado,9,Coomeva,Medellín,1156151,2030-08-04,Fallecido,Alto,5,7,Adulto mayor,Sí
+826,46,M,Subsidiado,5,Coomeva,Medellín,620009,2030-12-09,Recuperado,Bajo,2,0,Adulto,No
+827,65,M,Contributivo,7,Sura,Bogotá,992091,2030-05-15,Diabetes,Medio,2,7,Adulto mayor,Sí
+828,26,M,Subsidiado,5,Sanitas,Bogotá,1218011,2030-05-09,Diabetes,Bajo,2,5,Joven adulto,Sí
+829,25,F,Contributivo,7,Nueva EPS,Cali,818037,2030-10-21,Cardiovasculares,Bajo,3,4,Joven adulto,Sí
+830,74,M,Subsidiado,8,Coomeva,Bogotá,910818,2030-09-03,Fallecido,Alto,4,5,Adulto mayor,Sí
+831,5,F,Subsidiado,4,Sura,Barranquilla,966181,2030-07-08,Cáncer,Bajo,1,1,Menor de edad,No
+832,9,F,Subsidiado,4,Sura,Medellín,919253,2030-03-10,Hipertension,Medio,1,5,Menor de edad,No
+833,16,F,Subsidiado,6,Nueva EPS,Bogotá,1173269,2030-03-27,Cáncer,Bajo,4,7,Menor de edad,Sí
+834,94,M,Subsidiado,9,Coomeva,Bogotá,1008693,2030-03-10,Fallecido,Alto,3,6,Adulto mayor,Sí
+835,50,F,Subsidiado,9,Sura,Cali,1169284,2030-11-26,Cáncer,Alto,3,4,Adulto,Sí
+836,38,F,Subsidiado,0,Coomeva,Bogotá,906909,2030-05-25,Cáncer,Bajo,4,6,Adulto,Sí
+837,53,F,Contributivo,7,Nueva EPS,Medellín,1616016,2030-02-20,Fallecido,Alto,5,6,Adulto,Sí
+838,82,F,Subsidiado,13,Sura,Bogotá,1745753,2030-08-30,Cáncer,Alto,5,5,Adulto mayor,Sí
+840,49,M,Subsidiado,9,Sura,Cali,855396,2030-02-20,Cáncer,Bajo,2,6,Adulto,Sí
+842,77,F,Subsidiado,5,Coomeva,Bogotá,865875,2030-04-30,Hipertension,Bajo,0,8,Adulto mayor,Sí
+843,30,M,Contributivo,3,Sura,Bogotá,873091,2030-07-19,Cáncer,Bajo,0,5,Adulto,No
+844,51,F,Subsidiado,9,Nueva EPS,Cali,518307,2030-09-05,Recuperado,Bajo,0,3,Adulto,Sí
+845,90,M,Subsidiado,7,Sura,Medellín,742882,2030-03-11,Fallecido,Alto,3,7,Adulto mayor,Sí
+846,60,F,Subsidiado,6,Sura,Barranquilla,877706,2030-12-07,Cáncer,Bajo,3,8,Adulto mayor,Sí
+847,67,M,Subsidiado,14,Sanitas,Medellín,1318500,2030-02-26,Cáncer,Bajo,2,1,Adulto mayor,Sí
+849,65,F,Contributivo,9,Nueva EPS,Bogotá,1016773,2030-10-16,Fallecido,Alto,2,2,Adulto mayor,Sí
+850,49,F,Subsidiado,5,Sanitas,Medellín,786631,2030-01-18,Cáncer,Bajo,0,4,Adulto,No
+851,30,F,Contributivo,2,Nueva EPS,Barranquilla,659509,2030-08-08,Cáncer,Bajo,0,2,Adulto,No
+852,40,M,Contributivo,3,Sanitas,Cali,1029857,2030-11-09,Cardiovasculares,Bajo,2,3,Adulto,No
+853,5,M,Subsidiado,4,Sura,Cali,1418741,2030-09-01,Cáncer,Bajo,2,4,Menor de edad,Sí
+854,12,M,Subsidiado,8,Nueva EPS,Medellín,1627560,2030-12-18,Cáncer,Bajo,2,3,Menor de edad,Sí
+856,83,M,Subsidiado,13,Sura,Bogotá,1400019,2030-10-25,Cardiovasculares,Bajo,3,3,Adulto mayor,Sí
+857,51,M,Contributivo,4,Nueva EPS,Medellín,1260750,2030-10-10,Cáncer,Bajo,0,2,Adulto,Sí
+858,60,F,Contributivo,11,Nueva EPS,Bogotá,573491,2030-03-15,Cáncer,Bajo,0,6,Adulto mayor,Sí
+859,90,M,Contributivo,12,Sanitas,Bogotá,1361670,2030-04-20,Recuperado,Bajo,0,5,Adulto mayor,Sí
+860,18,M,Contributivo,3,Nueva EPS,Cali,1755093,2030-03-10,Recuperado,Bajo,2,4,Joven adulto,Sí
+861,94,F,Subsidiado,14,Coomeva,Cali,1016153,2030-02-01,Cáncer,Bajo,4,2,Adulto mayor,Sí
+862,32,M,Contributivo,3,Sura,Barranquilla,734288,2030-08-22,Diabetes,Bajo,3,7,Adulto,Sí
+863,91,F,Contributivo,10,Sura,Cali,1320190,2030-10-09,Hipertension,Bajo,3,6,Adulto mayor,Sí
+864,82,F,Contributivo,9,Sanitas,Cali,1202620,2030-01-25,Cáncer,Medio,1,7,Adulto mayor,Sí
+866,6,F,Subsidiado,4,Sura,Cali,1475836,2030-10-06,Fallecido,Alto,4,7,Menor de edad,Sí
+867,30,F,Contributivo,2,Sura,Barranquilla,1001869,2030-08-14,Recuperado,Bajo,1,2,Adulto,No
+869,63,M,Subsidiado,5,Nueva EPS,Barranquilla,1255648,2030-06-29,Cáncer,Bajo,2,2,Adulto mayor,Sí
+870,60,F,Contributivo,7,Sanitas,Cali,1458253,2030-03-10,Cáncer,Medio,3,6,Adulto mayor,Sí
+871,11,F,Subsidiado,8,Sura,Barranquilla,1001213,2030-12-09,Diabetes,Bajo,1,2,Menor de edad,Sí
+872,7,F,Subsidiado,0,Coomeva,Bogotá,1032707,2030-10-14,Cáncer,Bajo,3,6,Menor de edad,Sí
+873,27,F,Contributivo,0,Sanitas,Bogotá,531615,2030-03-05,Cáncer,Bajo,2,5,Joven adulto,No
+874,22,F,Subsidiado,7,Sura,Barranquilla,1415254,2030-08-20,Fallecido,Alto,1,3,Joven adulto,Sí
+876,19,M,Subsidiado,9,Nueva EPS,Medellín,1067362,2030-08-01,Hipertension,Bajo,1,4,Joven adulto,Sí
+877,68,M,Contributivo,7,Sanitas,Medellín,1761953,2030-09-15,Fallecido,Alto,4,7,Adulto mayor,Sí
+879,32,F,Contributivo,1,Sura,Cali,1529197,2030-06-24,Cáncer,Bajo,4,3,Adulto,Sí
+880,49,M,Subsidiado,6,Sura,Barranquilla,811071,2030-08-17,Recuperado,Bajo,2,3,Adulto,No
+881,43,M,Subsidiado,5,Sura,Medellín,866061,2030-03-10,Cáncer,Medio,1,7,Adulto,Sí
+882,49,F,Subsidiado,5,Sura,Bogotá,855667,2030-03-25,Cáncer,Medio,0,2,Adulto,No
+883,21,F,Contributivo,8,Nueva EPS,Bogotá,1078606,2030-10-18,Cáncer,Alto,3,5,Joven adulto,Sí
+884,90,M,Contributivo,9,Coomeva,Bogotá,1212117,2030-09-03,Hipertension,Bajo,3,7,Adulto mayor,Sí
+885,94,M,Contributivo,11,Coomeva,Barranquilla,1125853,2030-04-20,Fallecido,Alto,5,3,Adulto mayor,Sí
+886,48,M,Contributivo,7,Sura,Bogotá,1049367,2030-09-11,Cardiovasculares,Medio,0,1,Adulto,No
+887,49,F,Subsidiado,6,Sura,Barranquilla,1054120,2030-03-29,Cáncer,Bajo,3,6,Adulto,Sí
+888,49,M,Contributivo,6,Sanitas,Medellín,501981,2030-03-13,Recuperado,Bajo,1,5,Adulto,No
+889,17,F,Subsidiado,8,Coomeva,Bogotá,1451044,2030-01-30,Cáncer,Bajo,2,2,Menor de edad,Sí
+890,88,M,Subsidiado,8,Sura,Cali,1518194,2030-06-21,Cáncer,Bajo,0,4,Adulto mayor,Sí
+893,14,M,Subsidiado,0,Sura,Bogotá,772435,2030-06-26,Cáncer,Bajo,3,4,Menor de edad,Sí
+894,71,F,Contributivo,3,Sura,Bogotá,1173626,2030-05-19,Cáncer,Alto,4,3,Adulto mayor,Sí
+895,49,F,Contributivo,4,Coomeva,Cali,1290024,2030-07-13,Recuperado,Bajo,4,4,Adulto,Sí
+897,38,F,Contributivo,0,Sura,Medellín,962522,2030-08-06,Cáncer,Bajo,5,5,Adulto,Sí
+898,12,M,Subsidiado,2,Coomeva,Cali,800300,2030-06-13,Cardiovasculares,Medio,2,8,Menor de edad,Sí
+899,49,M,Contributivo,5,Nueva EPS,Medellín,929314,2030-06-10,Cáncer,Bajo,3,3,Adulto,Sí
+901,46,M,Subsidiado,7,Sura,Medellín,1086621,2030-10-23,Cáncer,Alto,3,3,Adulto,Sí
+902,45,F,Subsidiado,7,Coomeva,Medellín,1135420,2030-03-30,Diabetes,Bajo,5,6,Adulto,Sí
+903,49,M,Contributivo,7,Sanitas,Bogotá,1623489,2030-11-20,Cáncer,Medio,4,4,Adulto,Sí
+904,56,M,Contributivo,3,Nueva EPS,Medellín,1712487,2030-02-11,Recuperado,Bajo,2,6,Adulto,Sí
+905,30,F,Subsidiado,5,Nueva EPS,Bogotá,655153,2030-07-29,Recuperado,Bajo,1,1,Adulto,No
+906,68,M,Contributivo,6,Sanitas,Bogotá,1380600,2030-08-17,Cardiovasculares,Bajo,3,2,Adulto mayor,Sí
+907,49,M,Subsidiado,4,Sanitas,Barranquilla,918112,2030-12-16,Hipertension,Medio,1,3,Adulto,No
+908,60,M,Contributivo,5,Nueva EPS,Bogotá,1135473,2030-10-02,Recuperado,Bajo,1,3,Adulto mayor,No
+909,63,F,Contributivo,10,Nueva EPS,Bogotá,1360392,2030-03-10,Fallecido,Alto,1,7,Adulto mayor,Sí
+910,74,M,Contributivo,6,Sanitas,Cali,1503209,2030-09-08,Hipertension,Alto,4,1,Adulto mayor,Sí
+911,37,F,Contributivo,7,Nueva EPS,Barranquilla,1129853,2030-11-06,Fallecido,Alto,5,2,Adulto,Sí
+912,57,F,Subsidiado,9,Sura,Bogotá,759635,2030-07-27,Recuperado,Bajo,2,5,Adulto,Sí
+913,26,M,Contributivo,10,Sura,Medellín,1147305,2030-11-17,Cáncer,Medio,1,3,Joven adulto,Sí
+914,25,F,Subsidiado,7,Sanitas,Barranquilla,1120808,2030-05-20,Cáncer,Bajo,1,5,Joven adulto,No
+915,74,M,Subsidiado,9,Coomeva,Bogotá,828984,2030-10-07,Cáncer,Bajo,1,2,Adulto mayor,Sí
+916,74,M,Contributivo,11,Sanitas,Bogotá,1028811,2030-02-03,Cardiovasculares,Bajo,2,1,Adulto mayor,Sí
+917,8,F,Subsidiado,4,Sanitas,Cali,1320104,2030-03-10,Recuperado,Bajo,2,2,Menor de edad,Sí
+918,79,F,Contributivo,10,Coomeva,Cali,1120548,2030-01-18,Cáncer,Bajo,2,6,Adulto mayor,Sí
+919,66,F,Contributivo,12,Coomeva,Barranquilla,1645739,2030-02-26,Diabetes,Bajo,3,5,Adulto mayor,Sí
+920,66,F,Subsidiado,9,Coomeva,Medellín,1574133,2030-04-22,Cáncer,Medio,1,4,Adulto mayor,Sí
+921,28,F,Contributivo,7,Sura,Bogotá,871233,2030-01-05,Cáncer,Bajo,3,4,Joven adulto,Sí
+923,13,F,Subsidiado,2,Sura,Bogotá,1354143,2030-01-13,Cáncer,Alto,3,6,Menor de edad,Sí
+924,7,M,Subsidiado,7,Nueva EPS,Bogotá,1098296,2030-12-05,Cáncer,Medio,0,0,Menor de edad,No
+925,35,M,Subsidiado,5,Sura,Medellín,835398,2030-10-12,Hipertension,Alto,2,2,Adulto,No
+926,44,M,Subsidiado,6,Nueva EPS,Medellín,1903388,2030-09-16,Fallecido,Alto,3,4,Adulto,Sí
+927,40,F,Subsidiado,6,Sura,Barranquilla,585504,2030-03-10,Fallecido,Alto,5,5,Adulto,Sí
+929,10,M,Subsidiado,3,Sanitas,Medellín,752605,2030-07-05,Cáncer,Bajo,2,6,Menor de edad,Sí
+930,70,F,Contributivo,5,Sura,Barranquilla,1587677,2030-09-07,Hipertension,Bajo,3,7,Adulto mayor,Sí
+931,88,F,Contributivo,9,Nueva EPS,Medellín,1751655,2030-03-10,Fallecido,Alto,4,7,Adulto mayor,Sí
+932,79,F,Contributivo,10,Coomeva,Cali,988556,2030-03-17,Recuperado,Medio,2,5,Adulto mayor,Sí
+933,8,F,Subsidiado,3,Sura,Bogotá,879361,2030-04-18,Hipertension,Bajo,3,2,Menor de edad,Sí
+936,55,F,Contributivo,7,Sura,Bogotá,907070,2030-03-18,Cáncer,Medio,2,2,Adulto,No
+937,66,M,Contributivo,8,Sanitas,Barranquilla,1009740,2030-09-15,Cardiovasculares,Bajo,1,6,Adulto mayor,Sí
+938,61,F,Subsidiado,9,Sura,Bogotá,286389,2030-05-07,Hipertension,Medio,0,4,Adulto mayor,Sí
+940,83,M,Contributivo,6,Sanitas,Bogotá,796072,2030-03-29,Fallecido,Alto,1,2,Adulto mayor,Sí
+941,79,M,Contributivo,8,Coomeva,Bogotá,783221,2030-07-23,Diabetes,Alto,1,2,Adulto mayor,Sí
+942,12,M,Subsidiado,5,Sura,Cali,1839674,2030-01-16,Cardiovasculares,Bajo,3,7,Menor de edad,Sí
+944,55,M,Contributivo,7,Sura,Cali,1506801,2030-09-11,Cáncer,Alto,3,4,Adulto,Sí
+945,49,F,Subsidiado,5,Sura,Barranquilla,734888,2030-07-07,Recuperado,Bajo,1,3,Adulto,No
+946,48,M,Subsidiado,10,Sura,Medellín,1041874,2030-11-25,Fallecido,Alto,4,2,Adulto,Sí
+947,9,M,Subsidiado,6,Sura,Bogotá,1284517,2030-02-01,Cáncer,Bajo,2,2,Menor de edad,Sí
+948,74,F,Subsidiado,11,Sura,Medellín,1118382,2030-09-28,Diabetes,Bajo,2,3,Adulto mayor,Sí
+949,30,F,Subsidiado,9,Sanitas,Medellín,1131731,2030-01-05,Cáncer,Bajo,2,6,Adulto,Sí
+952,88,F,Contributivo,10,Coomeva,Cali,946013,2030-03-10,Diabetes,Medio,2,5,Adulto mayor,Sí
+953,24,F,Subsidiado,6,Sura,Medellín,806718,2030-06-18,Cardiovasculares,Medio,3,3,Joven adulto,Sí
+954,16,F,Subsidiado,5,Coomeva,Medellín,835367,2030-06-30,Cáncer,Alto,2,5,Menor de edad,No
+955,51,F,Contributivo,6,Nueva EPS,Medellín,2534368,2030-06-27,Cáncer,Bajo,5,0,Adulto,Sí
+956,49,M,Contributivo,2,Nueva EPS,Bogotá,1266257,2030-05-23,Recuperado,Bajo,1,0,Adulto,Sí
+957,94,F,Contributivo,7,Coomeva,Bogotá,620090,2030-12-28,Diabetes,Bajo,1,2,Adulto mayor,No
+959,68,M,Contributivo,9,Sanitas,Cali,1351262,2030-05-07,Cardiovasculares,Bajo,3,0,Adulto mayor,Sí
+960,42,F,Subsidiado,4,Nueva EPS,Bogotá,1104352,2030-09-20,Recuperado,Bajo,2,6,Adulto,Sí
+962,15,M,Subsidiado,6,Sura,Bogotá,1168109,2030-12-21,Cáncer,Bajo,3,5,Menor de edad,Sí
+963,81,F,Contributivo,8,Sanitas,Barranquilla,814604,2030-09-12,Cáncer,Alto,1,1,Adulto mayor,Sí
+964,7,M,Subsidiado,5,Nueva EPS,Medellín,1257659,2030-05-23,Cáncer,Bajo,3,3,Menor de edad,Sí
+965,37,F,Contributivo,4,Sura,Medellín,1070141,2030-08-28,Fallecido,Alto,2,5,Adulto,Sí
+966,10,M,Subsidiado,7,Sura,Cali,651508,2030-08-16,Cáncer,Alto,5,3,Menor de edad,Sí
+967,54,F,Contributivo,6,Sura,Bogotá,920179,2030-12-07,Cáncer,Medio,2,1,Adulto,No
+968,14,M,Subsidiado,5,Sanitas,Bogotá,762210,2030-07-17,Recuperado,Bajo,1,1,Menor de edad,No
+969,9,F,Subsidiado,2,Sanitas,Cali,962368,2030-03-06,Recuperado,Bajo,1,1,Menor de edad,No
+970,27,F,Subsidiado,3,Nueva EPS,Bogotá,2195216,2030-01-11,Cáncer,Alto,2,7,Joven adulto,Sí
+971,49,M,Contributivo,6,Coomeva,Barranquilla,1106149,2030-04-18,Cardiovasculares,Bajo,3,3,Adulto,Sí
+972,48,M,Subsidiado,8,Nueva EPS,Medellín,1072075,2030-01-26,Recuperado,Bajo,3,4,Adulto,Sí
+973,6,F,Subsidiado,5,Sura,Cali,1099925,2030-05-31,Hipertension,Medio,0,6,Menor de edad,Sí
+974,17,F,Subsidiado,7,Nueva EPS,Bogotá,1361832,2030-08-09,Cáncer,Bajo,2,6,Menor de edad,Sí
+975,44,M,Subsidiado,9,Coomeva,Bogotá,1189910,2030-12-07,Cáncer,Bajo,3,7,Adulto,Sí
+977,88,F,Subsidiado,8,Coomeva,Barranquilla,1957703,2030-08-25,Cáncer,Bajo,2,5,Adulto mayor,Sí
+978,69,F,Subsidiado,10,Coomeva,Bogotá,623166,2030-08-07,Cardiovasculares,Medio,1,3,Adulto mayor,Sí
+981,21,F,Contributivo,6,Coomeva,Bogotá,1393623,2030-05-24,Cardiovasculares,Alto,4,5,Joven adulto,Sí
+982,13,F,Subsidiado,7,Coomeva,Barranquilla,1112841,2030-07-08,Cardiovasculares,Alto,6,4,Menor de edad,Sí
+984,19,M,Contributivo,4,Sura,Cali,735087,2030-03-09,Recuperado,Bajo,0,3,Joven adulto,No
+985,28,F,Contributivo,5,Coomeva,Barranquilla,1550646,2030-04-14,Cáncer,Medio,2,6,Joven adulto,Sí
+986,42,M,Subsidiado,7,Sanitas,Medellín,1424340,2030-12-02,Recuperado,Bajo,3,2,Adulto,Sí
+987,39,F,Subsidiado,4,Coomeva,Medellín,576135,2030-06-08,Cáncer,Medio,1,5,Adulto,No
+989,73,F,Contributivo,6,Sanitas,Cali,851501,2030-12-28,Recuperado,Bajo,2,5,Adulto mayor,No
+990,66,M,Contributivo,4,Coomeva,Barranquilla,721348,2030-03-10,Cáncer,Alto,3,4,Adulto mayor,Sí
+993,82,F,Contributivo,7,Sanitas,Medellín,1821580,2030-09-13,Recuperado,Bajo,0,3,Adulto mayor,Sí
+994,79,F,Contributivo,11,Coomeva,Medellín,1420764,2030-12-19,Hipertension,Alto,2,5,Adulto mayor,Sí
+995,13,F,Subsidiado,7,Coomeva,Medellín,577631,2030-08-08,Cáncer,Bajo,1,2,Menor de edad,No
+998,39,F,Contributivo,9,Coomeva,Bogotá,1689734,2030-11-21,Recuperado,Bajo,0,0,Adulto,Sí
+1000,44,F,Contributivo,3,Nueva EPS,Barranquilla,342027,2030-03-10,Hipertension,Medio,1,0,Adulto,No
+1001,68,M,Subsidiado,10,Sanitas,Barranquilla,1677310,2030-10-11,Cáncer,Bajo,1,3,Adulto mayor,Sí
+1002,26,F,Contributivo,9,Nueva EPS,Medellín,1290106,2030-11-08,Cáncer,Bajo,3,2,Joven adulto,Sí
+1003,64,M,Contributivo,5,Sura,Medellín,955438,2030-04-09,Fallecido,Alto,2,4,Adulto mayor,Sí
+1004,68,F,Contributivo,7,Sura,Barranquilla,1380128,2030-07-16,Cardiovasculares,Alto,3,5,Adulto mayor,Sí
+1005,76,M,Contributivo,5,Sura,Bogotá,421916,2030-08-14,Recuperado,Bajo,2,3,Adulto mayor,No
+1008,49,F,Subsidiado,8,Sura,Bogotá,1173708,2030-04-16,Fallecido,Alto,5,6,Adulto,Sí
+1009,34,F,Contributivo,3,Coomeva,Barranquilla,832893,2030-12-31,Diabetes,Bajo,3,7,Adulto,Sí
+1010,39,M,Contributivo,9,Coomeva,Bogotá,1287111,2030-02-27,Recuperado,Bajo,1,4,Adulto,Sí
+1011,89,F,Contributivo,7,Sura,Medellín,1401936,2030-03-19,Cardiovasculares,Alto,4,7,Adulto mayor,Sí
+1012,41,F,Subsidiado,11,Sura,Barranquilla,1417834,2030-03-16,Cardiovasculares,Alto,3,5,Adulto,Sí
+1014,87,F,Contributivo,6,Nueva EPS,Cali,1046622,2030-11-20,Cáncer,Bajo,3,2,Adulto mayor,Sí
+1015,82,F,Subsidiado,13,Sura,Barranquilla,1423514,2030-06-30,Hipertension,Bajo,4,6,Adulto mayor,Sí
+1016,30,F,Subsidiado,3,Sanitas,Bogotá,817851,2030-02-02,Hipertension,Bajo,1,4,Adulto,No
+1017,66,F,Contributivo,8,Sanitas,Cali,1258751,2030-03-12,Cáncer,Medio,1,7,Adulto mayor,Sí
+1018,8,F,Subsidiado,0,Nueva EPS,Cali,822121,2030-02-25,Cáncer,Bajo,2,4,Menor de edad,No
+1020,46,M,Subsidiado,10,Sura,Cali,593330,2030-07-19,Recuperado,Bajo,1,1,Adulto,Sí
+1021,93,F,Contributivo,13,Sura,Medellín,1111609,2030-03-10,Cáncer,Alto,1,3,Adulto mayor,Sí
+1022,22,F,Subsidiado,7,Sura,Medellín,1172561,2030-09-13,Cáncer,Medio,2,0,Joven adulto,No
+1023,44,M,Contributivo,5,Sanitas,Medellín,1316935,2030-11-03,Diabetes,Medio,5,4,Adulto,Sí
+1024,76,M,Subsidiado,9,Sanitas,Barranquilla,527869,2030-03-15,Cáncer,Medio,0,3,Adulto mayor,Sí
+1025,43,M,Subsidiado,6,Coomeva,Cali,1300198,2030-06-20,Cáncer,Medio,4,2,Adulto,Sí
+1026,18,F,Contributivo,6,Sanitas,Cali,1161872,2030-05-23,Cáncer,Bajo,0,6,Joven adulto,Sí
+1027,36,M,Subsidiado,6,Sanitas,Bogotá,1345556,2030-03-10,Hipertension,Medio,3,4,Adulto,Sí
+1028,55,F,Contributivo,3,Nueva EPS,Bogotá,1354822,2030-09-18,Hipertension,Medio,4,2,Adulto,Sí
+1029,42,F,Contributivo,1,Sura,Cali,1043364,2030-08-09,Cáncer,Alto,2,1,Adulto,No
+1030,27,M,Subsidiado,4,Sura,Cali,874086,2030-03-24,Cáncer,Medio,0,6,Joven adulto,Sí
+1031,67,F,Contributivo,5,Nueva EPS,Cali,861773,2030-07-01,Cardiovasculares,Medio,1,7,Adulto mayor,Sí
+1032,49,F,Subsidiado,6,Coomeva,Barranquilla,1827442,2030-11-03,Fallecido,Alto,5,5,Adulto,Sí
+1034,21,F,Contributivo,4,Sanitas,Bogotá,895323,2030-01-04,Cáncer,Bajo,2,1,Joven adulto,No
+1035,70,M,Contributivo,8,Sura,Barranquilla,565674,2030-12-17,Cáncer,Bajo,1,6,Adulto mayor,Sí
+1037,57,F,Subsidiado,5,Coomeva,Bogotá,593841,2030-10-19,Cardiovasculares,Alto,1,1,Adulto,No
+1040,55,F,Contributivo,10,Nueva EPS,Cali,871053,2030-04-08,Cardiovasculares,Medio,2,3,Adulto,Sí
+1041,74,M,Contributivo,6,Sura,Cali,791082,2030-04-11,Cáncer,Bajo,0,3,Adulto mayor,No
+1042,10,F,Subsidiado,9,Sanitas,Barranquilla,1097668,2030-01-09,Cáncer,Medio,3,4,Menor de edad,Sí
+1043,71,F,Subsidiado,5,Nueva EPS,Bogotá,1500813,2030-03-02,Diabetes,Alto,3,3,Adulto mayor,Sí
+1044,11,M,Subsidiado,4,Sura,Bogotá,306752,2030-11-05,Diabetes,Bajo,2,1,Menor de edad,No
+1046,76,M,Contributivo,11,Nueva EPS,Cali,1129783,2030-03-04,Fallecido,Alto,2,7,Adulto mayor,Sí
+1047,46,M,Contributivo,7,Nueva EPS,Medellín,1446572,2030-05-01,Diabetes,Bajo,0,0,Adulto,Sí
+1048,68,F,Contributivo,5,Sura,Medellín,904748,2030-08-14,Diabetes,Bajo,3,5,Adulto mayor,Sí
+1049,19,M,Contributivo,4,Sura,Bogotá,494662,2030-04-15,Diabetes,Alto,3,6,Joven adulto,Sí
+1050,33,F,Subsidiado,3,Sura,Barranquilla,919026,2030-09-17,Recuperado,Bajo,0,3,Adulto,No
+1051,37,M,Subsidiado,10,Sanitas,Barranquilla,1059528,2030-12-15,Recuperado,Bajo,2,2,Adulto,Sí
+1053,40,F,Subsidiado,3,Nueva EPS,Barranquilla,576486,2030-07-26,Cáncer,Medio,0,3,Adulto,No
+1054,33,M,Subsidiado,4,Nueva EPS,Medellín,1062234,2030-01-28,Cardiovasculares,Medio,3,6,Adulto,Sí
+1055,42,M,Contributivo,9,Sura,Cali,1086314,2030-06-19,Cáncer,Medio,5,3,Adulto,Sí
+1057,31,M,Subsidiado,8,Coomeva,Cali,1674391,2030-03-17,Hipertension,Alto,3,3,Adulto,Sí
+1058,59,F,Contributivo,8,Nueva EPS,Barranquilla,1305249,2030-04-26,Cáncer,Bajo,2,4,Adulto,Sí
+1059,37,F,Subsidiado,1,Sanitas,Cali,1061645,2030-03-10,Cáncer,Bajo,1,2,Adulto,No
+1060,72,M,Contributivo,4,Coomeva,Barranquilla,551407,2030-12-20,Hipertension,Bajo,0,7,Adulto mayor,Sí
+1061,90,M,Contributivo,9,Sura,Barranquilla,872801,2030-08-22,Hipertension,Bajo,1,8,Adulto mayor,Sí
+1062,49,F,Subsidiado,10,Sura,Medellín,958538,2030-01-01,Fallecido,Alto,2,5,Adulto,Sí
+1063,14,F,Subsidiado,10,Nueva EPS,Barranquilla,951750,2030-06-16,Cáncer,Alto,1,5,Menor de edad,Sí
+1064,9,F,Subsidiado,0,Sura,Medellín,1157743,2030-12-18,Diabetes,Bajo,3,2,Menor de edad,Sí
+1065,78,F,Contributivo,11,Sanitas,Medellín,849203,2030-08-06,Hipertension,Alto,2,4,Adulto mayor,Sí
+1066,42,F,Subsidiado,8,Nueva EPS,Medellín,856463,2030-09-30,Cáncer,Medio,1,7,Adulto,Sí
+1067,17,M,Subsidiado,3,Sura,Bogotá,1308830,2030-09-08,Cáncer,Alto,4,5,Menor de edad,Sí
+1068,35,M,Subsidiado,6,Nueva EPS,Bogotá,1175401,2030-12-13,Hipertension,Bajo,1,5,Adulto,No
+1069,51,M,Contributivo,4,Sura,Barranquilla,1510133,2030-12-10,Cáncer,Medio,3,3,Adulto,Sí
+1071,56,M,Subsidiado,8,Sura,Bogotá,1431540,2030-06-19,Cáncer,Alto,5,8,Adulto,Sí
+1075,12,M,Subsidiado,5,Sura,Cali,1526686,2030-10-21,Cáncer,Bajo,2,6,Menor de edad,Sí
+1076,49,M,Contributivo,3,Sura,Barranquilla,1108283,2030-05-30,Diabetes,Medio,2,4,Adulto,No
+1077,33,F,Contributivo,2,Sanitas,Medellín,1091407,2030-05-12,Diabetes,Alto,4,2,Adulto,Sí
+1078,51,F,Contributivo,5,Sura,Cali,848018,2030-02-28,Hipertension,Medio,1,6,Adulto,Sí
+1079,72,M,Subsidiado,7,Sanitas,Bogotá,1186126,2030-11-20,Cardiovasculares,Alto,4,2,Adulto mayor,Sí
+1081,49,F,Subsidiado,6,Nueva EPS,Cali,1253189,2030-08-03,Cáncer,Medio,2,3,Adulto,Sí
+1083,31,F,Subsidiado,5,Sura,Barranquilla,1801345,2030-08-20,Diabetes,Bajo,4,2,Adulto,Sí
+1084,40,F,Contributivo,8,Coomeva,Bogotá,1560829,2030-09-04,Cáncer,Medio,2,3,Adulto,Sí
+1085,40,M,Contributivo,7,Sanitas,Medellín,869622,2030-08-27,Cáncer,Bajo,0,3,Adulto,No
+1086,30,F,Contributivo,4,Sura,Bogotá,1334928,2030-06-17,Hipertension,Medio,4,2,Adulto,Sí
+1087,47,M,Contributivo,3,Sura,Medellín,635876,2030-02-17,Recuperado,Bajo,0,4,Adulto,No
+1089,73,F,Subsidiado,7,Coomeva,Barranquilla,1987067,2030-10-26,Cáncer,Bajo,4,2,Adulto mayor,Sí
+1090,24,F,Contributivo,8,Sanitas,Barranquilla,895007,2030-04-08,Cáncer,Bajo,1,5,Joven adulto,Sí
+1091,15,F,Subsidiado,4,Sura,Barranquilla,478181,2030-08-04,Diabetes,Bajo,0,6,Menor de edad,Sí
+1092,78,M,Subsidiado,10,Nueva EPS,Medellín,996749,2030-06-26,Fallecido,Alto,1,7,Adulto mayor,Sí
+1093,42,F,Contributivo,4,Coomeva,Cali,742616,2030-03-21,Recuperado,Bajo,1,0,Adulto,No
+1094,10,M,Subsidiado,1,Nueva EPS,Medellín,579765,2030-07-04,Diabetes,Bajo,1,5,Menor de edad,No
+1095,76,M,Contributivo,8,Sanitas,Bogotá,926228,2030-01-27,Cáncer,Medio,2,1,Adulto mayor,Sí
+1097,51,M,Subsidiado,3,Sanitas,Barranquilla,969356,2030-08-02,Hipertension,Medio,1,0,Adulto,No
+1098,94,M,Contributivo,9,Sanitas,Bogotá,1209778,2030-12-08,Recuperado,Bajo,1,2,Adulto mayor,Sí
+1099,50,M,Contributivo,10,Sanitas,Bogotá,922964,2030-04-24,Cáncer,Bajo,4,8,Adulto,Sí
+1100,16,F,Subsidiado,8,Nueva EPS,Cali,1228252,2030-08-30,Cáncer,Medio,1,6,Menor de edad,Sí
+1101,94,M,Subsidiado,10,Nueva EPS,Cali,1711473,2030-05-04,Cáncer,Medio,5,1,Adulto mayor,Sí
+1102,17,F,Subsidiado,2,Sanitas,Bogotá,756183,2030-11-01,Cardiovasculares,Medio,0,5,Menor de edad,No
+1103,66,F,Contributivo,5,Coomeva,Cali,783757,2030-03-17,Hipertension,Medio,1,5,Adulto mayor,No
+1104,86,M,Contributivo,7,Sura,Medellín,1735025,2030-11-07,Hipertension,Bajo,4,4,Adulto mayor,Sí
+1105,93,M,Contributivo,13,Sanitas,Bogotá,849558,2030-11-08,Cáncer,Medio,2,3,Adulto mayor,Sí
+1106,64,F,Contributivo,5,Coomeva,Bogotá,1243989,2030-07-15,Cáncer,Bajo,1,3,Adulto mayor,Sí
+1107,49,F,Subsidiado,4,Sura,Medellín,998896,2030-12-17,Cáncer,Bajo,1,3,Adulto,No
+1108,80,M,Contributivo,9,Sanitas,Barranquilla,1317919,2030-02-13,Cáncer,Alto,3,4,Adulto mayor,Sí
+1109,49,F,Contributivo,7,Sanitas,Bogotá,809367,2030-07-05,Cáncer,Bajo,3,6,Adulto,Sí
+1111,41,M,Contributivo,4,Sura,Bogotá,1490355,2030-09-03,Cáncer,Bajo,3,2,Adulto,Sí
+1112,76,F,Contributivo,7,Sura,Cali,921872,2030-03-25,Cáncer,Bajo,3,4,Adulto mayor,Sí
+1113,35,F,Contributivo,5,Coomeva,Medellín,1159220,2030-07-26,Cáncer,Bajo,2,3,Adulto,No
+1114,13,M,Subsidiado,8,Sura,Barranquilla,722175,2030-05-31,Recuperado,Bajo,3,4,Menor de edad,Sí
+1115,55,F,Contributivo,8,Nueva EPS,Medellín,1431612,2030-06-05,Diabetes,Medio,1,6,Adulto,Sí
+1116,49,F,Subsidiado,8,Nueva EPS,Bogotá,459242,2030-01-16,Diabetes,Bajo,0,7,Adulto,Sí
+1117,82,F,Subsidiado,8,Nueva EPS,Bogotá,1447663,2030-06-14,Fallecido,Alto,2,4,Adulto mayor,Sí
+1118,49,F,Contributivo,12,Sura,Medellín,1396621,2030-05-25,Recuperado,Bajo,0,1,Adulto,Sí
+1119,45,F,Subsidiado,6,Sura,Barranquilla,690603,2030-02-06,Diabetes,Bajo,1,4,Adulto,No
+1120,90,M,Contributivo,5,Sanitas,Barranquilla,1402233,2030-11-29,Cáncer,Alto,3,4,Adulto mayor,Sí
+1122,27,F,Subsidiado,12,Nueva EPS,Bogotá,965837,2030-07-25,Hipertension,Medio,1,6,Joven adulto,Sí
+1124,50,M,Subsidiado,4,Nueva EPS,Cali,317666,2030-03-10,Cáncer,Medio,1,5,Adulto,No
+1125,25,F,Contributivo,3,Sanitas,Bogotá,1008645,2030-11-04,Cáncer,Bajo,2,2,Joven adulto,No
+1126,49,M,Contributivo,11,Sura,Barranquilla,681502,2030-01-19,Diabetes,Bajo,2,2,Adulto,Sí
+1127,40,F,Subsidiado,8,Coomeva,Medellín,982832,2030-12-31,Cáncer,Bajo,1,7,Adulto,Sí
+1128,49,F,Contributivo,7,Sanitas,Barranquilla,1071437,2030-10-27,Fallecido,Alto,5,3,Adulto,Sí
+1129,91,M,Contributivo,7,Sanitas,Cali,1554895,2030-01-07,Fallecido,Alto,1,4,Adulto mayor,Sí
+1130,49,F,Contributivo,1,Sanitas,Barranquilla,926118,2030-09-06,Cáncer,Bajo,3,4,Adulto,Sí
+1131,5,F,Subsidiado,7,Sanitas,Barranquilla,971550,2030-04-27,Recuperado,Bajo,2,4,Menor de edad,No
+1132,67,F,Subsidiado,9,Sanitas,Cali,1305766,2030-03-09,Cáncer,Bajo,2,0,Adulto mayor,Sí
+1133,58,F,Contributivo,13,Sanitas,Medellín,1131973,2030-02-03,Cáncer,Bajo,1,0,Adulto,Sí
+1134,59,F,Subsidiado,8,Nueva EPS,Bogotá,1144267,2030-03-10,Diabetes,Bajo,3,5,Adulto,Sí
+1135,44,M,Contributivo,5,Nueva EPS,Medellín,1075496,2030-11-21,Hipertension,Bajo,1,5,Adulto,No
+1136,49,M,Subsidiado,5,Nueva EPS,Cali,517905,2030-02-24,Cáncer,Bajo,1,5,Adulto,No
+1137,25,F,Contributivo,3,Nueva EPS,Barranquilla,1234466,2030-09-23,Cáncer,Alto,4,6,Joven adulto,Sí
+1138,51,F,Contributivo,9,Sanitas,Bogotá,1278166,2030-02-11,Cáncer,Bajo,2,8,Adulto,Sí
+1139,77,M,Contributivo,10,Coomeva,Bogotá,648200,2030-10-24,Hipertension,Medio,0,3,Adulto mayor,Sí
+1140,57,F,Contributivo,9,Sura,Cali,1229319,2030-08-19,Diabetes,Bajo,3,7,Adulto,Sí
+1141,13,M,Subsidiado,4,Sanitas,Medellín,1225120,2030-01-10,Hipertension,Alto,4,4,Menor de edad,Sí
+1142,78,F,Subsidiado,9,Sura,Bogotá,1069918,2030-03-10,Recuperado,Bajo,1,5,Adulto mayor,Sí
+1143,56,F,Subsidiado,9,Coomeva,Cali,1015505,2030-05-08,Hipertension,Bajo,1,4,Adulto,Sí
+1144,61,F,Contributivo,5,Nueva EPS,Bogotá,1879211,2030-06-28,Fallecido,Alto,4,3,Adulto mayor,Sí
+1145,30,F,Contributivo,11,Coomeva,Cali,1584720,2030-07-12,Recuperado,Bajo,4,3,Adulto,Sí
+1146,45,F,Contributivo,11,Sanitas,Barranquilla,607421,2030-04-02,Cáncer,Medio,0,0,Adulto,Sí
+1148,67,F,Subsidiado,11,Sanitas,Bogotá,1743238,2030-03-19,Cáncer,Alto,2,1,Adulto mayor,Sí
+1149,29,M,Contributivo,5,Nueva EPS,Cali,1096094,2030-03-26,Cáncer,Bajo,1,3,Joven adulto,No
+1150,94,M,Contributivo,9,Sura,Bogotá,1524716,2030-01-30,Cáncer,Bajo,3,3,Adulto mayor,Sí
+1151,79,M,Contributivo,6,Sura,Bogotá,1572661,2030-08-01,Cáncer,Medio,1,5,Adulto mayor,Sí
+1152,42,F,Contributivo,5,Sura,Medellín,1162858,2030-02-18,Diabetes,Bajo,2,1,Adulto,No
+1154,11,F,Subsidiado,4,Sanitas,Bogotá,1447535,2030-05-25,Recuperado,Bajo,0,2,Menor de edad,Sí
+1155,86,F,Subsidiado,12,Coomeva,Cali,1392532,2030-03-10,Hipertension,Medio,3,6,Adulto mayor,Sí
+1156,95,F,Subsidiado,9,Sura,Cali,1194103,2030-02-27,Fallecido,Alto,5,2,Adulto mayor,Sí
+1157,38,F,Contributivo,2,Sanitas,Barranquilla,964585,2030-07-04,Cáncer,Alto,3,6,Adulto,Sí
+1159,21,M,Contributivo,6,Coomeva,Barranquilla,751479,2030-11-04,Diabetes,Bajo,2,6,Joven adulto,Sí
+1160,47,F,Subsidiado,5,Coomeva,Cali,1532854,2030-03-10,Hipertension,Bajo,3,0,Adulto,Sí
+1161,63,M,Contributivo,6,Coomeva,Medellín,1337997,2030-03-10,Recuperado,Bajo,5,4,Adulto mayor,Sí
+1162,55,M,Contributivo,3,Sura,Bogotá,603455,2030-06-20,Diabetes,Alto,2,3,Adulto,No
+1163,58,F,Subsidiado,9,Sanitas,Medellín,1149436,2030-03-04,Cáncer,Bajo,1,7,Adulto,Sí
+1164,28,F,Subsidiado,7,Sanitas,Bogotá,397166,2030-05-27,Recuperado,Bajo,2,5,Joven adulto,No
+1165,29,M,Subsidiado,8,Sura,Bogotá,1244515,2030-11-02,Cáncer,Bajo,1,6,Joven adulto,Sí
+1167,56,F,Subsidiado,8,Sura,Medellín,1019754,2030-05-21,Cáncer,Medio,2,3,Adulto,Sí
+1169,92,M,Subsidiado,8,Nueva EPS,Medellín,1484410,2030-04-07,Recuperado,Bajo,2,2,Adulto mayor,Sí
+1170,37,F,Contributivo,8,Sura,Barranquilla,1007427,2030-08-09,Hipertension,Alto,3,4,Adulto,Sí
+1173,67,M,Subsidiado,4,Nueva EPS,Bogotá,1462326,2030-04-18,Cáncer,Bajo,0,2,Adulto mayor,Sí
+1174,26,M,Contributivo,2,Nueva EPS,Medellín,980213,2030-09-23,Cáncer,Medio,3,6,Joven adulto,Sí
+1175,30,M,Contributivo,5,Sura,Cali,1375528,2030-04-05,Cáncer,Alto,2,4,Adulto,Sí
+1176,32,F,Subsidiado,8,Nueva EPS,Medellín,1562989,2030-09-19,Hipertension,Alto,2,4,Adulto,Sí
+1177,89,F,Contributivo,5,Nueva EPS,Medellín,550328,2030-11-09,Recuperado,Bajo,0,7,Adulto mayor,Sí
+1178,53,M,Subsidiado,9,Coomeva,Bogotá,949198,2030-03-12,Hipertension,Bajo,3,3,Adulto,Sí
+1179,75,M,Contributivo,5,Sura,Cali,1513060,2030-08-07,Cardiovasculares,Bajo,1,3,Adulto mayor,Sí
+1181,88,F,Subsidiado,12,Sanitas,Bogotá,1339707,2030-04-02,Diabetes,Alto,3,0,Adulto mayor,Sí
+1182,53,M,Subsidiado,7,Coomeva,Cali,822810,2030-05-07,Recuperado,Bajo,2,2,Adulto,No
+1183,24,F,Contributivo,7,Coomeva,Cali,2132373,2030-03-21,Hipertension,Bajo,6,7,Joven adulto,Sí
+1185,67,F,Contributivo,8,Coomeva,Barranquilla,987384,2030-08-26,Diabetes,Bajo,1,3,Adulto mayor,Sí
+1186,65,F,Subsidiado,10,Coomeva,Medellín,1403979,2030-07-01,Cáncer,Bajo,3,1,Adulto mayor,Sí
+1188,75,F,Subsidiado,5,Sura,Bogotá,1549999,2030-06-05,Cáncer,Bajo,3,5,Adulto mayor,Sí
+1190,17,M,Subsidiado,7,Coomeva,Medellín,1176673,2030-04-30,Cáncer,Alto,1,6,Menor de edad,Sí
+1191,91,F,Subsidiado,5,Nueva EPS,Medellín,1039495,2030-10-04,Cáncer,Medio,2,7,Adulto mayor,Sí
+1192,55,M,Contributivo,8,Nueva EPS,Barranquilla,1311001,2030-01-18,Recuperado,Bajo,3,0,Adulto,Sí
+1194,87,F,Subsidiado,10,Sura,Bogotá,1079419,2030-03-10,Diabetes,Bajo,3,4,Adulto mayor,Sí
+1195,66,F,Contributivo,10,Sanitas,Bogotá,1344433,2030-03-10,Recuperado,Bajo,3,4,Adulto mayor,Sí
+1196,36,F,Contributivo,6,Sura,Barranquilla,1027011,2030-01-19,Diabetes,Medio,3,1,Adulto,Sí
+1197,34,F,Contributivo,5,Sanitas,Barranquilla,1135660,2030-12-19,Diabetes,Medio,2,1,Adulto,No
+1198,33,F,Contributivo,7,Nueva EPS,Bogotá,1065100,2030-07-12,Diabetes,Medio,3,6,Adulto,Sí
+1200,49,M,Subsidiado,6,Sura,Barranquilla,1306560,2030-10-04,Recuperado,Bajo,2,0,Adulto,Sí
+1201,34,M,Contributivo,4,Sura,Bogotá,821306,2030-08-15,Hipertension,Bajo,2,1,Adulto,No
+1202,20,F,Subsidiado,3,Sanitas,Bogotá,1131915,2030-08-21,Cáncer,Bajo,3,3,Joven adulto,Sí
+1203,44,M,Contributivo,4,Coomeva,Barranquilla,1028789,2030-02-09,Cáncer,Medio,2,5,Adulto,No
+1204,23,F,Contributivo,8,Sanitas,Bogotá,936755,2030-11-19,Diabetes,Bajo,1,5,Joven adulto,Sí
+1205,22,M,Contributivo,10,Sura,Cali,1103889,2030-06-02,Cáncer,Bajo,1,2,Joven adulto,Sí
+1206,49,M,Contributivo,4,Sanitas,Medellín,868815,2030-05-07,Diabetes,Bajo,2,5,Adulto,No
+1207,82,M,Contributivo,8,Sura,Bogotá,1054062,2030-08-25,Diabetes,Alto,5,4,Adulto mayor,Sí
+1208,51,F,Contributivo,6,Sanitas,Cali,1270576,2030-02-24,Cáncer,Bajo,4,5,Adulto,Sí
+1209,70,M,Contributivo,11,Sura,Barranquilla,1609932,2030-06-21,Fallecido,Alto,5,5,Adulto mayor,Sí
+1210,49,F,Contributivo,10,Sura,Bogotá,879292,2030-04-19,Cáncer,Bajo,1,2,Adulto,Sí
+1212,67,M,Subsidiado,7,Coomeva,Barranquilla,845687,2030-07-03,Recuperado,Bajo,2,1,Adulto mayor,No
+1213,8,M,Subsidiado,4,Sanitas,Medellín,1231906,2030-07-17,Cáncer,Medio,3,4,Menor de edad,Sí
+1214,5,M,Subsidiado,7,Sura,Barranquilla,1367170,2030-03-28,Cáncer,Medio,1,3,Menor de edad,Sí
+1215,12,M,Subsidiado,6,Sanitas,Bogotá,1224602,2030-07-20,Fallecido,Alto,3,6,Menor de edad,Sí
+1216,33,F,Contributivo,7,Sura,Barranquilla,1241171,2030-03-10,Hipertension,Bajo,3,5,Adulto,Sí
+1217,59,F,Contributivo,7,Sanitas,Cali,1025242,2030-11-18,Cáncer,Bajo,3,6,Adulto,Sí
+1218,7,M,Subsidiado,4,Sanitas,Barranquilla,1104325,2030-10-02,Recuperado,Medio,3,1,Menor de edad,Sí
+1219,36,M,Subsidiado,6,Sura,Bogotá,1131613,2030-07-30,Hipertension,Bajo,5,8,Adulto,Sí
+1220,14,M,Subsidiado,4,Nueva EPS,Barranquilla,500284,2030-04-28,Cáncer,Medio,0,4,Menor de edad,No
+1221,78,M,Subsidiado,10,Sura,Medellín,759456,2030-07-10,Recuperado,Bajo,0,3,Adulto mayor,Sí
+1222,87,F,Contributivo,6,Sanitas,Barranquilla,619421,2030-02-11,Fallecido,Alto,4,6,Adulto mayor,Sí
+1223,38,M,Subsidiado,2,Sura,Medellín,827911,2030-02-11,Diabetes,Medio,3,8,Adulto,Sí
+1224,91,F,Subsidiado,9,Nueva EPS,Cali,998330,2030-11-11,Fallecido,Alto,3,4,Adulto mayor,Sí
+1225,49,M,Contributivo,6,Sura,Medellín,919149,2030-10-03,Cáncer,Bajo,1,6,Adulto,Sí
+1226,49,F,Subsidiado,4,Sanitas,Barranquilla,1049023,2030-11-25,Recuperado,Bajo,2,3,Adulto,No
+1227,54,M,Contributivo,9,Nueva EPS,Bogotá,1088009,2030-01-17,Recuperado,Medio,1,3,Adulto,Sí
+1228,11,M,Subsidiado,2,Coomeva,Medellín,1132860,2030-10-10,Recuperado,Bajo,0,2,Menor de edad,No
+1229,12,F,Subsidiado,6,Sanitas,Cali,1211010,2030-09-15,Recuperado,Bajo,3,2,Menor de edad,Sí
+1230,69,M,Contributivo,7,Nueva EPS,Medellín,812739,2030-03-04,Hipertension,Alto,2,3,Adulto mayor,No
+1231,61,M,Subsidiado,9,Nueva EPS,Medellín,680256,2030-03-03,Cardiovasculares,Medio,1,7,Adulto mayor,Sí
+1232,71,M,Contributivo,3,Coomeva,Bogotá,761960,2030-03-10,Cáncer,Medio,2,2,Adulto mayor,No
+1233,92,F,Subsidiado,7,Sura,Bogotá,902895,2030-01-19,Cáncer,Bajo,2,6,Adulto mayor,Sí
+1234,91,M,Contributivo,8,Sura,Barranquilla,769774,2030-03-10,Diabetes,Bajo,1,8,Adulto mayor,Sí
+1236,76,F,Contributivo,10,Coomeva,Medellín,845976,2030-09-03,Hipertension,Medio,3,2,Adulto mayor,Sí
+1238,71,F,Contributivo,10,Coomeva,Cali,1398914,2030-03-22,Diabetes,Alto,3,3,Adulto mayor,Sí
+1240,12,M,Subsidiado,6,Nueva EPS,Cali,860107,2030-02-05,Cardiovasculares,Alto,2,3,Menor de edad,No
+1241,38,M,Subsidiado,8,Sura,Medellín,707775,2030-03-10,Cáncer,Bajo,0,3,Adulto,Sí
+1242,39,F,Subsidiado,7,Coomeva,Bogotá,691093,2030-06-07,Fallecido,Alto,2,2,Adulto,Sí
+1243,92,M,Subsidiado,9,Nueva EPS,Barranquilla,1126251,2030-07-23,Hipertension,Alto,4,2,Adulto mayor,Sí
+1244,82,M,Contributivo,6,Nueva EPS,Medellín,719800,2030-07-15,Cáncer,Bajo,1,4,Adulto mayor,No
+1245,36,F,Contributivo,5,Nueva EPS,Barranquilla,1566782,2030-03-10,Cáncer,Alto,4,5,Adulto,Sí
+1247,20,F,Subsidiado,7,Sanitas,Barranquilla,918714,2030-07-15,Cáncer,Medio,1,6,Joven adulto,Sí
+1248,72,F,Subsidiado,4,Sanitas,Bogotá,1055800,2030-11-03,Cáncer,Medio,2,3,Adulto mayor,No
+1249,41,F,Contributivo,6,Sanitas,Bogotá,1013920,2030-06-01,Cardiovasculares,Bajo,1,7,Adulto,Sí
+1251,89,F,Subsidiado,7,Nueva EPS,Bogotá,1000403,2030-11-21,Cáncer,Medio,0,5,Adulto mayor,No
+1252,18,M,Subsidiado,0,Sanitas,Cali,736522,2030-05-26,Diabetes,Medio,3,5,Joven adulto,Sí
+1253,59,F,Contributivo,7,Coomeva,Bogotá,1142379,2030-02-26,Cáncer,Bajo,2,4,Adulto,No
+1254,52,F,Contributivo,7,Sanitas,Cali,592813,2030-07-30,Cáncer,Medio,3,1,Adulto,Sí
+1255,86,F,Contributivo,5,Sura,Barranquilla,879463,2030-09-25,Recuperado,Bajo,0,3,Adulto mayor,No
+1256,11,F,Subsidiado,2,Sanitas,Medellín,663072,2030-07-29,Hipertension,Bajo,1,6,Menor de edad,Sí
+1257,78,M,Contributivo,8,Sanitas,Medellín,1270169,2030-01-17,Recuperado,Bajo,1,0,Adulto mayor,Sí
+1259,37,F,Subsidiado,7,Coomeva,Bogotá,1453538,2030-12-10,Cáncer,Medio,5,4,Adulto,Sí
+1260,27,F,Subsidiado,5,Nueva EPS,Cali,756271,2030-07-22,Cardiovasculares,Bajo,1,4,Joven adulto,No
+1261,89,F,Subsidiado,10,Nueva EPS,Barranquilla,1511962,2030-04-09,Cáncer,Bajo,1,6,Adulto mayor,Sí
+1262,23,F,Contributivo,2,Nueva EPS,Barranquilla,866549,2030-10-06,Cáncer,Alto,2,3,Joven adulto,No
+1263,23,M,Contributivo,4,Sura,Bogotá,1631756,2030-07-28,Recuperado,Bajo,1,2,Joven adulto,Sí
+1264,40,M,Subsidiado,1,Nueva EPS,Barranquilla,1266448,2030-05-09,Recuperado,Bajo,2,0,Adulto,Sí
+1266,64,F,Contributivo,9,Nueva EPS,Barranquilla,1481781,2030-10-15,Cáncer,Bajo,4,5,Adulto mayor,Sí
+1267,86,F,Contributivo,4,Nueva EPS,Barranquilla,1016652,2030-09-09,Cáncer,Bajo,1,5,Adulto mayor,No
+1268,6,F,Subsidiado,8,Coomeva,Cali,651662,2030-09-22,Recuperado,Bajo,3,5,Menor de edad,Sí
+1269,5,F,Subsidiado,1,Sura,Barranquilla,928427,2030-09-28,Recuperado,Bajo,1,2,Menor de edad,No
+1270,51,F,Contributivo,7,Sanitas,Medellín,1327751,2030-07-07,Hipertension,Medio,4,3,Adulto,Sí
+1271,73,F,Contributivo,8,Sanitas,Bogotá,941601,2030-08-02,Cáncer,Bajo,0,2,Adulto mayor,Sí
+1272,24,F,Contributivo,10,Sanitas,Bogotá,675573,2030-03-10,Cardiovasculares,Bajo,2,2,Joven adulto,Sí
+1273,15,M,Subsidiado,3,Nueva EPS,Barranquilla,1161046,2030-07-30,Hipertension,Bajo,4,5,Menor de edad,Sí
+1275,71,M,Subsidiado,6,Nueva EPS,Barranquilla,1557068,2030-03-17,Hipertension,Bajo,2,5,Adulto mayor,Sí
+1276,91,F,Contributivo,13,Coomeva,Medellín,1314820,2030-05-28,Diabetes,Bajo,3,2,Adulto mayor,Sí
+1277,16,M,Subsidiado,4,Sura,Bogotá,1302570,2030-11-17,Cáncer,Medio,0,7,Menor de edad,Sí
+1278,24,M,Subsidiado,3,Nueva EPS,Barranquilla,862327,2030-03-10,Recuperado,Bajo,2,5,Joven adulto,No
+1279,9,F,Subsidiado,11,Sura,Barranquilla,1046360,2030-04-19,Fallecido,Alto,2,5,Menor de edad,Sí
+1281,42,F,Contributivo,12,Sanitas,Barranquilla,1368456,2030-01-10,Cáncer,Medio,0,0,Adulto,Sí
+1282,13,F,Subsidiado,3,Nueva EPS,Bogotá,988218,2030-02-16,Diabetes,Medio,2,7,Menor de edad,Sí
+1283,57,M,Contributivo,10,Sura,Bogotá,1064832,2030-11-11,Cáncer,Bajo,2,5,Adulto,Sí
+1284,48,F,Contributivo,10,Sura,Medellín,1060748,2030-04-06,Hipertension,Alto,2,5,Adulto,Sí
+1285,90,F,Subsidiado,11,Nueva EPS,Bogotá,1944091,2030-04-13,Cáncer,Alto,4,3,Adulto mayor,Sí
+1286,28,M,Contributivo,2,Sanitas,Barranquilla,1565943,2030-03-10,Hipertension,Alto,1,7,Joven adulto,Sí
+1288,78,F,Contributivo,3,Sanitas,Medellín,778073,2030-01-27,Cáncer,Bajo,1,1,Adulto mayor,No
+1289,49,F,Subsidiado,5,Coomeva,Medellín,1245869,2030-08-08,Cáncer,Bajo,3,1,Adulto,Sí
+1291,91,M,Contributivo,11,Sura,Cali,1849632,2030-06-16,Fallecido,Alto,4,4,Adulto mayor,Sí
+1294,18,M,Contributivo,5,Sura,Bogotá,544504,2030-11-06,Cáncer,Bajo,1,3,Joven adulto,No
+1295,13,M,Subsidiado,7,Sura,Barranquilla,773964,2030-09-11,Cáncer,Bajo,1,4,Menor de edad,No
+1296,44,F,Contributivo,7,Sanitas,Barranquilla,934211,2030-06-11,Cardiovasculares,Bajo,3,4,Adulto,Sí
+1297,49,F,Subsidiado,10,Nueva EPS,Medellín,744315,2030-11-23,Hipertension,Medio,0,2,Adulto,Sí
+1298,29,F,Contributivo,8,Sura,Barranquilla,976982,2030-02-07,Cáncer,Bajo,3,4,Joven adulto,Sí
+1299,77,F,Contributivo,12,Sura,Medellín,1018161,2030-07-20,Fallecido,Alto,4,6,Adulto mayor,Sí
+1300,26,F,Contributivo,7,Sanitas,Bogotá,1501821,2030-07-19,Recuperado,Bajo,2,3,Joven adulto,Sí
+1301,8,M,Subsidiado,0,Sura,Medellín,758949,2030-09-12,Cáncer,Bajo,3,4,Menor de edad,Sí
+1303,62,F,Subsidiado,1,Nueva EPS,Bogotá,1378865,2030-02-04,Hipertension,Medio,2,5,Adulto mayor,Sí
+1304,33,F,Contributivo,2,Sanitas,Cali,952085,2030-03-10,Cáncer,Medio,2,1,Adulto,No
+1305,91,F,Contributivo,9,Sanitas,Medellín,948833,2030-08-08,Cardiovasculares,Medio,3,3,Adulto mayor,Sí
+1306,41,F,Contributivo,4,Nueva EPS,Bogotá,1129875,2030-06-07,Recuperado,Bajo,2,2,Adulto,No
+1307,79,M,Contributivo,12,Coomeva,Medellín,1180266,2030-03-10,Cáncer,Bajo,0,3,Adulto mayor,Sí
+1308,74,M,Contributivo,7,Coomeva,Bogotá,1148622,2030-03-10,Diabetes,Alto,3,7,Adulto mayor,Sí
+1309,22,F,Contributivo,11,Sura,Bogotá,1103727,2030-07-23,Recuperado,Medio,4,5,Joven adulto,Sí
+1310,49,M,Contributivo,10,Coomeva,Medellín,1117017,2030-07-13,Diabetes,Alto,2,6,Adulto,Sí
+1311,46,F,Subsidiado,2,Nueva EPS,Cali,650607,2030-08-23,Cáncer,Bajo,2,2,Adulto,No
+1312,45,F,Subsidiado,4,Sanitas,Bogotá,1294854,2030-07-25,Diabetes,Alto,4,1,Adulto,Sí
+1313,42,F,Contributivo,5,Sura,Bogotá,1311949,2030-03-10,Cáncer,Alto,3,4,Adulto,Sí
+1314,38,F,Contributivo,7,Sura,Bogotá,887221,2030-06-08,Hipertension,Alto,2,4,Adulto,No
+1315,21,F,Contributivo,3,Sanitas,Cali,667029,2030-10-06,Diabetes,Bajo,2,1,Joven adulto,No
+1316,49,M,Contributivo,6,Coomeva,Cali,786578,2030-10-31,Cáncer,Medio,1,1,Adulto,No
+1318,80,F,Subsidiado,7,Coomeva,Medellín,1491614,2030-11-07,Fallecido,Alto,3,5,Adulto mayor,Sí
+1319,91,F,Contributivo,6,Sanitas,Cali,1198910,2030-03-09,Cardiovasculares,Medio,3,4,Adulto mayor,Sí
+1322,31,F,Subsidiado,2,Nueva EPS,Medellín,832021,2030-01-01,Diabetes,Medio,1,3,Adulto,No
+1324,35,M,Contributivo,9,Sanitas,Medellín,903859,2030-07-04,Cardiovasculares,Alto,3,3,Adulto,Sí
+1325,10,M,Subsidiado,8,Sura,Cali,607663,2030-12-17,Cáncer,Bajo,1,7,Menor de edad,Sí
+1326,95,F,Contributivo,9,Sura,Medellín,729864,2030-05-20,Cáncer,Medio,0,8,Adulto mayor,Sí
+1327,44,M,Contributivo,12,Sura,Cali,1311295,2030-04-16,Fallecido,Alto,4,4,Adulto,Sí
+1328,16,M,Subsidiado,8,Sura,Cali,1046027,2030-05-13,Cáncer,Medio,2,4,Menor de edad,Sí
+1332,49,F,Subsidiado,5,Sanitas,Barranquilla,1000179,2030-12-24,Recuperado,Bajo,2,5,Adulto,No
+1333,21,F,Subsidiado,5,Nueva EPS,Medellín,255490,2030-12-25,Diabetes,Bajo,1,0,Joven adulto,No
+1334,30,F,Subsidiado,2,Sura,Barranquilla,871282,2030-05-26,Recuperado,Bajo,2,0,Adulto,No
+1335,89,F,Contributivo,9,Coomeva,Cali,1179516,2030-03-15,Diabetes,Bajo,4,3,Adulto mayor,Sí
+1336,66,F,Contributivo,9,Sanitas,Bogotá,1100507,2030-04-18,Cáncer,Medio,2,8,Adulto mayor,Sí
+1337,50,F,Contributivo,7,Nueva EPS,Bogotá,1163773,2030-05-02,Hipertension,Alto,4,3,Adulto,Sí
+1339,6,M,Subsidiado,5,Sanitas,Medellín,1093719,2030-07-15,Recuperado,Bajo,2,5,Menor de edad,No
+1340,58,F,Contributivo,6,Sanitas,Bogotá,589125,2030-03-10,Cardiovasculares,Bajo,4,5,Adulto,Sí
+1341,69,M,Subsidiado,8,Nueva EPS,Cali,1107304,2030-11-14,Cáncer,Medio,0,2,Adulto mayor,Sí
+1342,55,M,Contributivo,3,Coomeva,Medellín,1051150,2030-10-24,Recuperado,Bajo,3,0,Adulto,Sí
+1343,57,F,Contributivo,4,Nueva EPS,Barranquilla,833935,2030-09-09,Cáncer,Bajo,0,5,Adulto,No
+1345,30,M,Contributivo,10,Nueva EPS,Medellín,378366,2030-06-11,Recuperado,Medio,0,5,Adulto,Sí
+1346,33,M,Contributivo,11,Nueva EPS,Medellín,2211256,2030-07-17,Recuperado,Bajo,5,5,Adulto,Sí
+1347,25,M,Contributivo,5,Nueva EPS,Medellín,975796,2030-02-14,Cáncer,Alto,1,4,Joven adulto,No
+1348,15,F,Subsidiado,3,Nueva EPS,Cali,1086242,2030-11-10,Cardiovasculares,Bajo,1,3,Menor de edad,No
+1349,44,F,Contributivo,5,Coomeva,Barranquilla,1013950,2030-06-28,Fallecido,Alto,4,3,Adulto,Sí
+1350,15,F,Subsidiado,7,Sura,Cali,918771,2030-03-10,Fallecido,Alto,2,4,Menor de edad,Sí
+1351,40,F,Subsidiado,6,Coomeva,Barranquilla,1083031,2030-09-28,Fallecido,Alto,2,6,Adulto,Sí
+1352,63,F,Contributivo,11,Coomeva,Medellín,1326755,2030-03-10,Recuperado,Medio,1,0,Adulto mayor,Sí
+1353,43,F,Subsidiado,6,Nueva EPS,Bogotá,608060,2030-11-22,Diabetes,Bajo,2,5,Adulto,No
+1354,58,F,Contributivo,12,Sura,Cali,1375055,2030-06-27,Fallecido,Alto,5,4,Adulto,Sí
+1355,59,F,Contributivo,8,Sanitas,Bogotá,912853,2030-12-23,Cáncer,Bajo,2,1,Adulto,Sí
+1356,28,F,Subsidiado,3,Sura,Cali,764554,2030-01-03,Recuperado,Bajo,3,5,Joven adulto,Sí
+1357,26,F,Contributivo,6,Coomeva,Medellín,713754,2030-08-02,Recuperado,Bajo,1,4,Joven adulto,No
+1358,73,M,Contributivo,4,Nueva EPS,Cali,1287564,2030-12-08,Diabetes,Bajo,2,5,Adulto mayor,Sí
+1359,60,F,Subsidiado,7,Coomeva,Medellín,1062809,2030-03-15,Recuperado,Bajo,3,0,Adulto mayor,Sí
+1360,37,M,Contributivo,4,Nueva EPS,Cali,939609,2030-02-20,Recuperado,Bajo,0,4,Adulto,No
+1361,40,M,Contributivo,10,Sanitas,Medellín,901543,2030-03-08,Recuperado,Bajo,0,5,Adulto,Sí
+1363,87,M,Contributivo,4,Sura,Bogotá,1628671,2030-04-03,Cáncer,Medio,4,5,Adulto mayor,Sí
+1365,66,M,Contributivo,9,Coomeva,Barranquilla,991955,2030-05-25,Fallecido,Alto,5,5,Adulto mayor,Sí
+1366,77,F,Subsidiado,13,Sanitas,Medellín,1589962,2030-01-07,Diabetes,Bajo,5,2,Adulto mayor,Sí
+1367,30,F,Subsidiado,4,Nueva EPS,Bogotá,949059,2030-09-26,Hipertension,Bajo,0,4,Adulto,No
+1369,77,F,Subsidiado,9,Sura,Bogotá,854713,2030-01-04,Recuperado,Bajo,2,1,Adulto mayor,Sí
+1370,77,F,Subsidiado,7,Sanitas,Bogotá,1425103,2030-05-18,Hipertension,Bajo,5,6,Adulto mayor,Sí
+1371,44,M,Contributivo,10,Nueva EPS,Medellín,827300,2030-08-19,Recuperado,Bajo,0,2,Adulto,Sí
+1372,21,F,Subsidiado,5,Nueva EPS,Bogotá,937851,2030-03-29,Cáncer,Bajo,2,5,Joven adulto,No
+1373,5,F,Subsidiado,2,Coomeva,Barranquilla,1148476,2030-01-17,Cardiovasculares,Bajo,4,4,Menor de edad,Sí
+1374,93,M,Contributivo,7,Sanitas,Cali,1139993,2030-02-21,Cáncer,Medio,3,4,Adulto mayor,Sí
+1375,65,F,Contributivo,5,Nueva EPS,Medellín,885757,2030-05-14,Diabetes,Bajo,2,1,Adulto mayor,No
+1377,46,F,Contributivo,4,Coomeva,Medellín,1464801,2030-11-21,Recuperado,Bajo,2,1,Adulto,Sí
+1378,29,M,Subsidiado,2,Sura,Barranquilla,1129351,2030-08-07,Hipertension,Medio,2,4,Joven adulto,No
+1379,43,M,Contributivo,7,Sanitas,Medellín,1254615,2030-07-24,Cáncer,Bajo,3,7,Adulto,Sí
+1380,39,F,Subsidiado,5,Sanitas,Bogotá,805530,2030-07-30,Cáncer,Bajo,0,4,Adulto,No
+1381,7,F,Subsidiado,4,Sanitas,Bogotá,663347,2030-10-04,Cáncer,Medio,1,1,Menor de edad,No
+1382,49,F,Contributivo,2,Coomeva,Barranquilla,1323068,2030-01-24,Recuperado,Bajo,2,0,Adulto,Sí
+1383,55,F,Contributivo,5,Nueva EPS,Cali,1146182,2030-01-04,Cáncer,Medio,0,6,Adulto,Sí
+1384,16,F,Subsidiado,9,Coomeva,Cali,1420592,2030-06-01,Hipertension,Alto,3,3,Menor de edad,Sí
+1385,23,M,Contributivo,2,Sura,Bogotá,933866,2030-09-16,Cáncer,Bajo,3,6,Joven adulto,Sí
+1386,48,F,Contributivo,6,Sura,Medellín,1003928,2030-11-20,Recuperado,Bajo,1,1,Adulto,No
+1387,63,M,Subsidiado,4,Sura,Bogotá,531306,2030-12-23,Cáncer,Bajo,2,3,Adulto mayor,No
+1388,53,F,Contributivo,4,Coomeva,Bogotá,1102299,2030-06-17,Cáncer,Bajo,4,4,Adulto,Sí
+1389,65,M,Contributivo,6,Nueva EPS,Bogotá,1163193,2030-06-25,Cáncer,Bajo,0,5,Adulto mayor,No
+1390,21,F,Subsidiado,1,Sura,Medellín,705938,2030-11-06,Recuperado,Bajo,0,6,Joven adulto,Sí
+1391,78,M,Subsidiado,12,Sanitas,Barranquilla,1237565,2030-10-18,Cardiovasculares,Medio,2,4,Adulto mayor,Sí
+1392,61,F,Subsidiado,7,Sanitas,Bogotá,922511,2030-02-25,Cáncer,Medio,1,8,Adulto mayor,Sí
+1393,59,M,Contributivo,9,Sura,Medellín,940578,2030-04-18,Recuperado,Bajo,0,3,Adulto,Sí
+1394,51,M,Subsidiado,11,Sanitas,Barranquilla,650782,2030-10-23,Cáncer,Medio,1,3,Adulto,Sí
+1395,16,M,Subsidiado,9,Sura,Bogotá,1279120,2030-11-20,Hipertension,Bajo,3,3,Menor de edad,Sí
+1396,66,M,Contributivo,9,Sanitas,Bogotá,471033,2030-10-29,Recuperado,Bajo,3,2,Adulto mayor,Sí
+1398,92,M,Contributivo,9,Nueva EPS,Bogotá,960425,2030-05-21,Hipertension,Bajo,2,4,Adulto mayor,Sí
+1399,87,F,Contributivo,7,Coomeva,Barranquilla,1345705,2030-06-04,Diabetes,Bajo,0,3,Adulto mayor,Sí
+1400,12,M,Subsidiado,1,Sura,Barranquilla,1183828,2030-09-19,Recuperado,Bajo,2,4,Menor de edad,No
+1401,25,F,Contributivo,9,Nueva EPS,Barranquilla,1635905,2030-09-30,Cáncer,Alto,5,2,Joven adulto,Sí
+1402,85,F,Subsidiado,9,Nueva EPS,Barranquilla,1810213,2030-08-20,Cáncer,Medio,2,5,Adulto mayor,Sí
+1403,91,F,Contributivo,7,Sura,Barranquilla,1144824,2030-08-29,Fallecido,Alto,1,3,Adulto mayor,Sí
+1404,84,F,Contributivo,6,Sanitas,Barranquilla,1702270,2030-12-21,Fallecido,Alto,4,5,Adulto mayor,Sí
+1406,76,M,Contributivo,4,Coomeva,Cali,1267468,2030-09-15,Diabetes,Medio,4,3,Adulto mayor,Sí
+1407,29,M,Subsidiado,7,Sanitas,Medellín,1395053,2030-03-10,Cáncer,Alto,2,4,Joven adulto,Sí
+1408,49,M,Subsidiado,7,Sura,Barranquilla,681317,2030-03-18,Recuperado,Bajo,1,3,Adulto,No
+1409,93,F,Contributivo,4,Nueva EPS,Medellín,701435,2030-06-29,Hipertension,Bajo,1,5,Adulto mayor,No
+1410,16,M,Subsidiado,5,Sanitas,Bogotá,792315,2030-03-07,Cáncer,Medio,1,4,Menor de edad,No
+1411,19,M,Contributivo,1,Coomeva,Barranquilla,667220,2030-11-04,Cáncer,Medio,0,2,Joven adulto,No
+1412,63,M,Subsidiado,12,Sanitas,Cali,871241,2030-12-14,Cáncer,Medio,3,4,Adulto mayor,Sí
+1413,30,M,Contributivo,5,Sura,Medellín,1036627,2030-06-20,Cáncer,Medio,0,5,Adulto,No
+1414,30,M,Contributivo,5,Coomeva,Barranquilla,966471,2030-01-22,Recuperado,Medio,2,3,Adulto,No
+1415,49,F,Subsidiado,5,Sanitas,Bogotá,1115389,2030-04-17,Cardiovasculares,Alto,3,4,Adulto,Sí
+1416,36,M,Subsidiado,4,Coomeva,Cali,933493,2030-11-19,Recuperado,Medio,4,3,Adulto,Sí
+1417,14,F,Subsidiado,1,Sura,Medellín,446659,2030-08-15,Cáncer,Alto,2,6,Menor de edad,Sí
+1418,20,F,Contributivo,7,Nueva EPS,Medellín,1432500,2030-08-04,Cáncer,Alto,7,2,Joven adulto,Sí
+1419,75,F,Subsidiado,11,Sura,Barranquilla,483173,2030-03-10,Fallecido,Alto,1,4,Adulto mayor,Sí
+1420,21,F,Contributivo,9,Sura,Cali,1305063,2030-03-25,Fallecido,Alto,5,7,Joven adulto,Sí
+1421,27,F,Contributivo,10,Sura,Cali,701466,2030-04-13,Cáncer,Bajo,2,0,Joven adulto,Sí
+1422,30,F,Contributivo,3,Sura,Cali,1247908,2030-02-08,Cáncer,Bajo,3,2,Adulto,Sí
+1424,90,F,Contributivo,6,Sura,Bogotá,1133406,2030-10-24,Cáncer,Medio,3,4,Adulto mayor,Sí
+1425,11,F,Subsidiado,8,Coomeva,Cali,1588826,2030-11-09,Cardiovasculares,Bajo,3,6,Menor de edad,Sí
+1427,83,M,Contributivo,9,Nueva EPS,Medellín,1261158,2030-09-25,Cáncer,Medio,1,6,Adulto mayor,Sí
+1428,11,F,Subsidiado,4,Nueva EPS,Bogotá,1026271,2030-01-13,Hipertension,Bajo,2,6,Menor de edad,Sí
+1429,13,F,Subsidiado,3,Sanitas,Medellín,1087636,2030-04-30,Recuperado,Bajo,2,3,Menor de edad,No
+1431,76,F,Contributivo,6,Sura,Cali,1511488,2030-03-10,Diabetes,Bajo,3,3,Adulto mayor,Sí
+1432,63,M,Subsidiado,11,Sura,Medellín,1294874,2030-02-09,Fallecido,Alto,3,4,Adulto mayor,Sí
+1434,86,F,Contributivo,9,Coomeva,Cali,939205,2030-05-08,Cáncer,Medio,3,3,Adulto mayor,Sí
+1435,43,M,Contributivo,7,Coomeva,Barranquilla,1039172,2030-06-22,Cardiovasculares,Bajo,1,5,Adulto,No
+1437,63,F,Subsidiado,5,Sanitas,Bogotá,593268,2030-09-16,Diabetes,Bajo,0,3,Adulto mayor,No
+1438,21,M,Subsidiado,3,Sura,Cali,1689379,2030-01-05,Recuperado,Bajo,1,4,Joven adulto,Sí
+1439,18,F,Contributivo,8,Coomeva,Cali,1784179,2030-08-06,Recuperado,Bajo,2,0,Joven adulto,Sí
+1440,35,F,Subsidiado,6,Nueva EPS,Bogotá,1378618,2030-01-11,Recuperado,Bajo,3,1,Adulto,Sí
+1441,28,M,Contributivo,3,Sura,Cali,1180898,2030-11-23,Diabetes,Alto,3,8,Joven adulto,Sí
+1442,64,M,Contributivo,5,Sanitas,Bogotá,866995,2030-04-27,Cáncer,Medio,0,4,Adulto mayor,No
+1443,49,F,Contributivo,4,Coomeva,Bogotá,1288644,2030-07-03,Hipertension,Bajo,4,4,Adulto,Sí
+1444,7,F,Subsidiado,3,Nueva EPS,Barranquilla,1166159,2030-12-28,Recuperado,Bajo,1,6,Menor de edad,Sí
+1446,47,M,Contributivo,9,Sura,Medellín,776699,2030-06-11,Cáncer,Medio,3,2,Adulto,Sí
+1447,44,F,Contributivo,7,Coomeva,Cali,1414314,2030-03-08,Hipertension,Bajo,4,4,Adulto,Sí
+1448,94,F,Subsidiado,7,Coomeva,Cali,776622,2030-07-19,Cáncer,Bajo,0,4,Adulto mayor,No
+1449,49,F,Contributivo,7,Sanitas,Barranquilla,471825,2030-01-31,Fallecido,Alto,4,2,Adulto,Sí
+1450,91,F,Contributivo,15,Coomeva,Barranquilla,1121636,2030-03-10,Cáncer,Medio,4,3,Adulto mayor,Sí
+1451,43,F,Contributivo,4,Coomeva,Barranquilla,785341,2030-08-25,Hipertension,Medio,0,4,Adulto,No
+1452,49,M,Subsidiado,4,Sura,Bogotá,1788109,2030-11-23,Recuperado,Bajo,1,6,Adulto,Sí
+1453,8,F,Subsidiado,8,Coomeva,Barranquilla,1411076,2030-03-07,Diabetes,Medio,4,1,Menor de edad,Sí
+1454,49,F,Contributivo,11,Nueva EPS,Barranquilla,893144,2030-03-11,Cáncer,Bajo,4,5,Adulto,Sí
+1455,29,F,Subsidiado,2,Sura,Cali,996104,2030-10-24,Recuperado,Bajo,0,1,Joven adulto,No
+1456,17,F,Subsidiado,4,Sura,Barranquilla,319109,2030-01-20,Cáncer,Medio,0,5,Menor de edad,No
+1457,86,M,Contributivo,5,Sanitas,Bogotá,1462287,2030-08-14,Fallecido,Alto,4,6,Adulto mayor,Sí
+1458,37,M,Subsidiado,6,Coomeva,Bogotá,845931,2030-07-18,Diabetes,Bajo,2,6,Adulto,Sí
+1460,46,F,Contributivo,4,Nueva EPS,Barranquilla,1740103,2030-05-25,Cardiovasculares,Bajo,3,7,Adulto,Sí
+1461,70,F,Contributivo,7,Sura,Barranquilla,699162,2030-02-14,Fallecido,Alto,4,2,Adulto mayor,Sí
+1465,34,F,Contributivo,8,Nueva EPS,Barranquilla,494553,2030-03-11,Cáncer,Alto,1,7,Adulto,Sí
+1466,17,F,Subsidiado,8,Sanitas,Medellín,484180,2030-06-15,Cáncer,Medio,3,4,Menor de edad,Sí
+1467,17,M,Subsidiado,3,Sanitas,Cali,891527,2030-05-10,Cáncer,Alto,3,7,Menor de edad,Sí
+1469,36,M,Contributivo,7,Coomeva,Bogotá,1827887,2030-12-06,Cardiovasculares,Alto,5,5,Adulto,Sí
+1470,43,F,Subsidiado,7,Sura,Bogotá,1036173,2030-03-30,Recuperado,Bajo,2,2,Adulto,No
+1471,50,F,Contributivo,9,Sura,Barranquilla,941512,2030-12-01,Fallecido,Alto,2,7,Adulto,Sí
+1472,49,F,Contributivo,14,Sanitas,Bogotá,1634493,2030-09-09,Recuperado,Medio,2,2,Adulto,Sí
+1473,66,M,Subsidiado,6,Sura,Medellín,480327,2030-12-15,Diabetes,Bajo,2,5,Adulto mayor,No
+1474,66,M,Contributivo,7,Sanitas,Bogotá,1006867,2030-03-13,Recuperado,Bajo,2,0,Adulto mayor,No
+1475,61,F,Contributivo,9,Coomeva,Bogotá,1214326,2030-06-14,Hipertension,Medio,1,6,Adulto mayor,Sí
+1476,20,M,Subsidiado,10,Coomeva,Cali,1373338,2030-02-18,Recuperado,Medio,2,2,Joven adulto,Sí
+1477,60,F,Contributivo,3,Nueva EPS,Cali,692037,2030-02-21,Cardiovasculares,Bajo,0,4,Adulto mayor,No
+1478,14,M,Subsidiado,10,Sura,Cali,1142841,2030-10-16,Cáncer,Alto,3,3,Menor de edad,Sí
+1479,34,M,Contributivo,2,Sanitas,Barranquilla,213994,2030-03-10,Hipertension,Medio,2,6,Adulto,Sí
+1480,29,M,Contributivo,4,Coomeva,Medellín,638733,2030-04-24,Hipertension,Medio,0,3,Joven adulto,No
+1481,88,M,Contributivo,4,Nueva EPS,Medellín,1278997,2030-08-27,Cáncer,Alto,3,2,Adulto mayor,Sí
+1482,9,F,Subsidiado,5,Sura,Cali,842133,2030-05-13,Cáncer,Bajo,3,4,Menor de edad,Sí
+1483,69,M,Contributivo,12,Sanitas,Bogotá,1217035,2030-10-01,Hipertension,Bajo,3,5,Adulto mayor,Sí
+1484,49,F,Subsidiado,8,Sura,Bogotá,1266497,2030-06-15,Cáncer,Bajo,3,0,Adulto,Sí
+1485,7,F,Subsidiado,6,Nueva EPS,Medellín,1102291,2030-10-20,Cáncer,Medio,3,4,Menor de edad,Sí
+1487,18,M,Subsidiado,3,Sura,Medellín,842065,2030-11-16,Diabetes,Alto,3,3,Joven adulto,Sí
+1488,34,F,Subsidiado,8,Sura,Cali,996611,2030-05-18,Recuperado,Bajo,1,3,Adulto,Sí
+1489,72,F,Contributivo,7,Sura,Bogotá,1121404,2030-03-20,Fallecido,Alto,5,4,Adulto mayor,Sí
+1491,66,M,Contributivo,9,Sura,Cali,1194845,2030-05-03,Diabetes,Bajo,4,5,Adulto mayor,Sí
+1494,52,M,Contributivo,9,Sanitas,Medellín,462350,2030-03-23,Cáncer,Bajo,2,1,Adulto,Sí
+1495,49,F,Contributivo,9,Sanitas,Cali,1599785,2030-03-10,Cáncer,Bajo,1,7,Adulto,Sí
+1496,57,F,Contributivo,9,Sura,Bogotá,979464,2030-08-13,Recuperado,Bajo,3,4,Adulto,Sí
+1497,83,M,Subsidiado,8,Coomeva,Medellín,1271715,2030-01-16,Cáncer,Bajo,2,4,Adulto mayor,Sí
+1498,77,F,Contributivo,5,Coomeva,Cali,1523896,2030-11-06,Diabetes,Alto,2,1,Adulto mayor,Sí
+1499,19,M,Subsidiado,9,Nueva EPS,Medellín,667081,2030-12-24,Recuperado,Bajo,2,1,Joven adulto,Sí
+1500,53,M,Subsidiado,10,Nueva EPS,Barranquilla,844727,2030-06-12,Recuperado,Bajo,1,3,Adulto,Sí
+1501,92,F,Contributivo,9,Nueva EPS,Cali,845992,2030-04-08,Cáncer,Bajo,0,4,Adulto mayor,Sí
+1503,16,M,Subsidiado,6,Sanitas,Bogotá,1529543,2030-01-02,Diabetes,Bajo,2,5,Menor de edad,Sí
+1504,63,F,Contributivo,4,Nueva EPS,Bogotá,1115014,2030-12-16,Diabetes,Bajo,5,5,Adulto mayor,Sí
+1505,41,F,Contributivo,7,Nueva EPS,Bogotá,861303,2030-06-18,Cáncer,Alto,2,0,Adulto,No
+1506,65,F,Contributivo,11,Nueva EPS,Medellín,1172871,2030-11-11,Cáncer,Alto,3,8,Adulto mayor,Sí
+1508,74,F,Contributivo,10,Sanitas,Bogotá,1283758,2030-04-02,Cáncer,Bajo,5,5,Adulto mayor,Sí
+1509,43,M,Contributivo,6,Coomeva,Bogotá,1119404,2030-06-30,Cáncer,Medio,2,3,Adulto,No
+1510,60,M,Subsidiado,7,Coomeva,Bogotá,853802,2030-08-19,Diabetes,Alto,2,2,Adulto mayor,No
+1511,67,M,Subsidiado,11,Nueva EPS,Medellín,1303370,2030-10-28,Recuperado,Medio,3,2,Adulto mayor,Sí
+1512,50,M,Contributivo,2,Nueva EPS,Bogotá,930457,2030-05-28,Hipertension,Bajo,3,8,Adulto,Sí
+1513,92,M,Contributivo,4,Sura,Bogotá,662519,2030-10-07,Fallecido,Alto,3,6,Adulto mayor,Sí
+1514,15,M,Subsidiado,0,Sura,Barranquilla,948929,2030-07-08,Cáncer,Bajo,2,1,Menor de edad,No
+1515,66,M,Subsidiado,6,Coomeva,Barranquilla,1574312,2030-12-13,Cáncer,Bajo,1,2,Adulto mayor,Sí
+1516,81,F,Subsidiado,9,Sanitas,Bogotá,1310349,2030-03-10,Cáncer,Bajo,4,1,Adulto mayor,Sí
+1517,29,F,Subsidiado,7,Nueva EPS,Cali,1330395,2030-11-10,Hipertension,Bajo,3,6,Joven adulto,Sí
+1518,75,F,Contributivo,12,Nueva EPS,Bogotá,1308252,2030-05-08,Diabetes,Bajo,2,6,Adulto mayor,Sí
+1519,56,F,Subsidiado,11,Coomeva,Barranquilla,692466,2030-01-07,Recuperado,Bajo,2,4,Adulto,Sí
+1520,8,F,Subsidiado,4,Sura,Cali,1990306,2030-02-16,Cáncer,Medio,4,6,Menor de edad,Sí
+1521,63,M,Contributivo,7,Sanitas,Cali,1247740,2030-02-22,Diabetes,Bajo,3,5,Adulto mayor,Sí
+1522,49,M,Contributivo,8,Sura,Bogotá,1437542,2030-07-06,Diabetes,Medio,3,4,Adulto,Sí
+1523,24,M,Contributivo,6,Sura,Barranquilla,990263,2030-02-07,Cáncer,Bajo,3,4,Joven adulto,Sí
+1527,61,M,Contributivo,14,Nueva EPS,Medellín,1143439,2030-06-03,Cardiovasculares,Medio,2,3,Adulto mayor,Sí
+1528,94,F,Contributivo,11,Sura,Medellín,1035112,2030-02-17,Fallecido,Alto,3,5,Adulto mayor,Sí
+1530,7,M,Subsidiado,4,Coomeva,Medellín,1030442,2030-05-27,Recuperado,Bajo,0,1,Menor de edad,No
+1531,10,F,Subsidiado,6,Sanitas,Bogotá,452087,2030-03-05,Cáncer,Medio,2,4,Menor de edad,No
+1532,9,M,Subsidiado,6,Sanitas,Barranquilla,879863,2030-12-15,Cáncer,Medio,3,8,Menor de edad,Sí
+1533,9,M,Subsidiado,7,Sanitas,Barranquilla,1064024,2030-07-01,Hipertension,Bajo,1,7,Menor de edad,Sí
+1534,58,M,Contributivo,8,Sura,Medellín,1258043,2030-05-05,Fallecido,Alto,2,4,Adulto,Sí
+1535,51,M,Contributivo,7,Nueva EPS,Barranquilla,983384,2030-03-10,Fallecido,Alto,2,5,Adulto,Sí
+1536,49,M,Subsidiado,9,Sanitas,Cali,1467411,2030-02-08,Recuperado,Bajo,3,5,Adulto,Sí
+1537,53,F,Subsidiado,8,Sura,Bogotá,491917,2030-09-17,Cáncer,Bajo,2,4,Adulto,Sí
+1538,13,F,Subsidiado,8,Sanitas,Bogotá,1344282,2030-01-03,Fallecido,Alto,3,3,Menor de edad,Sí
+1539,24,F,Subsidiado,11,Sanitas,Barranquilla,453598,2030-03-05,Hipertension,Bajo,1,3,Joven adulto,Sí
+1540,65,F,Contributivo,11,Sura,Bogotá,1336558,2030-01-29,Cáncer,Alto,1,4,Adulto mayor,Sí
+1541,39,F,Contributivo,4,Nueva EPS,Medellín,1028312,2030-01-11,Diabetes,Medio,2,1,Adulto,No
+1542,54,F,Subsidiado,8,Nueva EPS,Medellín,1140604,2030-04-07,Cáncer,Medio,3,4,Adulto,Sí
+1543,86,M,Contributivo,10,Coomeva,Bogotá,752703,2030-12-24,Fallecido,Alto,3,2,Adulto mayor,Sí
+1544,66,F,Contributivo,3,Sura,Medellín,1262412,2030-07-22,Cáncer,Alto,3,6,Adulto mayor,Sí
+1545,49,F,Contributivo,7,Coomeva,Bogotá,1197027,2030-01-21,Cáncer,Medio,2,2,Adulto,No
+1546,92,M,Contributivo,8,Coomeva,Bogotá,1032173,2030-02-08,Cáncer,Bajo,1,4,Adulto mayor,Sí
+1547,7,M,Subsidiado,3,Coomeva,Bogotá,1077020,2030-08-11,Cáncer,Alto,4,5,Menor de edad,Sí
+1548,36,F,Contributivo,6,Sura,Barranquilla,1493092,2030-04-12,Diabetes,Bajo,3,2,Adulto,Sí
+1549,49,M,Subsidiado,6,Sura,Bogotá,1019171,2030-02-15,Recuperado,Medio,4,4,Adulto,Sí
+1550,93,F,Contributivo,6,Coomeva,Barranquilla,1410013,2030-03-07,Fallecido,Alto,4,6,Adulto mayor,Sí
+1551,77,M,Contributivo,7,Sura,Bogotá,1842239,2030-04-01,Cáncer,Bajo,3,5,Adulto mayor,Sí
+1552,72,F,Contributivo,4,Sura,Bogotá,1137432,2030-06-13,Cáncer,Medio,2,5,Adulto mayor,No
+1553,18,M,Contributivo,7,Nueva EPS,Bogotá,896749,2030-04-21,Cáncer,Bajo,2,7,Joven adulto,Sí
+1554,15,M,Subsidiado,8,Coomeva,Medellín,1070943,2030-12-04,Cáncer,Bajo,1,6,Menor de edad,Sí
+1555,60,F,Contributivo,11,Coomeva,Bogotá,782247,2030-05-03,Recuperado,Bajo,1,3,Adulto mayor,Sí
+1556,71,F,Contributivo,5,Sura,Barranquilla,1139480,2030-07-12,Cáncer,Medio,0,7,Adulto mayor,Sí
+1557,33,F,Contributivo,9,Sanitas,Bogotá,1427708,2030-04-09,Cáncer,Bajo,3,7,Adulto,Sí
+1558,13,F,Subsidiado,1,Nueva EPS,Bogotá,426407,2030-10-18,Cáncer,Bajo,2,2,Menor de edad,No
+1559,71,F,Contributivo,7,Nueva EPS,Medellín,723702,2030-06-08,Cáncer,Medio,2,7,Adulto mayor,Sí
+1560,29,M,Contributivo,4,Nueva EPS,Medellín,1036546,2030-04-13,Diabetes,Bajo,3,8,Joven adulto,Sí
+1561,80,F,Contributivo,7,Nueva EPS,Medellín,1161417,2030-10-08,Fallecido,Alto,2,7,Adulto mayor,Sí
+1562,46,F,Contributivo,6,Coomeva,Barranquilla,651972,2030-02-12,Cáncer,Bajo,1,3,Adulto,No
+1563,13,M,Subsidiado,7,Coomeva,Barranquilla,1267926,2030-03-10,Diabetes,Bajo,3,3,Menor de edad,Sí
+1564,83,M,Contributivo,9,Sanitas,Barranquilla,1563161,2030-07-10,Cáncer,Bajo,5,6,Adulto mayor,Sí
+1565,44,F,Contributivo,6,Nueva EPS,Bogotá,1042573,2030-02-20,Recuperado,Bajo,3,2,Adulto,Sí
+1566,49,M,Contributivo,9,Nueva EPS,Barranquilla,931345,2030-07-29,Diabetes,Alto,4,3,Adulto,Sí
+1567,9,M,Subsidiado,1,Sura,Cali,1235894,2030-05-06,Cáncer,Medio,1,4,Menor de edad,Sí
+1568,15,F,Subsidiado,5,Sura,Cali,1153617,2030-03-10,Recuperado,Bajo,0,6,Menor de edad,Sí
+1569,63,M,Subsidiado,7,Nueva EPS,Bogotá,1045098,2030-09-22,Cáncer,Bajo,2,8,Adulto mayor,Sí
+1570,92,M,Subsidiado,6,Sanitas,Barranquilla,916869,2030-09-15,Fallecido,Alto,5,7,Adulto mayor,Sí
+1571,49,F,Contributivo,12,Sanitas,Cali,929942,2030-07-07,Cáncer,Medio,0,5,Adulto,Sí
+1572,42,F,Contributivo,2,Coomeva,Medellín,945466,2030-08-18,Cáncer,Bajo,2,6,Adulto,Sí
+1573,76,M,Contributivo,10,Sanitas,Barranquilla,814841,2030-03-10,Diabetes,Bajo,0,3,Adulto mayor,Sí
+1574,9,F,Subsidiado,3,Sanitas,Bogotá,1442403,2030-01-10,Hipertension,Alto,2,6,Menor de edad,Sí
+1576,94,M,Contributivo,11,Sura,Bogotá,1578964,2030-03-17,Diabetes,Bajo,3,6,Adulto mayor,Sí
+1578,74,F,Contributivo,6,Sanitas,Cali,1145936,2030-03-10,Fallecido,Alto,4,4,Adulto mayor,Sí
+1579,41,F,Subsidiado,5,Sanitas,Barranquilla,1046242,2030-02-18,Cáncer,Bajo,4,6,Adulto,Sí
+1580,64,M,Contributivo,10,Nueva EPS,Bogotá,954230,2030-11-22,Cáncer,Medio,2,4,Adulto mayor,Sí
+1582,81,F,Contributivo,11,Sanitas,Bogotá,1811125,2030-08-06,Recuperado,Bajo,4,2,Adulto mayor,Sí
+1583,32,M,Contributivo,8,Sura,Barranquilla,1081314,2030-07-08,Cáncer,Bajo,0,4,Adulto,Sí
+1584,73,M,Subsidiado,10,Coomeva,Barranquilla,1530602,2030-12-12,Cáncer,Bajo,3,3,Adulto mayor,Sí
+1585,81,F,Contributivo,6,Sanitas,Bogotá,1284222,2030-08-18,Cáncer,Alto,2,5,Adulto mayor,Sí
+1586,85,F,Contributivo,9,Sanitas,Cali,777509,2030-03-10,Hipertension,Alto,2,6,Adulto mayor,Sí
+1587,44,F,Subsidiado,4,Sura,Bogotá,1182154,2030-08-24,Fallecido,Alto,3,4,Adulto,Sí
+1588,49,F,Contributivo,8,Sura,Barranquilla,797243,2030-01-26,Diabetes,Medio,1,2,Adulto,Sí
+1589,66,M,Subsidiado,3,Nueva EPS,Bogotá,1198881,2030-03-13,Cáncer,Bajo,1,5,Adulto mayor,No
+1590,62,M,Contributivo,5,Coomeva,Barranquilla,287256,2030-09-18,Hipertension,Bajo,1,7,Adulto mayor,Sí
+1591,71,F,Contributivo,7,Coomeva,Bogotá,1197006,2030-09-11,Fallecido,Alto,4,4,Adulto mayor,Sí
+1592,49,F,Contributivo,8,Sura,Cali,926215,2030-09-28,Cáncer,Alto,3,3,Adulto,Sí
+1593,44,M,Contributivo,10,Coomeva,Cali,1116401,2030-05-03,Diabetes,Bajo,0,7,Adulto,Sí
+1594,44,F,Contributivo,8,Coomeva,Bogotá,1546365,2030-05-24,Fallecido,Alto,4,6,Adulto,Sí
+1595,95,M,Subsidiado,10,Coomeva,Bogotá,1257730,2030-09-14,Cáncer,Alto,5,3,Adulto mayor,Sí
+1596,81,F,Subsidiado,6,Coomeva,Cali,717178,2030-05-24,Recuperado,Medio,1,3,Adulto mayor,No
+1597,49,M,Subsidiado,7,Coomeva,Barranquilla,1043444,2030-09-16,Recuperado,Medio,3,1,Adulto,Sí
+1598,10,F,Subsidiado,6,Sura,Cali,534595,2030-02-16,Hipertension,Bajo,0,4,Menor de edad,No
+1599,92,F,Contributivo,8,Coomeva,Barranquilla,1479644,2030-12-17,Fallecido,Alto,4,5,Adulto mayor,Sí
+1600,23,M,Contributivo,9,Sura,Bogotá,980248,2030-01-13,Recuperado,Bajo,2,2,Joven adulto,Sí
+1602,44,M,Contributivo,10,Nueva EPS,Barranquilla,907184,2030-11-07,Cáncer,Medio,2,5,Adulto,Sí
+1603,63,M,Contributivo,11,Sanitas,Bogotá,649280,2030-08-23,Recuperado,Bajo,0,3,Adulto mayor,Sí
+1604,63,M,Contributivo,6,Sura,Barranquilla,408779,2030-05-29,Cáncer,Alto,1,5,Adulto mayor,No
+1605,52,M,Contributivo,11,Coomeva,Medellín,691862,2030-11-18,Diabetes,Medio,1,8,Adulto,Sí
+1606,45,F,Subsidiado,11,Nueva EPS,Bogotá,1269625,2030-06-04,Fallecido,Alto,3,6,Adulto,Sí
+1607,17,F,Subsidiado,3,Sanitas,Medellín,1713652,2030-06-15,Cardiovasculares,Bajo,3,6,Menor de edad,Sí
+1608,49,F,Contributivo,5,Sura,Barranquilla,1117162,2030-03-31,Diabetes,Bajo,0,1,Adulto,No
+1610,57,F,Contributivo,6,Nueva EPS,Barranquilla,1262660,2030-11-14,Cáncer,Medio,2,3,Adulto,Sí
+1611,46,M,Contributivo,8,Sura,Cali,949861,2030-12-24,Fallecido,Alto,5,7,Adulto,Sí
+1613,31,F,Subsidiado,8,Coomeva,Cali,580940,2030-08-05,Cáncer,Bajo,1,3,Adulto,Sí
+1615,64,F,Subsidiado,8,Sanitas,Barranquilla,670916,2030-04-07,Cáncer,Bajo,0,4,Adulto mayor,Sí
+1616,49,F,Subsidiado,12,Nueva EPS,Cali,1194689,2030-04-27,Recuperado,Bajo,3,4,Adulto,Sí
+1617,9,M,Subsidiado,3,Nueva EPS,Cali,1036396,2030-07-18,Hipertension,Bajo,1,4,Menor de edad,No
+1618,49,F,Contributivo,5,Sura,Medellín,1036732,2030-11-16,Cáncer,Alto,2,6,Adulto,Sí
+1619,62,F,Contributivo,2,Sanitas,Bogotá,855732,2030-01-21,Diabetes,Bajo,4,1,Adulto mayor,Sí
+1620,35,M,Subsidiado,10,Sura,Bogotá,1238704,2030-07-19,Cáncer,Medio,2,2,Adulto,Sí
+1622,46,M,Contributivo,9,Sanitas,Medellín,1561113,2030-09-05,Fallecido,Alto,2,4,Adulto,Sí
+1623,14,M,Subsidiado,4,Sanitas,Barranquilla,803751,2030-10-03,Cáncer,Alto,3,5,Menor de edad,Sí
+1624,36,M,Contributivo,5,Coomeva,Barranquilla,758158,2030-09-21,Diabetes,Bajo,2,1,Adulto,No
+1625,57,F,Contributivo,10,Sanitas,Barranquilla,809890,2030-02-27,Cardiovasculares,Bajo,3,3,Adulto,Sí
+1626,34,M,Contributivo,5,Nueva EPS,Medellín,812127,2030-10-29,Recuperado,Bajo,1,2,Adulto,No
+1627,43,F,Contributivo,6,Sura,Medellín,1215603,2030-01-31,Cáncer,Bajo,1,7,Adulto,Sí
+1628,35,M,Contributivo,1,Sura,Cali,1297235,2030-09-06,Diabetes,Bajo,4,1,Adulto,Sí
+1629,86,F,Subsidiado,6,Nueva EPS,Barranquilla,845631,2030-04-03,Cardiovasculares,Bajo,1,4,Adulto mayor,No
+1630,49,F,Contributivo,8,Sanitas,Barranquilla,1295940,2030-09-22,Hipertension,Medio,3,1,Adulto,Sí
+1631,82,F,Contributivo,7,Nueva EPS,Barranquilla,789599,2030-09-28,Cardiovasculares,Medio,2,4,Adulto mayor,No
+1632,81,M,Contributivo,4,Sura,Bogotá,641884,2030-04-04,Cáncer,Bajo,0,6,Adulto mayor,Sí
+1633,49,M,Contributivo,5,Coomeva,Cali,1085522,2030-06-03,Recuperado,Bajo,5,4,Adulto,Sí
+1634,43,F,Contributivo,5,Nueva EPS,Barranquilla,1325139,2030-10-12,Diabetes,Bajo,1,4,Adulto,Sí
+1635,70,F,Subsidiado,5,Sura,Barranquilla,429694,2030-03-21,Hipertension,Bajo,0,5,Adulto mayor,No
+1637,50,M,Subsidiado,6,Sura,Bogotá,1123680,2030-03-25,Cáncer,Medio,2,1,Adulto,No
+1638,31,M,Contributivo,7,Sura,Bogotá,1521256,2030-12-31,Hipertension,Medio,2,7,Adulto,Sí
+1639,21,M,Contributivo,2,Sura,Medellín,749380,2030-02-06,Recuperado,Bajo,2,6,Joven adulto,Sí
+1640,64,M,Contributivo,6,Sanitas,Cali,1140419,2030-03-10,Recuperado,Bajo,1,3,Adulto mayor,No
+1641,68,F,Contributivo,5,Sura,Medellín,1954051,2030-11-23,Diabetes,Bajo,2,8,Adulto mayor,Sí
+1642,92,F,Contributivo,11,Sura,Cali,991702,2030-08-20,Diabetes,Alto,2,7,Adulto mayor,Sí
+1643,39,M,Subsidiado,7,Sura,Bogotá,645084,2030-04-03,Hipertension,Medio,2,5,Adulto,No
+1644,74,F,Contributivo,11,Sanitas,Bogotá,513756,2030-12-02,Fallecido,Alto,3,5,Adulto mayor,Sí
+1645,87,F,Contributivo,13,Sura,Bogotá,1176521,2030-04-12,Diabetes,Bajo,0,0,Adulto mayor,Sí
+1646,49,M,Subsidiado,4,Nueva EPS,Barranquilla,450971,2030-06-15,Diabetes,Alto,2,6,Adulto,Sí
+1647,49,M,Subsidiado,9,Nueva EPS,Medellín,940952,2030-06-08,Diabetes,Bajo,1,1,Adulto,Sí
+1648,78,M,Subsidiado,4,Coomeva,Bogotá,1025525,2030-01-14,Diabetes,Alto,3,3,Adulto mayor,Sí
+1650,32,M,Contributivo,8,Sanitas,Bogotá,1146816,2030-03-14,Cáncer,Bajo,2,0,Adulto,Sí
+1651,64,F,Contributivo,4,Nueva EPS,Medellín,1378078,2030-09-06,Recuperado,Medio,5,2,Adulto mayor,Sí
+1652,83,F,Contributivo,6,Sanitas,Cali,1516076,2030-04-01,Cáncer,Bajo,1,3,Adulto mayor,Sí
+1653,41,M,Contributivo,10,Sanitas,Medellín,899838,2030-08-04,Diabetes,Alto,3,2,Adulto,Sí
+1654,26,M,Contributivo,3,Nueva EPS,Cali,644724,2030-03-31,Hipertension,Bajo,1,4,Joven adulto,No
+1655,72,F,Subsidiado,6,Sanitas,Medellín,834922,2030-01-29,Hipertension,Bajo,1,4,Adulto mayor,No
+1656,24,F,Contributivo,5,Nueva EPS,Medellín,957584,2030-11-01,Hipertension,Medio,0,2,Joven adulto,No
+1658,95,M,Subsidiado,9,Nueva EPS,Barranquilla,1408323,2030-11-24,Fallecido,Alto,4,5,Adulto mayor,Sí
+1659,68,F,Contributivo,12,Sura,Barranquilla,1832977,2030-08-03,Fallecido,Alto,3,7,Adulto mayor,Sí
+1660,21,M,Contributivo,7,Coomeva,Cali,779764,2030-08-09,Cáncer,Bajo,2,4,Joven adulto,No
+1661,16,F,Subsidiado,7,Nueva EPS,Barranquilla,2035098,2030-02-11,Cáncer,Bajo,5,4,Menor de edad,Sí
+1662,26,M,Contributivo,6,Sura,Medellín,1534569,2030-05-15,Recuperado,Bajo,0,5,Joven adulto,Sí
+1663,21,F,Subsidiado,9,Coomeva,Medellín,1368272,2030-02-11,Recuperado,Bajo,1,2,Joven adulto,Sí
+1664,14,F,Subsidiado,5,Nueva EPS,Bogotá,1852183,2030-06-13,Fallecido,Alto,5,4,Menor de edad,Sí
+1665,69,F,Subsidiado,7,Nueva EPS,Bogotá,788667,2030-12-27,Recuperado,Bajo,5,4,Adulto mayor,Sí
+1666,26,F,Contributivo,3,Sanitas,Barranquilla,881348,2030-10-10,Recuperado,Bajo,1,0,Joven adulto,No
+1667,94,F,Contributivo,5,Coomeva,Cali,869780,2030-02-27,Cáncer,Bajo,2,7,Adulto mayor,Sí
+1668,86,M,Contributivo,5,Sura,Barranquilla,1282658,2030-03-10,Cáncer,Bajo,1,4,Adulto mayor,Sí
+1669,54,M,Contributivo,3,Nueva EPS,Barranquilla,818650,2030-11-18,Hipertension,Alto,4,6,Adulto,Sí
+1670,18,M,Contributivo,4,Coomeva,Barranquilla,1041073,2030-03-10,Cardiovasculares,Bajo,1,8,Joven adulto,Sí
+1671,68,M,Subsidiado,6,Sanitas,Barranquilla,1582735,2030-03-14,Cáncer,Alto,4,4,Adulto mayor,Sí
+1672,49,F,Subsidiado,9,Sura,Medellín,1493117,2030-03-10,Diabetes,Medio,4,4,Adulto,Sí
+1673,33,F,Subsidiado,11,Coomeva,Cali,1286507,2030-03-28,Fallecido,Alto,4,3,Adulto,Sí
+1674,80,M,Contributivo,10,Sura,Medellín,747097,2030-03-10,Fallecido,Alto,2,4,Adulto mayor,Sí
+1675,40,F,Subsidiado,9,Sura,Cali,900581,2030-06-02,Fallecido,Alto,5,5,Adulto,Sí
+1676,56,F,Contributivo,1,Sura,Bogotá,1232095,2030-07-01,Recuperado,Bajo,0,4,Adulto,Sí
+1677,80,M,Subsidiado,7,Nueva EPS,Barranquilla,1371642,2030-05-05,Recuperado,Bajo,0,6,Adulto mayor,Sí
+1678,11,M,Subsidiado,4,Nueva EPS,Bogotá,1191280,2030-03-08,Diabetes,Bajo,3,4,Menor de edad,Sí
+1681,37,M,Contributivo,7,Coomeva,Bogotá,947909,2030-11-10,Diabetes,Bajo,4,6,Adulto,Sí
+1683,83,M,Contributivo,7,Sura,Cali,541660,2030-02-22,Hipertension,Medio,1,2,Adulto mayor,No
+1684,36,F,Contributivo,8,Sura,Medellín,1139802,2030-03-10,Diabetes,Bajo,2,4,Adulto,Sí
+1688,91,F,Subsidiado,11,Sura,Medellín,1444395,2030-01-02,Hipertension,Bajo,3,3,Adulto mayor,Sí
+1690,50,F,Subsidiado,4,Coomeva,Barranquilla,1746056,2030-05-30,Cáncer,Bajo,2,4,Adulto,Sí
+1691,33,F,Subsidiado,7,Sanitas,Medellín,493957,2030-10-20,Recuperado,Bajo,2,3,Adulto,No
+1692,8,F,Subsidiado,5,Sanitas,Barranquilla,1211729,2030-04-13,Cáncer,Bajo,1,3,Menor de edad,Sí
+1693,49,M,Subsidiado,8,Coomeva,Bogotá,869284,2030-01-24,Hipertension,Bajo,1,3,Adulto,Sí
+1694,17,F,Subsidiado,4,Nueva EPS,Barranquilla,1211238,2030-07-31,Recuperado,Bajo,0,0,Menor de edad,Sí
+1695,43,F,Subsidiado,8,Sura,Barranquilla,1059149,2030-03-06,Cáncer,Bajo,2,5,Adulto,Sí
+1697,49,F,Subsidiado,2,Sura,Medellín,1078221,2030-09-08,Hipertension,Medio,3,4,Adulto,Sí
+1698,33,F,Subsidiado,7,Sura,Bogotá,449262,2030-04-27,Recuperado,Bajo,2,1,Adulto,No
+1699,79,M,Contributivo,12,Sura,Barranquilla,1484575,2030-04-26,Hipertension,Bajo,3,1,Adulto mayor,Sí
+1700,36,M,Subsidiado,6,Coomeva,Bogotá,1446225,2030-08-25,Recuperado,Bajo,4,0,Adulto,Sí
+1701,6,M,Subsidiado,1,Sura,Bogotá,1027366,2030-04-15,Recuperado,Bajo,1,7,Menor de edad,Sí
+1702,51,M,Contributivo,9,Sanitas,Medellín,1092680,2030-03-10,Recuperado,Bajo,0,4,Adulto,Sí
+1703,82,F,Contributivo,10,Nueva EPS,Barranquilla,1584009,2030-02-15,Cáncer,Bajo,4,2,Adulto mayor,Sí
+1704,88,M,Subsidiado,6,Nueva EPS,Medellín,1403201,2030-11-07,Diabetes,Alto,5,3,Adulto mayor,Sí
+1706,79,F,Subsidiado,10,Coomeva,Cali,934779,2030-08-04,Recuperado,Bajo,2,3,Adulto mayor,Sí
+1707,31,F,Contributivo,6,Nueva EPS,Bogotá,1626346,2030-10-28,Hipertension,Bajo,4,8,Adulto,Sí
+1708,71,M,Contributivo,13,Sanitas,Barranquilla,1771806,2030-11-29,Diabetes,Bajo,2,5,Adulto mayor,Sí
+1709,85,F,Contributivo,5,Coomeva,Bogotá,904049,2030-01-24,Recuperado,Bajo,0,1,Adulto mayor,No
+1711,25,M,Subsidiado,5,Sura,Medellín,643220,2030-01-24,Hipertension,Bajo,1,8,Joven adulto,Sí
+1712,51,F,Subsidiado,7,Sura,Bogotá,1532647,2030-01-28,Hipertension,Medio,2,5,Adulto,Sí
+1713,84,F,Subsidiado,6,Sura,Bogotá,975953,2030-01-16,Hipertension,Bajo,0,2,Adulto mayor,No
+1714,63,F,Contributivo,6,Sura,Medellín,1846657,2030-02-28,Cáncer,Bajo,3,4,Adulto mayor,Sí
+1715,88,M,Contributivo,9,Sanitas,Bogotá,714568,2030-08-31,Cardiovasculares,Bajo,1,6,Adulto mayor,Sí
+1716,10,F,Subsidiado,7,Coomeva,Medellín,817368,2030-07-26,Recuperado,Bajo,2,0,Menor de edad,No
+1717,23,M,Subsidiado,7,Coomeva,Barranquilla,1307158,2030-09-28,Recuperado,Bajo,1,4,Joven adulto,Sí
+1718,61,F,Contributivo,11,Nueva EPS,Medellín,1576853,2030-09-06,Cardiovasculares,Bajo,3,6,Adulto mayor,Sí
+1719,73,F,Contributivo,10,Sanitas,Barranquilla,1257450,2030-09-24,Cáncer,Bajo,5,5,Adulto mayor,Sí
+1720,7,M,Subsidiado,3,Sura,Medellín,752801,2030-07-12,Diabetes,Bajo,1,4,Menor de edad,No
+1721,5,M,Subsidiado,7,Sanitas,Cali,1269757,2030-12-01,Cáncer,Medio,2,2,Menor de edad,Sí
+1722,62,M,Contributivo,7,Nueva EPS,Cali,1102424,2030-08-06,Diabetes,Bajo,0,6,Adulto mayor,Sí
+1723,42,M,Contributivo,4,Sura,Barranquilla,916926,2030-04-25,Fallecido,Alto,4,7,Adulto,Sí
+1724,19,M,Contributivo,4,Sura,Barranquilla,1630519,2030-03-09,Cáncer,Medio,2,2,Joven adulto,Sí
+1726,65,F,Contributivo,8,Sanitas,Barranquilla,1242885,2030-11-21,Recuperado,Medio,4,4,Adulto mayor,Sí
+1727,39,F,Contributivo,4,Coomeva,Medellín,1035988,2030-03-16,Recuperado,Bajo,2,2,Adulto,No
+1728,68,M,Contributivo,8,Sura,Medellín,1420959,2030-04-13,Fallecido,Alto,3,6,Adulto mayor,Sí
+1729,29,F,Contributivo,3,Sanitas,Cali,686329,2030-10-24,Recuperado,Bajo,0,0,Joven adulto,No
+1730,28,M,Contributivo,9,Sanitas,Bogotá,1080419,2030-06-27,Cáncer,Medio,3,3,Joven adulto,Sí
+1731,16,F,Subsidiado,10,Sanitas,Medellín,435990,2030-08-03,Cáncer,Bajo,2,5,Menor de edad,Sí
+1732,22,F,Subsidiado,3,Nueva EPS,Barranquilla,1384926,2030-03-10,Cardiovasculares,Bajo,4,4,Joven adulto,Sí
+1734,84,M,Subsidiado,11,Coomeva,Bogotá,1520230,2030-09-16,Fallecido,Alto,1,3,Adulto mayor,Sí
+1735,31,M,Contributivo,9,Sura,Medellín,1228377,2030-07-23,Recuperado,Medio,4,0,Adulto,Sí
+1736,49,F,Subsidiado,8,Coomeva,Medellín,822532,2030-01-07,Cáncer,Medio,1,2,Adulto,Sí
+1737,64,M,Contributivo,7,Sura,Bogotá,989712,2030-02-18,Hipertension,Alto,4,7,Adulto mayor,Sí
+1738,49,F,Subsidiado,13,Nueva EPS,Bogotá,1042550,2030-01-26,Recuperado,Bajo,1,0,Adulto,Sí
+1739,93,M,Subsidiado,8,Nueva EPS,Cali,1449215,2030-06-10,Cáncer,Bajo,3,7,Adulto mayor,Sí
+1740,21,F,Contributivo,6,Nueva EPS,Barranquilla,183716,2030-12-23,Hipertension,Bajo,1,4,Joven adulto,No
+1741,57,F,Contributivo,11,Coomeva,Cali,1819270,2030-06-25,Diabetes,Bajo,4,7,Adulto,Sí
+1742,12,M,Subsidiado,9,Sanitas,Medellín,1396921,2030-03-20,Cáncer,Bajo,3,1,Menor de edad,Sí
+1743,83,F,Contributivo,9,Sanitas,Cali,654193,2030-01-02,Diabetes,Medio,2,4,Adulto mayor,Sí
+1744,31,F,Contributivo,6,Nueva EPS,Cali,783970,2030-05-12,Diabetes,Bajo,2,0,Adulto,No
+1745,50,M,Subsidiado,6,Sanitas,Cali,1797166,2030-10-03,Recuperado,Bajo,3,4,Adulto,Sí
+1746,49,F,Contributivo,10,Sanitas,Cali,787190,2030-04-27,Hipertension,Medio,2,2,Adulto,Sí
+1747,75,M,Contributivo,8,Coomeva,Barranquilla,860377,2030-06-13,Cáncer,Alto,3,7,Adulto mayor,Sí
+1748,7,M,Subsidiado,5,Sura,Barranquilla,1688706,2030-10-15,Recuperado,Bajo,4,1,Menor de edad,Sí
+1749,68,M,Contributivo,4,Nueva EPS,Bogotá,1171375,2030-01-28,Hipertension,Bajo,2,5,Adulto mayor,No
+1750,48,F,Subsidiado,9,Nueva EPS,Medellín,638929,2030-03-10,Cáncer,Bajo,0,6,Adulto,Sí
+1751,49,F,Contributivo,9,Coomeva,Cali,1163625,2030-01-01,Diabetes,Medio,1,4,Adulto,Sí
+1752,28,F,Contributivo,4,Coomeva,Bogotá,1070071,2030-07-07,Recuperado,Bajo,5,4,Joven adulto,Sí
+1753,64,F,Contributivo,6,Sanitas,Bogotá,1441029,2030-02-25,Cardiovasculares,Medio,2,6,Adulto mayor,Sí
+1754,7,M,Subsidiado,8,Nueva EPS,Bogotá,1384761,2030-02-04,Recuperado,Bajo,0,3,Menor de edad,Sí
+1756,50,F,Subsidiado,6,Coomeva,Cali,1442297,2030-10-13,Cáncer,Alto,4,1,Adulto,Sí
+1757,19,M,Contributivo,9,Sura,Cali,1764377,2030-03-10,Recuperado,Bajo,0,1,Joven adulto,Sí
+1758,49,M,Subsidiado,5,Sura,Medellín,1100103,2030-03-10,Cáncer,Bajo,1,2,Adulto,No
+1759,82,F,Contributivo,9,Nueva EPS,Cali,587617,2030-08-05,Cáncer,Bajo,1,4,Adulto mayor,Sí
+1760,75,M,Subsidiado,11,Nueva EPS,Cali,965811,2030-03-21,Cáncer,Bajo,0,5,Adulto mayor,Sí
+1761,21,M,Subsidiado,8,Coomeva,Bogotá,1706086,2030-11-10,Cáncer,Medio,1,3,Joven adulto,Sí
+1762,49,M,Contributivo,5,Nueva EPS,Medellín,803060,2030-03-24,Cáncer,Bajo,3,1,Adulto,Sí
+1763,13,M,Subsidiado,3,Nueva EPS,Cali,918300,2030-03-06,Cáncer,Bajo,2,2,Menor de edad,No
+1764,49,F,Contributivo,5,Nueva EPS,Barranquilla,1376679,2030-11-21,Cáncer,Bajo,3,5,Adulto,Sí
+1765,52,M,Subsidiado,7,Sura,Cali,1012802,2030-05-08,Diabetes,Medio,0,3,Adulto,No
+1767,67,M,Subsidiado,5,Sanitas,Bogotá,1357002,2030-01-22,Recuperado,Bajo,2,2,Adulto mayor,Sí
+1768,90,M,Contributivo,7,Sura,Bogotá,1233309,2030-08-04,Cáncer,Medio,3,3,Adulto mayor,Sí
+1769,6,M,Subsidiado,2,Nueva EPS,Cali,863010,2030-04-17,Diabetes,Bajo,1,3,Menor de edad,No
+1770,92,M,Subsidiado,2,Sura,Barranquilla,899886,2030-04-19,Cáncer,Bajo,4,4,Adulto mayor,Sí
+1771,76,M,Subsidiado,5,Sura,Medellín,797073,2030-12-23,Cáncer,Bajo,1,6,Adulto mayor,Sí
+1772,15,M,Subsidiado,9,Nueva EPS,Medellín,1185107,2030-06-30,Cáncer,Bajo,2,3,Menor de edad,Sí
+1773,68,F,Contributivo,5,Sura,Barranquilla,1321461,2030-12-22,Hipertension,Bajo,1,5,Adulto mayor,Sí
+1774,81,M,Subsidiado,9,Coomeva,Bogotá,1167623,2030-06-13,Fallecido,Alto,3,5,Adulto mayor,Sí
+1775,85,F,Contributivo,13,Nueva EPS,Bogotá,1418189,2030-03-09,Hipertension,Bajo,4,0,Adulto mayor,Sí
+1776,76,M,Contributivo,10,Coomeva,Barranquilla,1239011,2030-10-19,Hipertension,Alto,5,1,Adulto mayor,Sí
+1777,49,M,Contributivo,9,Sanitas,Bogotá,1002552,2030-06-29,Recuperado,Bajo,4,2,Adulto,Sí
+1778,22,M,Contributivo,2,Nueva EPS,Cali,1136172,2030-06-30,Cáncer,Medio,3,3,Joven adulto,Sí
+1779,68,M,Contributivo,9,Coomeva,Bogotá,1219694,2030-06-18,Diabetes,Alto,2,3,Adulto mayor,Sí
+1780,86,F,Contributivo,5,Coomeva,Barranquilla,632615,2030-01-22,Fallecido,Alto,5,4,Adulto mayor,Sí
+1781,49,M,Contributivo,8,Sanitas,Barranquilla,1839816,2030-03-07,Diabetes,Bajo,2,6,Adulto,Sí
+1782,36,M,Subsidiado,7,Coomeva,Cali,1332109,2030-03-10,Recuperado,Bajo,1,4,Adulto,Sí
+1783,15,F,Subsidiado,0,Coomeva,Barranquilla,1409704,2030-04-10,Recuperado,Bajo,2,3,Menor de edad,Sí
+1784,49,F,Contributivo,9,Sanitas,Barranquilla,553431,2030-10-27,Cáncer,Bajo,1,8,Adulto,Sí
+1785,93,M,Subsidiado,9,Nueva EPS,Medellín,662890,2030-04-13,Recuperado,Bajo,2,4,Adulto mayor,Sí
+1786,37,F,Contributivo,3,Coomeva,Medellín,1203627,2030-02-16,Diabetes,Bajo,4,3,Adulto,Sí
+1787,45,F,Contributivo,6,Coomeva,Cali,1010953,2030-02-08,Diabetes,Bajo,2,1,Adulto,No
+1789,15,F,Subsidiado,6,Sura,Medellín,1279567,2030-11-06,Cáncer,Medio,4,5,Menor de edad,Sí
+1790,90,M,Subsidiado,9,Sanitas,Bogotá,907531,2030-03-31,Hipertension,Bajo,1,3,Adulto mayor,Sí
+1791,55,M,Contributivo,7,Sura,Barranquilla,613329,2030-03-26,Diabetes,Medio,1,3,Adulto,No
+1792,92,F,Contributivo,9,Sura,Medellín,1405059,2030-09-30,Hipertension,Bajo,2,6,Adulto mayor,Sí
+1793,45,M,Contributivo,5,Nueva EPS,Cali,581348,2030-12-02,Recuperado,Bajo,1,4,Adulto,No
+1794,49,F,Contributivo,1,Nueva EPS,Cali,1580718,2030-07-07,Diabetes,Bajo,2,8,Adulto,Sí
+1795,80,M,Subsidiado,1,Coomeva,Cali,810589,2030-06-08,Diabetes,Medio,1,3,Adulto mayor,No
+1796,50,M,Contributivo,4,Sanitas,Medellín,1496683,2030-08-31,Hipertension,Alto,3,7,Adulto,Sí
+1797,36,F,Subsidiado,9,Nueva EPS,Bogotá,1518622,2030-03-14,Cardiovasculares,Bajo,4,3,Adulto,Sí
+1798,83,M,Contributivo,9,Sanitas,Barranquilla,1057106,2030-02-18,Cáncer,Bajo,2,5,Adulto mayor,Sí
+1799,84,F,Contributivo,9,Nueva EPS,Bogotá,925098,2030-03-10,Cáncer,Bajo,1,6,Adulto mayor,Sí
+1800,58,F,Subsidiado,3,Sura,Bogotá,943100,2030-01-02,Cardiovasculares,Medio,1,8,Adulto,Sí
+1801,90,M,Contributivo,8,Nueva EPS,Barranquilla,1171823,2030-09-01,Diabetes,Bajo,3,4,Adulto mayor,Sí
+1803,37,M,Subsidiado,8,Nueva EPS,Medellín,1175585,2030-08-26,Cáncer,Alto,4,2,Adulto,Sí
+1804,78,M,Subsidiado,4,Coomeva,Medellín,1037476,2030-02-28,Recuperado,Bajo,2,4,Adulto mayor,No
+1805,44,F,Subsidiado,9,Sura,Medellín,1191798,2030-12-19,Hipertension,Bajo,2,8,Adulto,Sí
+1807,6,F,Subsidiado,7,Coomeva,Medellín,1168484,2030-12-25,Recuperado,Bajo,1,1,Menor de edad,No
+1808,37,M,Contributivo,2,Sura,Barranquilla,658039,2030-01-02,Cáncer,Bajo,2,7,Adulto,Sí
+1809,49,M,Subsidiado,6,Coomeva,Bogotá,517655,2030-08-31,Recuperado,Medio,0,2,Adulto,No
+1810,49,M,Subsidiado,4,Sanitas,Medellín,636929,2030-10-24,Cáncer,Alto,3,5,Adulto,Sí
+1811,37,M,Subsidiado,6,Sanitas,Medellín,502201,2030-07-30,Hipertension,Bajo,2,2,Adulto,No
+1812,81,M,Subsidiado,8,Sura,Bogotá,556001,2030-05-03,Cáncer,Bajo,1,5,Adulto mayor,Sí
+1813,30,F,Contributivo,7,Nueva EPS,Medellín,769349,2030-08-17,Diabetes,Bajo,1,7,Adulto,Sí
+1814,26,F,Subsidiado,3,Sura,Bogotá,1361777,2030-03-23,Recuperado,Bajo,1,3,Joven adulto,Sí
+1815,70,F,Subsidiado,6,Coomeva,Bogotá,1099460,2030-05-24,Fallecido,Alto,3,4,Adulto mayor,Sí
+1816,42,F,Subsidiado,9,Nueva EPS,Barranquilla,1066862,2030-05-20,Fallecido,Alto,1,7,Adulto,Sí
+1817,94,F,Subsidiado,4,Sanitas,Cali,940597,2030-01-29,Diabetes,Bajo,1,3,Adulto mayor,No
+1818,50,F,Contributivo,5,Nueva EPS,Barranquilla,1395979,2030-09-27,Cáncer,Medio,5,2,Adulto,Sí
+1819,19,M,Contributivo,7,Sanitas,Cali,1232596,2030-09-04,Cáncer,Alto,4,1,Joven adulto,Sí
+1820,48,M,Contributivo,3,Nueva EPS,Cali,954673,2030-01-12,Cardiovasculares,Medio,5,7,Adulto,Sí
+1821,53,F,Subsidiado,3,Nueva EPS,Cali,1064073,2030-12-21,Hipertension,Bajo,2,1,Adulto,No
+1822,79,F,Contributivo,9,Nueva EPS,Bogotá,1728564,2030-12-03,Diabetes,Medio,2,4,Adulto mayor,Sí
+1823,65,M,Contributivo,11,Coomeva,Barranquilla,495529,2030-04-16,Fallecido,Alto,1,7,Adulto mayor,Sí
+1824,71,M,Contributivo,9,Sura,Cali,750423,2030-02-01,Cáncer,Bajo,1,4,Adulto mayor,Sí
+1825,10,M,Subsidiado,6,Sura,Bogotá,754750,2030-03-15,Recuperado,Bajo,0,3,Menor de edad,No
+1827,10,F,Subsidiado,4,Sanitas,Barranquilla,1261473,2030-12-03,Hipertension,Bajo,2,0,Menor de edad,Sí
+1828,77,F,Contributivo,10,Coomeva,Cali,937751,2030-03-10,Diabetes,Bajo,2,6,Adulto mayor,Sí
+1829,36,M,Contributivo,7,Sanitas,Bogotá,1618139,2030-10-28,Hipertension,Medio,2,2,Adulto,Sí
+1830,45,M,Contributivo,7,Sura,Barranquilla,1211505,2030-12-28,Cáncer,Bajo,1,7,Adulto,Sí
+1832,12,F,Subsidiado,5,Sura,Medellín,1234799,2030-04-10,Cáncer,Bajo,2,4,Menor de edad,Sí
+1833,76,M,Subsidiado,7,Coomeva,Barranquilla,1279357,2030-05-26,Recuperado,Bajo,2,2,Adulto mayor,Sí
+1834,54,M,Contributivo,9,Nueva EPS,Medellín,1110843,2030-01-09,Recuperado,Bajo,3,4,Adulto,Sí
+1836,88,M,Subsidiado,9,Sanitas,Medellín,1184993,2030-07-04,Recuperado,Bajo,3,6,Adulto mayor,Sí
+1837,66,F,Contributivo,5,Sanitas,Bogotá,1094249,2030-01-29,Cardiovasculares,Bajo,2,4,Adulto mayor,No
+1838,11,M,Subsidiado,2,Coomeva,Medellín,815815,2030-04-24,Recuperado,Bajo,0,6,Menor de edad,Sí
+1839,79,M,Subsidiado,11,Coomeva,Bogotá,758978,2030-05-23,Cardiovasculares,Medio,4,6,Adulto mayor,Sí
+1840,88,M,Contributivo,6,Sura,Medellín,674740,2030-04-30,Cáncer,Bajo,1,6,Adulto mayor,Sí
+1841,84,F,Contributivo,8,Sanitas,Barranquilla,1089577,2030-06-19,Fallecido,Alto,5,5,Adulto mayor,Sí
+1842,8,F,Subsidiado,3,Sanitas,Cali,891551,2030-03-10,Cáncer,Bajo,2,5,Menor de edad,No
+1843,49,M,Contributivo,7,Coomeva,Bogotá,1977973,2030-12-01,Hipertension,Medio,2,5,Adulto,Sí
+1845,26,M,Contributivo,4,Sanitas,Medellín,1289786,2030-09-17,Recuperado,Medio,3,3,Joven adulto,Sí
+1846,30,F,Contributivo,9,Nueva EPS,Medellín,1607438,2030-03-23,Cáncer,Alto,4,5,Adulto,Sí
+1847,7,F,Subsidiado,4,Coomeva,Barranquilla,1464917,2030-08-30,Recuperado,Bajo,1,0,Menor de edad,Sí
+1848,45,F,Contributivo,4,Sura,Barranquilla,1045749,2030-06-21,Recuperado,Bajo,4,3,Adulto,Sí
+1849,64,M,Contributivo,7,Sura,Bogotá,1268464,2030-08-19,Diabetes,Bajo,2,5,Adulto mayor,Sí
+1850,18,F,Contributivo,7,Sanitas,Bogotá,1454490,2030-07-27,Recuperado,Bajo,3,4,Joven adulto,Sí
+1851,79,M,Subsidiado,7,Nueva EPS,Barranquilla,996622,2030-03-16,Cáncer,Medio,1,4,Adulto mayor,No
+1852,86,M,Contributivo,12,Sura,Bogotá,1155686,2030-09-27,Cáncer,Bajo,2,5,Adulto mayor,Sí
+1853,16,M,Subsidiado,11,Sanitas,Cali,1262985,2030-04-24,Hipertension,Medio,2,4,Menor de edad,Sí
+1854,91,F,Subsidiado,11,Sura,Bogotá,1000228,2030-03-03,Fallecido,Alto,3,3,Adulto mayor,Sí
+1855,16,M,Subsidiado,6,Coomeva,Barranquilla,1325686,2030-12-28,Cáncer,Medio,1,4,Menor de edad,Sí
+1857,29,F,Subsidiado,11,Sura,Medellín,902862,2030-04-12,Cáncer,Bajo,0,8,Joven adulto,Sí
+1858,49,M,Contributivo,6,Sura,Cali,1668068,2030-12-28,Diabetes,Bajo,3,3,Adulto,Sí
+1859,23,M,Contributivo,8,Nueva EPS,Barranquilla,923198,2030-07-29,Cáncer,Medio,2,3,Joven adulto,Sí
+1860,59,F,Contributivo,4,Sura,Bogotá,897781,2030-09-12,Diabetes,Bajo,1,2,Adulto,No
+1861,49,M,Contributivo,7,Sanitas,Barranquilla,1499661,2030-01-20,Cáncer,Bajo,0,4,Adulto,Sí
+1862,12,F,Subsidiado,6,Sanitas,Medellín,1171041,2030-02-27,Hipertension,Alto,5,6,Menor de edad,Sí
+1863,57,M,Contributivo,9,Nueva EPS,Cali,935309,2030-04-22,Recuperado,Bajo,0,0,Adulto,Sí
+1864,59,F,Contributivo,4,Sanitas,Barranquilla,888490,2030-11-09,Cáncer,Bajo,2,3,Adulto,No
+1865,36,F,Contributivo,6,Coomeva,Barranquilla,1446868,2030-07-15,Diabetes,Medio,2,7,Adulto,Sí
+1867,48,F,Contributivo,4,Sanitas,Medellín,546168,2030-04-02,Hipertension,Bajo,1,1,Adulto,No
+1868,86,M,Contributivo,9,Sura,Barranquilla,853772,2030-02-21,Cáncer,Bajo,1,5,Adulto mayor,Sí
+1869,74,M,Contributivo,11,Sura,Medellín,854613,2030-10-20,Diabetes,Alto,1,1,Adulto mayor,Sí
+1870,22,F,Subsidiado,7,Sanitas,Medellín,1069487,2030-01-08,Cáncer,Bajo,1,5,Joven adulto,No
+1871,87,F,Contributivo,11,Nueva EPS,Medellín,1528210,2030-10-27,Fallecido,Alto,4,6,Adulto mayor,Sí
+1872,26,M,Subsidiado,10,Sura,Cali,1291296,2030-04-08,Cáncer,Bajo,2,4,Joven adulto,Sí
+1873,41,M,Contributivo,10,Nueva EPS,Cali,651606,2030-08-24,Cáncer,Medio,3,4,Adulto,Sí
+1874,60,M,Subsidiado,6,Sanitas,Barranquilla,1489854,2030-03-10,Fallecido,Alto,2,4,Adulto mayor,Sí
+1876,7,M,Subsidiado,8,Coomeva,Cali,1205806,2030-05-17,Recuperado,Bajo,0,0,Menor de edad,Sí
+1877,49,M,Contributivo,8,Sura,Bogotá,1117636,2030-03-10,Hipertension,Alto,1,3,Adulto,Sí
+1878,78,F,Contributivo,5,Sanitas,Cali,1670451,2030-02-01,Hipertension,Bajo,3,4,Adulto mayor,Sí
+1879,39,M,Contributivo,8,Coomeva,Medellín,1136118,2030-10-16,Cáncer,Medio,0,7,Adulto,Sí
+1880,65,M,Contributivo,9,Sura,Bogotá,1302034,2030-05-06,Diabetes,Alto,2,4,Adulto mayor,Sí
+1882,67,M,Subsidiado,4,Sanitas,Barranquilla,1206566,2030-01-30,Cáncer,Alto,3,8,Adulto mayor,Sí
+1883,83,M,Contributivo,15,Sura,Bogotá,2110987,2030-03-10,Hipertension,Alto,2,1,Adulto mayor,Sí
+1884,11,M,Subsidiado,8,Sura,Barranquilla,1102655,2030-07-23,Recuperado,Medio,1,2,Menor de edad,Sí
+1885,80,M,Contributivo,8,Sura,Medellín,897389,2030-01-29,Recuperado,Bajo,0,1,Adulto mayor,Sí
+1886,49,F,Subsidiado,3,Sanitas,Medellín,440395,2030-03-10,Recuperado,Bajo,0,3,Adulto,No
+1887,89,F,Contributivo,9,Sanitas,Bogotá,806521,2030-07-04,Cáncer,Bajo,4,3,Adulto mayor,Sí
+1888,35,M,Subsidiado,10,Coomeva,Bogotá,1144493,2030-09-10,Cáncer,Alto,2,5,Adulto,Sí
+1889,49,F,Contributivo,9,Nueva EPS,Cali,1102673,2030-10-13,Hipertension,Bajo,1,4,Adulto,Sí
+1891,28,M,Subsidiado,10,Sanitas,Barranquilla,1303675,2030-01-03,Cáncer,Bajo,2,6,Joven adulto,Sí
+1892,24,F,Subsidiado,8,Sanitas,Cali,1512332,2030-03-09,Cáncer,Bajo,2,6,Joven adulto,Sí
+1893,41,M,Contributivo,2,Sura,Barranquilla,1276106,2030-01-25,Cáncer,Bajo,1,3,Adulto,Sí
+1894,8,F,Subsidiado,8,Nueva EPS,Bogotá,801993,2030-06-28,Cáncer,Medio,2,1,Menor de edad,Sí
+1895,24,F,Subsidiado,4,Sura,Barranquilla,663657,2030-05-21,Cáncer,Bajo,0,3,Joven adulto,No
+1897,49,M,Subsidiado,5,Sanitas,Cali,938822,2030-10-27,Hipertension,Alto,3,1,Adulto,Sí
+1898,54,M,Contributivo,4,Nueva EPS,Bogotá,954132,2030-06-12,Hipertension,Bajo,2,2,Adulto,No
+1902,70,F,Subsidiado,11,Sura,Cali,1110663,2030-10-24,Hipertension,Medio,3,3,Adulto mayor,Sí
+1903,83,F,Contributivo,5,Sura,Barranquilla,1163424,2030-06-21,Fallecido,Alto,2,4,Adulto mayor,Sí
+1904,38,F,Contributivo,7,Sura,Bogotá,1565509,2030-03-05,Cardiovasculares,Medio,1,1,Adulto,Sí
+1906,10,F,Subsidiado,2,Sura,Barranquilla,1012242,2030-02-16,Cáncer,Bajo,3,5,Menor de edad,Sí
+1907,43,F,Subsidiado,1,Sura,Cali,935154,2030-05-10,Cardiovasculares,Bajo,1,8,Adulto,Sí
+1908,46,F,Contributivo,4,Sura,Cali,699834,2030-12-18,Recuperado,Bajo,2,3,Adulto,No
+1909,62,M,Contributivo,9,Sanitas,Cali,1845919,2030-03-10,Diabetes,Bajo,3,8,Adulto mayor,Sí
+1910,16,F,Subsidiado,7,Sura,Bogotá,1523410,2030-04-20,Diabetes,Bajo,3,5,Menor de edad,Sí
+1911,7,F,Subsidiado,6,Coomeva,Barranquilla,1168829,2030-03-10,Recuperado,Bajo,4,3,Menor de edad,Sí
+1912,22,M,Contributivo,4,Sanitas,Medellín,1361679,2030-02-27,Cáncer,Bajo,4,2,Joven adulto,Sí
+1913,44,M,Subsidiado,11,Sanitas,Bogotá,1273036,2030-04-16,Recuperado,Bajo,1,4,Adulto,Sí
+1914,25,F,Subsidiado,10,Sanitas,Bogotá,758970,2030-10-27,Hipertension,Medio,2,1,Joven adulto,Sí
+1917,12,M,Subsidiado,5,Coomeva,Bogotá,1049140,2030-11-08,Cáncer,Medio,1,2,Menor de edad,No
+1919,49,F,Contributivo,10,Nueva EPS,Barranquilla,968697,2030-06-11,Recuperado,Medio,1,2,Adulto,Sí
+1920,48,F,Contributivo,4,Sura,Cali,1025380,2030-10-13,Cáncer,Medio,2,4,Adulto,No
+1921,18,M,Contributivo,10,Nueva EPS,Bogotá,1120187,2030-03-12,Cáncer,Bajo,3,3,Joven adulto,Sí
+1922,82,M,Contributivo,4,Sura,Cali,488781,2030-09-12,Cardiovasculares,Bajo,0,1,Adulto mayor,No
+1923,6,F,Subsidiado,0,Sura,Medellín,777655,2030-02-24,Cáncer,Medio,3,0,Menor de edad,Sí
+1924,41,F,Contributivo,8,Nueva EPS,Cali,734828,2030-11-19,Cáncer,Medio,2,5,Adulto,Sí
+1925,73,F,Contributivo,12,Sanitas,Medellín,1350151,2030-01-03,Fallecido,Alto,3,7,Adulto mayor,Sí
+1926,42,M,Contributivo,10,Sura,Barranquilla,435994,2030-03-10,Cáncer,Medio,2,2,Adulto,Sí
+1927,45,F,Contributivo,4,Sura,Cali,1460311,2030-03-10,Hipertension,Medio,2,3,Adulto,Sí
+1929,64,F,Contributivo,9,Coomeva,Bogotá,965570,2030-02-22,Cáncer,Medio,0,1,Adulto mayor,Sí
+1930,18,F,Contributivo,4,Nueva EPS,Bogotá,324829,2030-07-17,Cáncer,Bajo,2,4,Joven adulto,No
+1932,88,M,Contributivo,10,Coomeva,Bogotá,964044,2030-07-07,Cáncer,Bajo,2,5,Adulto mayor,Sí
+1933,6,M,Subsidiado,1,Sura,Bogotá,563130,2030-07-05,Cáncer,Medio,0,5,Menor de edad,No
+1934,74,F,Subsidiado,5,Nueva EPS,Barranquilla,917123,2030-11-01,Cáncer,Alto,2,1,Adulto mayor,No
+1935,21,M,Subsidiado,9,Nueva EPS,Bogotá,1651622,2030-10-25,Recuperado,Bajo,2,6,Joven adulto,Sí
+1936,93,F,Subsidiado,9,Sura,Medellín,1363611,2030-07-23,Fallecido,Alto,4,7,Adulto mayor,Sí
+1937,32,M,Contributivo,7,Nueva EPS,Medellín,903968,2030-01-11,Cardiovasculares,Bajo,3,5,Adulto,Sí
+1938,70,M,Subsidiado,3,Sanitas,Cali,373722,2030-12-25,Recuperado,Bajo,0,3,Adulto mayor,No
+1940,9,F,Subsidiado,0,Nueva EPS,Bogotá,780049,2030-05-26,Cáncer,Medio,0,5,Menor de edad,No
+1941,69,M,Subsidiado,11,Nueva EPS,Bogotá,1391003,2030-03-26,Cáncer,Bajo,3,1,Adulto mayor,Sí
+1943,80,F,Contributivo,11,Sanitas,Medellín,1567685,2030-04-14,Fallecido,Alto,2,7,Adulto mayor,Sí
+1944,60,F,Subsidiado,2,Sanitas,Medellín,1399656,2030-02-15,Recuperado,Bajo,0,3,Adulto mayor,Sí
+1945,40,F,Contributivo,7,Sura,Bogotá,965163,2030-02-13,Cáncer,Medio,0,1,Adulto,No
+1946,49,F,Contributivo,7,Coomeva,Medellín,1058855,2030-10-05,Cardiovasculares,Bajo,1,5,Adulto,No
+1947,49,M,Contributivo,8,Sura,Bogotá,917287,2030-06-30,Recuperado,Bajo,1,4,Adulto,Sí
+1948,51,M,Subsidiado,2,Sanitas,Cali,855771,2030-07-06,Diabetes,Medio,2,7,Adulto,Sí
+1949,35,M,Subsidiado,5,Coomeva,Bogotá,1270248,2030-04-24,Cáncer,Medio,1,4,Adulto,Sí
+1950,15,M,Subsidiado,7,Nueva EPS,Cali,731347,2030-09-12,Cáncer,Bajo,1,8,Menor de edad,Sí
+1951,14,M,Subsidiado,5,Coomeva,Bogotá,1294488,2030-01-30,Cáncer,Bajo,5,4,Menor de edad,Sí
+1952,71,F,Contributivo,8,Nueva EPS,Cali,1142766,2030-09-21,Cáncer,Bajo,2,8,Adulto mayor,Sí
+1953,18,M,Contributivo,3,Nueva EPS,Medellín,895442,2030-04-08,Hipertension,Alto,3,7,Joven adulto,Sí
+1954,49,M,Contributivo,12,Sura,Cali,1221051,2030-11-09,Recuperado,Bajo,3,0,Adulto,Sí
+1955,78,M,Contributivo,6,Nueva EPS,Medellín,1294790,2030-11-25,Cáncer,Bajo,2,3,Adulto mayor,Sí
+1956,14,F,Subsidiado,8,Sura,Medellín,1307570,2030-04-25,Recuperado,Medio,2,3,Menor de edad,Sí
+1957,80,F,Contributivo,8,Sanitas,Cali,1228922,2030-10-03,Diabetes,Bajo,2,5,Adulto mayor,Sí
+1958,5,F,Subsidiado,2,Nueva EPS,Bogotá,605197,2030-10-08,Recuperado,Bajo,0,5,Menor de edad,No
+1959,9,F,Subsidiado,3,Sura,Bogotá,1268172,2030-03-10,Cáncer,Alto,3,5,Menor de edad,Sí
+1960,24,F,Contributivo,2,Nueva EPS,Barranquilla,623583,2030-09-18,Recuperado,Medio,1,4,Joven adulto,No
+1961,12,F,Subsidiado,3,Sanitas,Bogotá,1583139,2030-11-27,Cáncer,Alto,3,5,Menor de edad,Sí
+1962,47,F,Subsidiado,9,Sura,Barranquilla,1332308,2030-07-26,Recuperado,Bajo,3,3,Adulto,Sí
+1963,80,F,Subsidiado,6,Sanitas,Bogotá,1192472,2030-11-24,Cáncer,Medio,1,1,Adulto mayor,No
+1964,5,F,Subsidiado,6,Sura,Bogotá,1238957,2030-07-30,Hipertension,Bajo,3,4,Menor de edad,Sí
+1965,61,F,Subsidiado,10,Sura,Medellín,1240609,2030-08-03,Recuperado,Bajo,4,5,Adulto mayor,Sí
+1967,88,M,Contributivo,12,Sura,Bogotá,1603786,2030-01-26,Fallecido,Alto,4,6,Adulto mayor,Sí
+1968,32,F,Contributivo,4,Coomeva,Barranquilla,416579,2030-01-27,Cáncer,Medio,3,6,Adulto,Sí
+1970,51,M,Contributivo,3,Sura,Medellín,46925,2030-03-24,Cáncer,Medio,0,2,Adulto,No
+1973,53,F,Subsidiado,4,Nueva EPS,Bogotá,825874,2030-07-07,Cáncer,Medio,2,3,Adulto,No
+1974,48,F,Subsidiado,9,Coomeva,Cali,772999,2030-06-18,Cáncer,Alto,3,2,Adulto,Sí
+1975,60,F,Subsidiado,8,Sanitas,Medellín,1140558,2030-10-16,Recuperado,Bajo,2,1,Adulto mayor,Sí
+1977,83,F,Contributivo,5,Nueva EPS,Bogotá,363459,2030-04-07,Cáncer,Medio,1,4,Adulto mayor,No
+1978,49,M,Contributivo,5,Nueva EPS,Barranquilla,651088,2030-01-16,Recuperado,Bajo,0,1,Adulto,No
+1979,65,M,Contributivo,11,Sura,Bogotá,1546532,2030-10-06,Cáncer,Bajo,2,6,Adulto mayor,Sí
+1980,24,F,Subsidiado,4,Sanitas,Barranquilla,2020257,2030-05-15,Cáncer,Alto,4,6,Joven adulto,Sí
+1981,82,F,Contributivo,8,Sura,Medellín,924423,2030-01-26,Fallecido,Alto,3,7,Adulto mayor,Sí
+1982,6,M,Subsidiado,7,Coomeva,Bogotá,705537,2030-12-18,Cáncer,Alto,2,7,Menor de edad,Sí
+1985,24,M,Subsidiado,6,Sanitas,Bogotá,1176513,2030-05-13,Cáncer,Bajo,1,5,Joven adulto,No
+1986,30,F,Contributivo,4,Sanitas,Barranquilla,780891,2030-04-16,Cáncer,Bajo,3,2,Adulto,Sí
+1987,33,F,Contributivo,5,Sanitas,Barranquilla,1245117,2030-03-10,Recuperado,Bajo,2,1,Adulto,Sí
+1988,5,F,Subsidiado,4,Coomeva,Bogotá,1171226,2030-06-26,Recuperado,Medio,3,3,Menor de edad,Sí
+1989,39,M,Subsidiado,7,Nueva EPS,Cali,1097615,2030-10-09,Cáncer,Bajo,2,3,Adulto,No
+1990,74,F,Contributivo,6,Sura,Bogotá,1528680,2030-05-13,Hipertension,Bajo,0,3,Adulto mayor,Sí
+1991,63,F,Subsidiado,4,Sura,Barranquilla,1198771,2030-01-22,Cáncer,Medio,3,4,Adulto mayor,Sí
+1992,73,M,Contributivo,7,Nueva EPS,Bogotá,608742,2030-09-26,Recuperado,Bajo,1,4,Adulto mayor,No
+1993,37,M,Contributivo,7,Nueva EPS,Barranquilla,1524655,2030-06-10,Hipertension,Bajo,2,8,Adulto,Sí
+1994,55,M,Subsidiado,6,Sura,Bogotá,1007555,2030-04-17,Cáncer,Medio,1,3,Adulto,No
+1995,82,M,Contributivo,10,Sura,Medellín,1414286,2030-10-06,Diabetes,Bajo,3,3,Adulto mayor,Sí
+1996,16,F,Subsidiado,11,Sura,Barranquilla,1472930,2030-12-19,Recuperado,Bajo,2,3,Menor de edad,Sí
+1998,57,M,Subsidiado,4,Sura,Medellín,1035590,2030-01-18,Fallecido,Alto,2,6,Adulto,Sí
+1999,92,F,Contributivo,11,Nueva EPS,Medellín,870426,2030-03-10,Cáncer,Medio,2,6,Adulto mayor,Sí
+2000,47,M,Contributivo,6,Sura,Bogotá,417501,2030-04-27,Cáncer,Bajo,1,8,Adulto,Sí
